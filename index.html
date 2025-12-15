@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#030014" />
+    <title>2025 AI Milestones (Static)</title>
+    <style>
+      :root {
+        --bg: #030014;
+        --text: rgba(255, 255, 255, 0.92);
+        --muted: rgba(148, 163, 184, 0.92);
+        --border: rgba(255, 255, 255, 0.12);
+        --glass: rgba(255, 255, 255, 0.06);
+        --accent: #a78bfa;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji",
+          "Segoe UI Emoji";
+        background: radial-gradient(circle at 50% 50%, #1e1b4b 0%, #030014 56%, #020012 100%);
+        color: var(--text);
+        padding: 36px 18px 80px;
+      }
+
+      .wrap {
+        max-width: 1080px;
+        margin: 0 auto;
+      }
+
+      header {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+        padding: 10px 0 18px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      h1 {
+        font-size: 22px;
+        letter-spacing: -0.02em;
+      }
+
+      .muted {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.6;
+      }
+
+      .controls {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      input,
+      select {
+        height: 38px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text);
+        padding: 0 12px;
+        outline: none;
+      }
+
+      input::placeholder {
+        color: rgba(148, 163, 184, 0.75);
+      }
+
+      input:focus,
+      select:focus {
+        border-color: rgba(167, 139, 250, 0.45);
+        box-shadow: 0 0 0 4px rgba(167, 139, 250, 0.12);
+      }
+
+      .grid {
+        margin-top: 18px;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+      }
+
+      .card {
+        padding: 14px;
+        border-radius: 18px;
+        background: var(--glass);
+        border: 1px solid var(--border);
+        backdrop-filter: blur(10px);
+      }
+
+      .topline {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        align-items: flex-start;
+      }
+
+      .title {
+        margin-top: 10px;
+        font-weight: 650;
+        letter-spacing: -0.01em;
+        line-height: 1.2;
+      }
+
+      .chips {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+
+      .chip {
+        display: inline-flex;
+        height: 24px;
+        padding: 0 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        background: rgba(255, 255, 255, 0.03);
+        font-size: 12px;
+        align-items: center;
+      }
+
+      a {
+        color: rgba(255, 255, 255, 0.88);
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+      }
+
+      a:hover {
+        border-bottom-color: rgba(255, 255, 255, 0.32);
+      }
+
+      .empty {
+        margin-top: 18px;
+        padding: 14px;
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.10);
+      }
+
+      @media (max-width: 860px) {
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div>
+          <h1>2025 AI Development Milestones (Static)</h1>
+          <p class="muted">Reads <code>/milestones.json</code> and shows a simple searchable list.</p>
+        </div>
+
+        <div class="controls">
+          <input id="q" placeholder="Search title/notes/owner…" size="28" />
+          <select id="cat">
+            <option value="all">All categories</option>
+          </select>
+          <select id="status">
+            <option value="all">All status</option>
+            <option value="completed">Completed</option>
+            <option value="in_progress">In progress</option>
+            <option value="planned">Planned</option>
+          </select>
+        </div>
+      </header>
+
+      <div id="empty" class="empty" hidden>
+        <div style="font-weight: 650">No milestones found.</div>
+        <div class="muted" style="margin-top: 6px">
+          Ensure <code>milestones.json</code> is deployed (GitHub Pages workflow), or add YAML files under
+          <code>milestones/</code> and re-export.
+        </div>
+      </div>
+
+      <div id="grid" class="grid"></div>
+    </div>
+
+    <script type="module">
+      const grid = document.querySelector('#grid')
+      const empty = document.querySelector('#empty')
+      const q = document.querySelector('#q')
+      const cat = document.querySelector('#cat')
+      const status = document.querySelector('#status')
+
+      const base = import.meta?.env?.BASE_URL || document.baseURI
+      const url = new URL('../milestones.json', base).toString()
+
+      function uniq(xs) {
+        return Array.from(new Set(xs))
+      }
+
+      function render(items) {
+        grid.innerHTML = ''
+        empty.hidden = items.length !== 0
+        for (const m of items) {
+          const card = document.createElement('div')
+          card.className = 'card'
+
+          const chips = document.createElement('div')
+          chips.className = 'chips'
+          for (const c of [m.category, m.status, m.owner].filter(Boolean)) {
+            const el = document.createElement('span')
+            el.className = 'chip'
+            el.textContent = c
+            chips.appendChild(el)
+          }
+
+          const title = document.createElement('div')
+          title.className = 'title'
+          title.textContent = m.title || 'Untitled'
+
+          const top = document.createElement('div')
+          top.className = 'topline'
+          const date = document.createElement('div')
+          date.className = 'muted'
+          date.textContent = m.date || ''
+          top.appendChild(chips)
+          top.appendChild(date)
+
+          const notes = document.createElement('div')
+          notes.className = 'muted'
+          notes.style.marginTop = '10px'
+          notes.textContent = m.notes || ''
+
+          const links = document.createElement('div')
+          links.className = 'muted'
+          links.style.marginTop = '10px'
+          if (Array.isArray(m.links) && m.links.length) {
+            links.innerHTML = 'Sources: ' + m.links.map((l) => `<a href="${l.url}" target="_blank" rel="noreferrer">${l.title || l.url}</a>`).join(' · ')
+          } else {
+            links.textContent = m.source_file ? `File: milestones/${m.source_file}` : ''
+          }
+
+          card.appendChild(top)
+          card.appendChild(title)
+          if (m.notes) card.appendChild(notes)
+          if (links.textContent || links.innerHTML) card.appendChild(links)
+          grid.appendChild(card)
+        }
+      }
+
+      function applyFilters(all) {
+        const query = q.value.trim().toLowerCase()
+        const catValue = cat.value
+        const statusValue = status.value
+
+        const filtered = all.filter((m) => {
+          const matchQuery =
+            !query ||
+            (m.title || '').toLowerCase().includes(query) ||
+            (m.notes || '').toLowerCase().includes(query) ||
+            (m.owner || '').toLowerCase().includes(query)
+          const matchCat = catValue === 'all' || m.category === catValue
+          const matchStatus = statusValue === 'all' || m.status === statusValue
+          return matchQuery && matchCat && matchStatus
+        })
+        render(filtered)
+      }
+
+      async function main() {
+        const resp = await fetch(url, { cache: 'no-store' })
+        const json = await resp.json()
+        const all = Array.isArray(json) ? json : []
+
+        const cats = uniq(all.map((m) => m.category).filter(Boolean)).sort()
+        for (const c of cats) {
+          const o = document.createElement('option')
+          o.value = c
+          o.textContent = c
+          cat.appendChild(o)
+        }
+
+        const onChange = () => applyFilters(all)
+        q.addEventListener('input', onChange)
+        cat.addEventListener('change', onChange)
+        status.addEventListener('change', onChange)
+
+        applyFilters(all)
+      }
+
+      main().catch((e) => {
+        console.error(e)
+        empty.hidden = false
+      })
+    </script>
+  </body>
+</html>
+
