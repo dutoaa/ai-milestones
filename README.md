@@ -11,6 +11,13 @@ This page provides a lightweight, searchable view of AI milestones collected fro
 
 The data is updated automatically via GitHub Actions.
 
+## Features
+
+- **Latest Milestones**: Up-to-date view of AI development milestones
+- **Archives**: Historical snapshots for tracking progress over time
+- **Search & Filter**: Filter by category, status, and search keywords
+- **Responsive Design**: Works on desktop and mobile devices
+
 ## Data Source
 
 The milestones are collected and curated in the private repository and synced here for public access.
@@ -19,7 +26,8 @@ Last updated: Auto-generated on each sync
 
 ## View the Site
 
-Visit: https://dutoaa.github.io/ai-milestones/
+- **[Home](https://dutoaa.github.io/ai-milestones/)**: Latest milestones
+- **[Archives](https://dutoaa.github.io/ai-milestones/archives.html)**: Browse historical snapshots
 
 ## Technical Details
 
@@ -27,3 +35,4 @@ Visit: https://dutoaa.github.io/ai-milestones/
 - No build step required
 - Data loaded from `milestones.json`
 - Filtering by category, status, and search
+- Daily archives of milestone snapshots

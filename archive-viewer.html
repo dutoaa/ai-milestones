@@ -1,0 +1,429 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#030014" />
+    <title>Archived Milestones - AI Development Milestones</title>
+    <style>
+      :root {
+        --bg: #030014;
+        --text: rgba(255, 255, 255, 0.92);
+        --muted: rgba(148, 163, 184, 0.92);
+        --border: rgba(255, 255, 255, 0.12);
+        --glass: rgba(255, 255, 255, 0.06);
+        --accent: #a78bfa;
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji",
+          "Segoe UI Emoji";
+        background: radial-gradient(circle at 50% 50%, #1e1b4b 0%, #030014 56%, #020012 100%);
+        color: var(--text);
+        padding: 36px 18px 80px;
+      }
+
+      .wrap {
+        max-width: 1080px;
+        margin: 0 auto;
+      }
+
+      header {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+        padding: 10px 0 18px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      h1 {
+        font-size: 22px;
+        letter-spacing: -0.02em;
+      }
+
+      .muted {
+        color: var(--muted);
+        font-size: 14px;
+        line-height: 1.6;
+      }
+
+      .back-link {
+        display: inline-block;
+        margin-top: 8px;
+        color: var(--accent);
+        text-decoration: none;
+        font-size: 14px;
+      }
+
+      .back-link:hover {
+        text-decoration: underline;
+      }
+
+      .archive-badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 6px;
+        background: rgba(251, 191, 36, 0.15);
+        border: 1px solid rgba(251, 191, 36, 0.3);
+        color: rgba(251, 191, 36, 0.92);
+        font-size: 12px;
+        font-weight: 600;
+        margin-left: 8px;
+      }
+
+      .controls {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      input,
+      select {
+        height: 38px;
+        border-radius: 12px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text);
+        padding: 0 12px;
+        outline: none;
+      }
+
+      input::placeholder {
+        color: rgba(148, 163, 184, 0.75);
+      }
+
+      input:focus,
+      select:focus {
+        border-color: rgba(167, 139, 250, 0.45);
+        box-shadow: 0 0 0 4px rgba(167, 139, 250, 0.12);
+      }
+
+      .grid {
+        margin-top: 18px;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+      }
+
+      .card {
+        padding: 14px;
+        border-radius: 18px;
+        background: var(--glass);
+        border: 1px solid var(--border);
+        backdrop-filter: blur(10px);
+      }
+
+      .card-date {
+        font-size: 12px;
+        color: var(--muted);
+        margin-bottom: 6px;
+      }
+
+      .card-title {
+        font-size: 15px;
+        font-weight: 650;
+        letter-spacing: -0.01em;
+        line-height: 1.3;
+        margin-bottom: 8px;
+      }
+
+      .card-notes {
+        font-size: 13px;
+        color: var(--muted);
+        line-height: 1.5;
+        margin-bottom: 10px;
+      }
+
+      .card-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        align-items: center;
+        font-size: 12px;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        height: 22px;
+        padding: 0 8px;
+        border-radius: 6px;
+        border: 1px solid rgba(255, 255, 255, 0.12);
+        background: rgba(255, 255, 255, 0.03);
+      }
+
+      .badge.status-completed {
+        background: rgba(34, 197, 94, 0.15);
+        border-color: rgba(34, 197, 94, 0.3);
+        color: rgba(34, 197, 94, 0.92);
+      }
+
+      .badge.status-in_progress {
+        background: rgba(59, 130, 246, 0.15);
+        border-color: rgba(59, 130, 246, 0.3);
+        color: rgba(59, 130, 246, 0.92);
+      }
+
+      .badge.status-planned {
+        background: rgba(148, 163, 184, 0.15);
+        border-color: rgba(148, 163, 184, 0.3);
+        color: rgba(148, 163, 184, 0.92);
+      }
+
+      .card-links {
+        margin-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .link {
+        font-size: 13px;
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      .link:hover {
+        text-decoration: underline;
+      }
+
+      .empty {
+        margin-top: 18px;
+        padding: 18px;
+        border-radius: 18px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.10);
+        text-align: center;
+      }
+
+      @media (max-width: 768px) {
+        h1 {
+          font-size: 20px;
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <div>
+          <h1>🏆 AI Development Milestones<span class="archive-badge">ARCHIVED</span></h1>
+          <p class="muted" id="subtitle">Historical snapshot of AI development milestones</p>
+          <a href="archives.html" class="back-link">← Back to archives</a>
+        </div>
+
+        <div class="controls">
+          <input id="q" placeholder="Search milestones…" size="28" />
+          <select id="status">
+            <option value="all">All statuses</option>
+          </select>
+          <select id="category">
+            <option value="all">All categories</option>
+          </select>
+        </div>
+      </header>
+
+      <div id="empty" class="empty" hidden>
+        <div style="font-weight: 650">No milestones found.</div>
+        <div class="muted" style="margin-top: 6px">
+          The archive file could not be loaded or is empty.
+        </div>
+      </div>
+
+      <div id="grid" class="grid"></div>
+    </div>
+
+    <script type="module">
+      const grid = document.querySelector('#grid')
+      const empty = document.querySelector('#empty')
+      const q = document.querySelector('#q')
+      const statusFilter = document.querySelector('#status')
+      const categoryFilter = document.querySelector('#category')
+      const subtitle = document.querySelector('#subtitle')
+
+      const base = import.meta?.env?.BASE_URL || document.baseURI
+
+      // Get filename from URL query parameter
+      const params = new URLSearchParams(window.location.search)
+      const filename = params.get('file')
+
+      if (!filename) {
+        empty.hidden = false
+        subtitle.textContent = 'No archive file specified'
+        throw new Error('No file parameter specified')
+      }
+
+      const url = new URL(`./archives/${filename}`, base).toString()
+
+      // Extract date from filename for display
+      const dateMatch = filename.match(/milestones-(\d{4}-\d{2}-\d{2})\.json/)
+      if (dateMatch) {
+        const [year, month, day] = dateMatch[1].split('-').map(Number)
+        const date = new Date(year, month - 1, day)
+        subtitle.textContent = `Archived on ${date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}`
+      }
+
+      function uniq(xs) {
+        return Array.from(new Set(xs))
+      }
+
+      function formatDate(dateStr) {
+        try {
+          const [year, month, day] = dateStr.split('-').map(Number)
+          const date = new Date(year, month - 1, day)
+          return date.toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric'
+          })
+        } catch {
+          return dateStr
+        }
+      }
+
+      function render(items) {
+        grid.innerHTML = ''
+        empty.hidden = items.length !== 0
+
+        for (const milestone of items) {
+          const card = document.createElement('div')
+          card.className = 'card'
+
+          // Date
+          const dateDiv = document.createElement('div')
+          dateDiv.className = 'card-date'
+          dateDiv.textContent = formatDate(milestone.date)
+
+          // Title
+          const title = document.createElement('div')
+          title.className = 'card-title'
+          title.textContent = milestone.title || 'Untitled'
+
+          // Notes
+          const notes = document.createElement('div')
+          notes.className = 'card-notes'
+          notes.textContent = milestone.notes || ''
+
+          // Meta (status, category, owner)
+          const meta = document.createElement('div')
+          meta.className = 'card-meta'
+
+          const statusBadge = document.createElement('span')
+          statusBadge.className = `badge status-${milestone.status || 'planned'}`
+          statusBadge.textContent = milestone.status || 'planned'
+          meta.appendChild(statusBadge)
+
+          if (milestone.category) {
+            const categoryBadge = document.createElement('span')
+            categoryBadge.className = 'badge'
+            categoryBadge.textContent = milestone.category
+            meta.appendChild(categoryBadge)
+          }
+
+          if (milestone.owner) {
+            const ownerBadge = document.createElement('span')
+            ownerBadge.className = 'badge'
+            ownerBadge.textContent = milestone.owner
+            meta.appendChild(ownerBadge)
+          }
+
+          card.appendChild(dateDiv)
+          card.appendChild(title)
+          if (milestone.notes) card.appendChild(notes)
+          card.appendChild(meta)
+
+          // Links
+          if (Array.isArray(milestone.links) && milestone.links.length) {
+            const linksDiv = document.createElement('div')
+            linksDiv.className = 'card-links'
+            for (const link of milestone.links) {
+              const a = document.createElement('a')
+              a.className = 'link'
+              a.href = link.url
+              a.textContent = link.title || 'Link'
+              a.target = '_blank'
+              a.rel = 'noreferrer'
+              linksDiv.appendChild(a)
+            }
+            card.appendChild(linksDiv)
+          }
+
+          grid.appendChild(card)
+        }
+      }
+
+      function applyFilters(all) {
+        const query = q.value.trim().toLowerCase()
+        const statusValue = statusFilter.value
+        const categoryValue = categoryFilter.value
+
+        const filtered = all.filter((m) => {
+          const matchQuery =
+            !query ||
+            (m.title || '').toLowerCase().includes(query) ||
+            (m.notes || '').toLowerCase().includes(query) ||
+            (m.owner || '').toLowerCase().includes(query)
+
+          const matchStatus = statusValue === 'all' || m.status === statusValue
+          const matchCategory = categoryValue === 'all' || m.category === categoryValue
+
+          return matchQuery && matchStatus && matchCategory
+        })
+
+        render(filtered)
+      }
+
+      async function main() {
+        try {
+          const resp = await fetch(url, { cache: 'no-store' })
+          const json = await resp.json()
+          const all = Array.isArray(json) ? json : []
+
+          // Populate status filter
+          const statuses = uniq(all.map((m) => m.status).filter(Boolean)).sort()
+          for (const s of statuses) {
+            const o = document.createElement('option')
+            o.value = s
+            o.textContent = s
+            statusFilter.appendChild(o)
+          }
+
+          // Populate category filter
+          const categories = uniq(all.map((m) => m.category).filter(Boolean)).sort()
+          for (const c of categories) {
+            const o = document.createElement('option')
+            o.value = c
+            o.textContent = c
+            categoryFilter.appendChild(o)
+          }
+
+          // Set up event listeners
+          const onChange = () => applyFilters(all)
+          q.addEventListener('input', onChange)
+          statusFilter.addEventListener('change', onChange)
+          categoryFilter.addEventListener('change', onChange)
+
+          applyFilters(all)
+        } catch (e) {
+          console.error(e)
+          empty.hidden = false
+        }
+      }
+
+      main()
+    </script>
+  </body>
+</html>
