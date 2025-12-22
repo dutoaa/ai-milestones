@@ -2705,27 +2705,6 @@
     "source_file": "global/2025-12/2025-12-18-huggingface-tokenization_in_transformers_v5_simpler_clearer_and_more_modular.yaml"
   },
   {
-    "id": "2025-12-18-microsoft_ai-ai_transformation_in_financial_services_5_predictors_for_success_in_2026",
-    "date": "2025-12-18",
-    "title": "AI transformation in financial services: 5 predictors for success in 2026",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Financial services businesses are busily adopting agentic AI, with Frontier Firms leading transformation. Here are five critical predictors of success that will differentiate the leaders in 2026.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/financial-services/2025/12/18/ai-transformation-in-financial-services-5-predictors-for-success-in-2026/\">AI transformation in financial services: 5 predictors for success in 2026</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/industry/blog/financial-services/2025/12/18/ai-transformation-in-financial-services-5-predictors-for-success-in-2026/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-18-microsoft_ai-ai_transformation_in_financial_services_5_predictors_for_success_in_2026.yaml"
-  },
-  {
     "id": "2025-12-18-openai-addendum_to_gpt_5_2_system_card_gpt_5_2_codex",
     "date": "2025-12-18",
     "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
@@ -2825,7 +2804,7 @@
     "links": [
       {
         "title": "openai source",
-        "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+        "url": "https://openai.com/index/gpt-5-2-codex"
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-introducing_gpt_5_2_codex.yaml"
@@ -2850,27 +2829,6 @@
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-updating_our_model_spec_with_teen_protections.yaml"
-  },
-  {
-    "id": "2025-12-19-anthropic-dec_19_2025_policy_sharing_our_compliance_framework_for_california_s_tra",
-    "date": "2025-12-19",
-    "title": "Dec 19, 2025 Policy Sharing our compliance framework for California's Transparency in Frontier AI Act",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "anthropic",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/compliance-framework-SB53"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-19-anthropic-dec_19_2025_policy_sharing_our_compliance_framework_for_california_s_tra.yaml"
   },
   {
     "id": "2025-12-19-google_ai-40_of_our_most_helpful_ai_tips_from_2025",
