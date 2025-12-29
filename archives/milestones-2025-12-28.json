@@ -1046,27 +1046,6 @@
     "source_file": "global/2025-10/2025-10-29-openai-technical_report_performance_and_baseline_evaluations_of_gpt_oss_safegua.yaml"
   },
   {
-    "id": "2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2",
-    "date": "2025-10-30",
-    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2.yaml"
-  },
-  {
     "id": "2025-10-30-microsoft_ai-3_ways_to_navigate_changing_tariffs_with_ai_agents",
     "date": "2025-10-30",
     "title": "3 ways to navigate changing tariffs with AI agents",

@@ -1046,27 +1046,6 @@
     "source_file": "global/2025-10/2025-10-29-openai-technical_report_performance_and_baseline_evaluations_of_gpt_oss_safegua.yaml"
   },
   {
-    "id": "2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2",
-    "date": "2025-10-30",
-    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2.yaml"
-  },
-  {
     "id": "2025-10-30-microsoft_ai-3_ways_to_navigate_changing_tariffs_with_ai_agents",
     "date": "2025-10-30",
     "title": "3 ways to navigate changing tariffs with AI agents",
@@ -1170,48 +1149,6 @@
       }
     ],
     "source_file": "global/2025-10/2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher.yaml"
-  },
-  {
-    "id": "2025-09-11-huggingface-introducing_the_palmyra_mini_family_powerful_lightweight_and_ready_to_re",
-    "date": "2025-09-11",
-    "title": "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/Writer/announcing-palmyra-mini"
-      }
-    ],
-    "source_file": "global/2025-09/2025-09-11-huggingface-introducing_the_palmyra_mini_family_powerful_lightweight_and_ready_to_re.yaml"
-  },
-  {
-    "id": "2025-09-15-huggingface-visible_watermarking_with_gradio",
-    "date": "2025-09-15",
-    "title": "Visible Watermarking with Gradio",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/watermarking-with-gradio"
-      }
-    ],
-    "source_file": "global/2025-09/2025-09-15-huggingface-visible_watermarking_with_gradio.yaml"
   },
   {
     "id": "2025-09-16-huggingface-lerobotdataset_v3_0_bringing_large_scale_datasets_to_lerobot",
@@ -2976,132 +2913,6 @@
       }
     ],
     "source_file": "global/2025-12/2025-12-19-google_ai-5_ways_ai_agents_will_transform_the_way_we_work_in_2026.yaml"
-  },
-  {
-    "id": "2025-12-22-google_ai-60_of_our_biggest_ai_announcements_in_2025",
-    "date": "2025-12-22",
-    "title": "60 of our biggest AI announcements in 2025",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "A translucent blue rectangle lies against a black background with blue dots and lines. Within the rectangle is text saying 2025, along with a grid of 12 images, each representing a big Google AI moment from the year.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/technology/ai/google-ai-news-recap-2025/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-22-google_ai-60_of_our_biggest_ai_announcements_in_2025.yaml"
-  },
-  {
-    "id": "2025-12-22-openai-continuously_hardening_chatgpt_atlas_against_prompt_injection",
-    "date": "2025-12-22",
-    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "openai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/hardening-atlas-against-prompt-injection"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-22-openai-continuously_hardening_chatgpt_atlas_against_prompt_injection.yaml"
-  },
-  {
-    "id": "2025-12-22-openai-one_in_a_million_celebrating_the_customers_shaping_ai_s_future",
-    "date": "2025-12-22",
-    "title": "One in a million: celebrating the customers shaping AI’s future",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "openai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/one-in-a-million-customers"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-22-openai-one_in_a_million_celebrating_the_customers_shaping_ai_s_future.yaml"
-  },
-  {
-    "id": "2025-12-23-deepmind-google_s_year_in_review_8_areas_with_research_breakthroughs_in_2025",
-    "date": "2025-12-23",
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Google 2025 recap: Research breakthroughs of the year",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-23-deepmind-google_s_year_in_review_8_areas_with_research_breakthroughs_in_2025.yaml"
-  },
-  {
-    "id": "2025-12-23-google_ai-google_s_year_in_review_8_areas_with_research_breakthroughs_in_2025",
-    "date": "2025-12-23",
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "The image depicts a visual collage or mosaic of multiple different images, with one image in the center that is black and displays the text \"Gemini 3\".",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/technology/ai/2025-research-breakthroughs/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-23-google_ai-google_s_year_in_review_8_areas_with_research_breakthroughs_in_2025.yaml"
-  },
-  {
-    "id": "2025-12-23-huggingface-aprielguard_a_guardrail_for_safety_and_adversarial_robustness_in_modern_",
-    "date": "2025-12-23",
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-23-huggingface-aprielguard_a_guardrail_for_safety_and_adversarial_robustness_in_modern_.yaml"
   },
   {
     "id": "2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod",
