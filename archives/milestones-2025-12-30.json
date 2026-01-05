@@ -3104,27 +3104,6 @@
     "source_file": "global/2025-12/2025-12-23-huggingface-aprielguard_a_guardrail_for_safety_and_adversarial_robustness_in_modern_.yaml"
   },
   {
-    "id": "2025-12-29-google_ai-the_latest_ai_news_we_announced_in_december",
-    "date": "2025-12-29",
-    "title": "The latest AI news we announced in December",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "Three application preview cards: AI chess interface, Gemini 3 Flash logo, Google search bar.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "google_ai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/technology/ai/google-ai-updates-december-2025/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-29-google_ai-the_latest_ai_news_we_announced_in_december.yaml"
-  },
-  {
     "id": "2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod",
     "date": "2025-07-10",
     "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
