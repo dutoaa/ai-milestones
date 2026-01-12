@@ -563,27 +563,6 @@
     "source_file": "global/2025-05/2025-05-20-deepmind-synthid_detector_a_new_portal_to_help_identify_ai_generated_content.yaml"
   },
   {
-    "id": "2025-05-20-google_ai-i_o_2025",
-    "date": "2025-05-20",
-    "title": "I/O 2025",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_hero.max-600x600.format-webp.webp\" />We’re doing cutting-edge research to build the most helpful AI that’s more intelligent, agentic and personalized.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2025-collection/"
-      }
-    ],
-    "source_file": "global/2025-05/2025-05-20-google_ai-i_o_2025.yaml"
-  },
-  {
     "id": "2025-05-23-huggingface-dell_enterprise_hub_is_all_you_need_to_build_ai_on_premises",
     "date": "2025-05-23",
     "title": "Dell Enterprise Hub is all you need to build AI on premises",
@@ -687,27 +666,6 @@
       }
     ],
     "source_file": "global/2025-04/2025-04-02-deepmind-taking_a_responsible_path_to_agi.yaml"
-  },
-  {
-    "id": "2025-04-09-google_ai-google_cloud_next_25",
-    "date": "2025-04-09",
-    "title": "Google Cloud Next 25",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Collection_Hero.max-600x600.format-webp.webp\" />Here’s a look at what we announced at Google Cloud Next 25.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/"
-      }
-    ],
-    "source_file": "global/2025-04/2025-04-09-google_ai-google_cloud_next_25.yaml"
   },
   {
     "id": "2025-04-14-deepmind-dolphingemma_how_google_ai_is_helping_decode_dolphin_communication",
@@ -2178,27 +2136,6 @@
       }
     ],
     "source_file": "global/2025-03/2025-03-12-deepmind-introducing_gemma_3.yaml"
-  },
-  {
-    "id": "2025-03-18-google_ai-the_check_up_with_google",
-    "date": "2025-03-18",
-    "title": "The Check Up with Google",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CheckUpCollectionHeader.max-600x600.format-webp.webp\" />At The Check Up 2025, we shared more about the potential of AI in health and our latest health AI research, partnership and product updates.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/"
-      }
-    ],
-    "source_file": "global/2025-03/2025-03-18-google_ai-the_check_up_with_google.yaml"
   },
   {
     "id": "2025-03-25-deepmind-gemini_2_5_our_most_intelligent_ai_model",
@@ -3711,27 +3648,6 @@
       }
     ],
     "source_file": "global/2025-11/2025-11-25-google_ai-get_an_in_depth_look_at_gemini_3_with_ceo_sundar_pichai.yaml"
-  },
-  {
-    "id": "2025-11-25-google_ai-the_google_guide_for_holiday_help",
-    "date": "2025-11-25",
-    "title": "The Google guide for holiday help",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Collection_header.max-600x600.format-webp.webp\" />Learn more about using Google products like Gemini, Search, Shopping, Pixel and more over the holidays.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/holiday-planning-ai-gemini-tips/"
-      }
-    ],
-    "source_file": "global/2025-11/2025-11-25-google_ai-the_google_guide_for_holiday_help.yaml"
   },
   {
     "id": "2025-11-25-huggingface-continuous_batching_from_first_principles",
