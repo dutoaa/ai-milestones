@@ -1046,27 +1046,6 @@
     "source_file": "global/2025-10/2025-10-29-huggingface-on_the_shifting_global_compute_landscape.yaml"
   },
   {
-    "id": "2025-10-29-openai-gpt_oss_safeguard_technical_report",
-    "date": "2025-10-29",
-    "title": "gpt-oss-safeguard technical report",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-openai-gpt_oss_safeguard_technical_report.yaml"
-  },
-  {
     "id": "2025-10-29-openai-introducing_gpt_oss_safeguard",
     "date": "2025-10-29",
     "title": "Introducing gpt-oss-safeguard",
@@ -2993,7 +2972,7 @@
     "links": [
       {
         "title": "openai source",
-        "url": "https://openai.com/index/gpt-5-2-codex"
+        "url": "https://openai.com/index/introducing-gpt-5-2-codex"
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-introducing_gpt_5_2_codex.yaml"
