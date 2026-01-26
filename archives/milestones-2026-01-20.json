@@ -2705,27 +2705,6 @@
     "source_file": "global/2025-12/2025-12-17-huggingface-the_open_evaluation_standard_benchmarking_nvidia_nemotron_3_nano_with_ne.yaml"
   },
   {
-    "id": "2025-12-17-microsoft_ai-microsoft_named_a_leader_in_gartner_magic_quadrant_for_ai_application_de",
-    "date": "2025-12-17",
-    "title": "Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>We believe this recognition shows our commitment to pioneering agent frameworks, orchestration, and enterprise-grade governance.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/\">Microsoft named a Leader in Gartner® Magic Quadrant™ for AI Application Development Platforms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartner-magic-quadrant-for-ai-application-development-platforms/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-17-microsoft_ai-microsoft_named_a_leader_in_gartner_magic_quadrant_for_ai_application_de.yaml"
-  },
-  {
     "id": "2025-12-17-openai-developers_can_now_submit_apps_to_chatgpt",
     "date": "2025-12-17",
     "title": "Developers can now submit apps to ChatGPT",
@@ -3014,7 +2993,7 @@
     "links": [
       {
         "title": "openai source",
-        "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+        "url": "https://openai.com/index/gpt-5-2-codex"
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-introducing_gpt_5_2_codex.yaml"
