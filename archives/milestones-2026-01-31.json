@@ -3203,7 +3203,7 @@
     "links": [
       {
         "title": "openai source",
-        "url": "https://openai.com/index/introducing-gpt-5-2-codex"
+        "url": "https://openai.com/index/gpt-5-2-codex"
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-introducing_gpt_5_2_codex.yaml"
@@ -3438,27 +3438,6 @@
       }
     ],
     "source_file": "global/2025-12/2025-12-29-google_ai-the_latest_ai_news_we_announced_in_december.yaml"
-  },
-  {
-    "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
-    "date": "2025-07-10",
-    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/async-robot-inference"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution.yaml"
   },
   {
     "id": "2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod",

@@ -815,69 +815,6 @@
     "source_file": "global/2025-04/2025-04-24-deepmind-music_ai_sandbox_now_with_new_features_and_broader_access.yaml"
   },
   {
-    "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
-    "date": "2025-10-24",
-    "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-behind_ancestra_combining_veo_with_live_action_filmmaking",
-    "date": "2025-10-25",
-    "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "deepmind",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-behind_ancestra_combining_veo_with_live_action_filmmaking.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-gemini_2_5_flash_lite_is_now_ready_for_scaled_production_use",
-    "date": "2025-10-25",
-    "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-gemini_2_5_flash_lite_is_now_ready_for_scaled_production_use.yaml"
-  },
-  {
     "id": "2025-10-25-deepmind-introducing_gemma_3n_the_developer_guide",
     "date": "2025-10-25",
     "title": "Introducing Gemma 3n: The developer guide",
@@ -3438,27 +3375,6 @@
       }
     ],
     "source_file": "global/2025-12/2025-12-29-google_ai-the_latest_ai_news_we_announced_in_december.yaml"
-  },
-  {
-    "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
-    "date": "2025-07-10",
-    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/async-robot-inference"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution.yaml"
   },
   {
     "id": "2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod",
