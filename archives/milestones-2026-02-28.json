@@ -3014,7 +3014,7 @@
     "links": [
       {
         "title": "openai source",
-        "url": "https://openai.com/index/gpt-5-2-codex"
+        "url": "https://openai.com/index/introducing-gpt-5-2-codex"
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-introducing_gpt_5_2_codex.yaml"
@@ -3858,48 +3858,6 @@
       }
     ],
     "source_file": "global/2025-10/2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher.yaml"
-  },
-  {
-    "id": "2025-11-21-huggingface-20x_faster_trl_fine_tuning_with_rapidfire_ai",
-    "date": "2025-11-21",
-    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/rapidfireai"
-      }
-    ],
-    "source_file": "global/2025-11/2025-11-21-huggingface-20x_faster_trl_fine_tuning_with_rapidfire_ai.yaml"
-  },
-  {
-    "id": "2025-11-21-huggingface-open_asr_leaderboard_trends_and_insights_with_new_multilingual_long_form",
-    "date": "2025-11-21",
-    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard"
-      }
-    ],
-    "source_file": "global/2025-11/2025-11-21-huggingface-open_asr_leaderboard_trends_and_insights_with_new_multilingual_long_form.yaml"
   },
   {
     "id": "2025-11-24-aws_ai-aws_weekly_roundup_how_to_join_aws_re_invent_2025_plus_kiro_ga_and_lots_",

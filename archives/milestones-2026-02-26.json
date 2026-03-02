@@ -59,33 +59,12 @@
     "source_file": "2025-12-15-initial_repo_import.yaml"
   },
   {
-    "id": "2025-02-04-deepmind-updating_the_frontier_safety_framework",
-    "date": "2025-02-04",
-    "title": "Updating the Frontier Safety Framework",
+    "id": "2025-06-03-deepmind-advanced_audio_dialog_and_generation_with_gemini_2_5",
+    "date": "2025-06-03",
+    "title": "Advanced audio dialog and generation with Gemini 2.5",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "deepmind",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/updating-the-frontier-safety-framework/"
-      }
-    ],
-    "source_file": "global/2025-02/2025-02-04-deepmind-updating_the_frontier_safety_framework.yaml"
-  },
-  {
-    "id": "2025-02-05-deepmind-gemini_2_0_is_now_available_to_everyone",
-    "date": "2025-02-05",
-    "title": "Gemini 2.0 is now available to everyone",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "We’re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
+    "notes": "Gemini 2.5 has new capabilities in AI-powered audio dialog and generation.",
     "category": "Industry",
     "tags": [
       "global",
@@ -95,120 +74,15 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-2-0-is-now-available-to-everyone/"
+        "url": "https://deepmind.google/blog/advanced-audio-dialog-and-generation-with-gemini-25/"
       }
     ],
-    "source_file": "global/2025-02/2025-02-05-deepmind-gemini_2_0_is_now_available_to_everyone.yaml"
+    "source_file": "global/2025-06/2025-06-03-deepmind-advanced_audio_dialog_and_generation_with_gemini_2_5.yaml"
   },
   {
-    "id": "2025-02-25-deepmind-start_building_with_gemini_2_0_flash_and_flash_lite",
-    "date": "2025-02-25",
-    "title": "Start building with Gemini 2.0 Flash and Flash-Lite",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Gemini 2.0 Flash-Lite is now generally available in the Gemini API for production use in Google AI Studio and for enterprise customers on Vertex AI",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/start-building-with-gemini-20-flash-and-flash-lite/"
-      }
-    ],
-    "source_file": "global/2025-02/2025-02-25-deepmind-start_building_with_gemini_2_0_flash_and_flash_lite.yaml"
-  },
-  {
-    "id": "2025-08-01-huggingface-3lm_a_benchmark_for_arabic_llms_in_stem_and_code",
-    "date": "2025-08-01",
-    "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/tiiuae/3lm-benchmark"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-01-huggingface-3lm_a_benchmark_for_arabic_llms_in_stem_and_code.yaml"
-  },
-  {
-    "id": "2025-08-04-huggingface-measuring_open_source_llama_nemotron_models_on_deepresearch_bench",
-    "date": "2025-08-04",
-    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-04-huggingface-measuring_open_source_llama_nemotron_models_on_deepresearch_bench.yaml"
-  },
-  {
-    "id": "2025-08-05-huggingface-welcome_gpt_oss_the_new_open_source_model_family_from_openai",
-    "date": "2025-08-05",
-    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/welcome-openai-gpt-oss"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-05-huggingface-welcome_gpt_oss_the_new_open_source_model_family_from_openai.yaml"
-  },
-  {
-    "id": "2025-08-07-huggingface-vision_language_model_alignment_in_trl",
-    "date": "2025-08-07",
-    "title": "Vision Language Model Alignment in TRL ⚡️",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/trl-vlm-alignment"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-07-huggingface-vision_language_model_alignment_in_trl.yaml"
-  },
-  {
-    "id": "2025-08-08-huggingface-accelerate_nd_parallel_a_guide_to_efficient_multi_gpu_training",
-    "date": "2025-08-08",
-    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
+    "id": "2025-06-11-huggingface-introducing_training_cluster_as_a_service_a_new_collaboration_with_nvidi",
+    "date": "2025-06-11",
+    "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -221,141 +95,15 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/accelerate-nd-parallel"
+        "url": "https://huggingface.co/blog/nvidia-training-cluster"
       }
     ],
-    "source_file": "global/2025-08/2025-08-08-huggingface-accelerate_nd_parallel_a_guide_to_efficient_multi_gpu_training.yaml"
+    "source_file": "global/2025-06/2025-06-11-huggingface-introducing_training_cluster_as_a_service_a_new_collaboration_with_nvidi.yaml"
   },
   {
-    "id": "2025-08-08-huggingface-introducing_ai_sheets_a_tool_to_work_with_datasets_using_open_ai_models",
-    "date": "2025-08-08",
-    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/aisheets"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-08-huggingface-introducing_ai_sheets_a_tool_to_work_with_datasets_using_open_ai_models.yaml"
-  },
-  {
-    "id": "2025-08-12-huggingface-filbench_can_llms_understand_and_generate_filipino",
-    "date": "2025-08-12",
-    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/filbench"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-12-huggingface-filbench_can_llms_understand_and_generate_filipino.yaml"
-  },
-  {
-    "id": "2025-08-12-huggingface-neural_super_sampling_is_here",
-    "date": "2025-08-12",
-    "title": "Neural Super Sampling is here!",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/Arm/neural-super-sampling"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-12-huggingface-neural_super_sampling_is_here.yaml"
-  },
-  {
-    "id": "2025-08-12-huggingface-textquests_how_good_are_llms_at_text_based_video_games",
-    "date": "2025-08-12",
-    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/textquests"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-12-huggingface-textquests_how_good_are_llms_at_text_based_video_games.yaml"
-  },
-  {
-    "id": "2025-08-13-huggingface-arm_executorch_0_7_bringing_generative_ai_to_the_masses",
-    "date": "2025-08-13",
-    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-13-huggingface-arm_executorch_0_7_bringing_generative_ai_to_the_masses.yaml"
-  },
-  {
-    "id": "2025-08-14-huggingface-kimina_prover_rl",
-    "date": "2025-08-14",
-    "title": "Kimina-Prover-RL",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-14-huggingface-kimina_prover_rl.yaml"
-  },
-  {
-    "id": "2025-08-18-huggingface-from_zero_to_gpu_a_guide_to_building_and_scaling_production_ready_cuda_k",
-    "date": "2025-08-18",
-    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
+    "id": "2025-06-11-huggingface-post_training_isaac_gr00t_n1_5_for_lerobot_so_101_arm",
+    "date": "2025-06-11",
+    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -368,78 +116,36 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/kernel-builder"
+        "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning"
       }
     ],
-    "source_file": "global/2025-08/2025-08-18-huggingface-from_zero_to_gpu_a_guide_to_building_and_scaling_production_ready_cuda_k.yaml"
+    "source_file": "global/2025-06/2025-06-11-huggingface-post_training_isaac_gr00t_n1_5_for_lerobot_so_101_arm.yaml"
   },
   {
-    "id": "2025-08-18-huggingface-mcp_for_research_how_to_connect_ai_to_research_tools",
-    "date": "2025-08-18",
-    "title": "MCP for Research: How to Connect AI to Research Tools",
+    "id": "2025-06-12-deepmind-how_we_re_supporting_better_tropical_cyclone_prediction_with_ai",
+    "date": "2025-06-12",
+    "title": "How we're supporting better tropical cyclone prediction with AI",
     "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
+    "owner": "deepmind",
+    "notes": "We’re launching Weather Lab, featuring our experimental cyclone predictions, and we’re partnering with the U.S. National Hurricane Center to support their forecasts and warnings this cyclone season.",
     "category": "Industry",
     "tags": [
       "global",
-      "huggingface",
+      "deepmind",
       "industry"
     ],
     "links": [
       {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/mcp-for-research"
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai/"
       }
     ],
-    "source_file": "global/2025-08/2025-08-18-huggingface-mcp_for_research_how_to_connect_ai_to_research_tools.yaml"
+    "source_file": "global/2025-06/2025-06-12-deepmind-how_we_re_supporting_better_tropical_cyclone_prediction_with_ai.yaml"
   },
   {
-    "id": "2025-08-19-huggingface-generate_images_with_claude_and_hugging_face",
-    "date": "2025-08-19",
-    "title": "Generate Images with Claude and Hugging Face",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/claude-and-mcp"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-19-huggingface-generate_images_with_claude_and_hugging_face.yaml"
-  },
-  {
-    "id": "2025-08-20-huggingface-nvidia_releases_6_million_multi_lingual_reasoning_dataset",
-    "date": "2025-08-20",
-    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1"
-      }
-    ],
-    "source_file": "global/2025-08/2025-08-20-huggingface-nvidia_releases_6_million_multi_lingual_reasoning_dataset.yaml"
-  },
-  {
-    "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
-    "date": "2025-07-10",
-    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+    "id": "2025-06-12-huggingface-featherless_ai_on_hugging_face_inference_providers",
+    "date": "2025-06-12",
+    "title": "Featherless AI on Hugging Face Inference Providers 🔥",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -452,36 +158,15 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/async-robot-inference"
+        "url": "https://huggingface.co/blog/inference-providers-featherless"
       }
     ],
-    "source_file": "global/2025-07/2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution.yaml"
+    "source_file": "global/2025-06/2025-06-12-huggingface-featherless_ai_on_hugging_face_inference_providers.yaml"
   },
   {
-    "id": "2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod",
-    "date": "2025-07-10",
-    "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/AI-MO/kimina-prover"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod.yaml"
-  },
-  {
-    "id": "2025-07-15-huggingface-migrating_the_hub_from_git_lfs_to_xet",
-    "date": "2025-07-15",
-    "title": "Migrating the Hub from Git LFS to Xet",
+    "id": "2025-06-12-huggingface-how_long_prompts_block_other_requests_optimizing_llm_performance",
+    "date": "2025-06-12",
+    "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -494,15 +179,15 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/migrating-the-hub-to-xet"
+        "url": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts"
       }
     ],
-    "source_file": "global/2025-07/2025-07-15-huggingface-migrating_the_hub_from_git_lfs_to_xet.yaml"
+    "source_file": "global/2025-06/2025-06-12-huggingface-how_long_prompts_block_other_requests_optimizing_llm_performance.yaml"
   },
   {
-    "id": "2025-07-16-huggingface-ettin_suite_sota_paired_encoders_and_decoders",
-    "date": "2025-07-16",
-    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+    "id": "2025-06-12-huggingface-learn_the_hugging_face_kernel_hub_in_5_minutes",
+    "date": "2025-06-12",
+    "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -515,141 +200,15 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/ettin"
+        "url": "https://huggingface.co/blog/hello-hf-kernels"
       }
     ],
-    "source_file": "global/2025-07/2025-07-16-huggingface-ettin_suite_sota_paired_encoders_and_decoders.yaml"
+    "source_file": "global/2025-06/2025-06-12-huggingface-learn_the_hugging_face_kernel_hub_in_5_minutes.yaml"
   },
   {
-    "id": "2025-07-17-huggingface-back_to_the_future_evaluating_ai_agents_on_predicting_future_events",
-    "date": "2025-07-17",
-    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/futurebench"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-17-huggingface-back_to_the_future_evaluating_ai_agents_on_predicting_future_events.yaml"
-  },
-  {
-    "id": "2025-07-17-huggingface-consilium_when_multiple_llms_collaborate",
-    "date": "2025-07-17",
-    "title": "Consilium: When Multiple LLMs Collaborate",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/consilium-multi-llm"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-17-huggingface-consilium_when_multiple_llms_collaborate.yaml"
-  },
-  {
-    "id": "2025-07-17-huggingface-five_big_improvements_to_gradio_mcp_servers",
-    "date": "2025-07-17",
-    "title": "Five Big Improvements to Gradio MCP Servers",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/gradio-mcp-updates"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-17-huggingface-five_big_improvements_to_gradio_mcp_servers.yaml"
-  },
-  {
-    "id": "2025-07-18-huggingface-arc_virtual_cell_challenge_a_primer",
-    "date": "2025-07-18",
-    "title": "Arc Virtual Cell Challenge: A Primer",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/virtual-cell-challenge"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-18-huggingface-arc_virtual_cell_challenge_a_primer.yaml"
-  },
-  {
-    "id": "2025-07-21-huggingface-accelerate_a_world_of_llms_on_hugging_face_with_nvidia_nim",
-    "date": "2025-07-21",
-    "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/multi-llm-nim"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-21-huggingface-accelerate_a_world_of_llms_on_hugging_face_with_nvidia_nim.yaml"
-  },
-  {
-    "id": "2025-07-23-anthropic-policy_jul_23_2025_thoughts_on_america_s_ai_action_plan_anthropic_s_resp",
-    "date": "2025-07-23",
-    "title": "Policy Jul 23, 2025 Thoughts on America’s AI Action Plan Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "anthropic",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-23-anthropic-policy_jul_23_2025_thoughts_on_america_s_ai_action_plan_anthropic_s_resp.yaml"
-  },
-  {
-    "id": "2025-07-23-huggingface-fast_lora_inference_for_flux_with_diffusers_and_peft",
-    "date": "2025-07-23",
-    "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
+    "id": "2025-06-16-huggingface-groq_on_hugging_face_inference_providers",
+    "date": "2025-06-16",
+    "title": "Groq on Hugging Face Inference Providers 🔥",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -662,186 +221,102 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/lora-fast"
+        "url": "https://huggingface.co/blog/inference-providers-groq"
       }
     ],
-    "source_file": "global/2025-07/2025-07-23-huggingface-fast_lora_inference_for_flux_with_diffusers_and_peft.yaml"
+    "source_file": "global/2025-06/2025-06-16-huggingface-groq_on_hugging_face_inference_providers.yaml"
   },
   {
-    "id": "2025-07-23-huggingface-timescope_how_long_can_your_video_large_multimodal_model_go",
-    "date": "2025-07-23",
-    "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-23-huggingface-timescope_how_long_can_your_video_large_multimodal_model_go.yaml"
-  },
-  {
-    "id": "2025-07-25-huggingface-parquet_content_defined_chunking",
-    "date": "2025-07-25",
-    "title": "Parquet Content-Defined Chunking",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/parquet-cdc"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-25-huggingface-parquet_content_defined_chunking.yaml"
-  },
-  {
-    "id": "2025-07-25-huggingface-say_hello_to_hf_a_faster_friendlier_hugging_face_cli",
-    "date": "2025-07-25",
-    "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/hf-cli"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-25-huggingface-say_hello_to_hf_a_faster_friendlier_hugging_face_cli.yaml"
-  },
-  {
-    "id": "2025-07-29-huggingface-introducing_trackio_a_lightweight_experiment_tracking_library_from_huggi",
-    "date": "2025-07-29",
-    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/trackio"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-29-huggingface-introducing_trackio_a_lightweight_experiment_tracking_library_from_huggi.yaml"
-  },
-  {
-    "id": "2025-07-31-huggingface-implementing_mcp_servers_in_python_an_ai_shopping_assistant_with_gradio",
-    "date": "2025-07-31",
-    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/gradio-vton-mcp"
-      }
-    ],
-    "source_file": "global/2025-07/2025-07-31-huggingface-implementing_mcp_servers_in_python_an_ai_shopping_assistant_with_gradio.yaml"
-  },
-  {
-    "id": "2025-04-02-deepmind-evaluating_potential_cybersecurity_threats_of_advanced_ai",
-    "date": "2025-04-02",
-    "title": "Evaluating potential cybersecurity threats of advanced AI",
+    "id": "2025-06-17-deepmind-gemini_2_5_updates_to_our_family_of_thinking_models",
+    "date": "2025-06-17",
+    "title": "Gemini 2.5: Updates to our family of thinking models",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Our framework enables cybersecurity experts to identify which defenses are necessary—and how to prioritize them",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "deepmind",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/"
-      }
-    ],
-    "source_file": "global/2025-04/2025-04-02-deepmind-evaluating_potential_cybersecurity_threats_of_advanced_ai.yaml"
-  },
-  {
-    "id": "2025-04-02-deepmind-taking_a_responsible_path_to_agi",
-    "date": "2025-04-02",
-    "title": "Taking a responsible path to AGI",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "We’re exploring the frontiers of AGI, prioritizing technical safety, proactive risk assessment, and collaboration with the AI community.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/taking-a-responsible-path-to-agi/"
-      }
-    ],
-    "source_file": "global/2025-04/2025-04-02-deepmind-taking_a_responsible_path_to_agi.yaml"
-  },
-  {
-    "id": "2025-04-09-google_ai-google_cloud_next_25",
-    "date": "2025-04-09",
-    "title": "Google Cloud Next 25",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Collection_Hero.max-600x600.format-webp.webp\" />Here’s a look at what we announced at Google Cloud Next 25.",
+    "notes": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
     "category": "Model",
     "tags": [
       "global",
-      "google_ai",
+      "deepmind",
       "model"
     ],
     "links": [
       {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/"
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/"
       }
     ],
-    "source_file": "global/2025-04/2025-04-09-google_ai-google_cloud_next_25.yaml"
+    "source_file": "global/2025-06/2025-06-17-deepmind-gemini_2_5_updates_to_our_family_of_thinking_models.yaml"
   },
   {
-    "id": "2025-04-14-deepmind-dolphingemma_how_google_ai_is_helping_decode_dolphin_communication",
-    "date": "2025-04-14",
-    "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
+    "id": "2025-06-17-deepmind-we_re_expanding_our_gemini_2_5_family_of_models",
+    "date": "2025-06-17",
+    "title": "We’re expanding our Gemini 2.5 family of models",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "DolphinGemma, a large language model developed by Google, is helping scientists study how dolphins communicate — and hopefully find out what they're saying, too.",
+    "notes": "Gemini 2.5 Flash and Pro are now generally available, and we’re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "deepmind",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/"
+      }
+    ],
+    "source_file": "global/2025-06/2025-06-17-deepmind-we_re_expanding_our_gemini_2_5_family_of_models.yaml"
+  },
+  {
+    "id": "2025-06-19-huggingface-lora_fine_tuning_flux_1_dev_on_consumer_hardware",
+    "date": "2025-06-19",
+    "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/flux-qlora"
+      }
+    ],
+    "source_file": "global/2025-06/2025-06-19-huggingface-lora_fine_tuning_flux_1_dev_on_consumer_hardware.yaml"
+  },
+  {
+    "id": "2025-06-23-huggingface-transformers_backend_integration_in_sglang",
+    "date": "2025-06-23",
+    "title": "Transformers backend integration in SGLang",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/transformers-backend-sglang"
+      }
+    ],
+    "source_file": "global/2025-06/2025-06-23-huggingface-transformers_backend_integration_in_sglang.yaml"
+  },
+  {
+    "id": "2025-06-24-deepmind-gemini_robotics_on_device_brings_ai_to_local_robotic_devices",
+    "date": "2025-06-24",
+    "title": "Gemini Robotics On-Device brings AI to local robotic devices",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "We’re introducing an efficient, on-device robotics model with general-purpose dexterity and fast task adaptation.",
     "category": "Industry",
     "tags": [
       "global",
@@ -851,18 +326,18 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/"
+        "url": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/"
       }
     ],
-    "source_file": "global/2025-04/2025-04-14-deepmind-dolphingemma_how_google_ai_is_helping_decode_dolphin_communication.yaml"
+    "source_file": "global/2025-06/2025-06-24-deepmind-gemini_robotics_on_device_brings_ai_to_local_robotic_devices.yaml"
   },
   {
-    "id": "2025-04-15-deepmind-generate_videos_in_gemini_and_whisk_with_veo_2",
-    "date": "2025-04-15",
-    "title": "Generate videos in Gemini and Whisk with Veo 2",
+    "id": "2025-06-25-deepmind-alphagenome_ai_for_better_understanding_the_genome",
+    "date": "2025-06-25",
+    "title": "AlphaGenome: AI for better understanding the genome",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Transform text-based prompts into high-resolution eight-second videos in Gemini Advanced and use Whisk Animate to turn images into eight-second animated clips.",
+    "notes": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
     "category": "Industry",
     "tags": [
       "global",
@@ -872,52 +347,52 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/generate-videos-in-gemini-and-whisk-with-veo-2/"
+        "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/"
       }
     ],
-    "source_file": "global/2025-04/2025-04-15-deepmind-generate_videos_in_gemini_and_whisk_with_veo_2.yaml"
+    "source_file": "global/2025-06/2025-06-25-deepmind-alphagenome_ai_for_better_understanding_the_genome.yaml"
   },
   {
-    "id": "2025-04-17-deepmind-introducing_gemini_2_5_flash",
-    "date": "2025-04-17",
-    "title": "Introducing Gemini 2.5 Flash",
+    "id": "2025-06-26-huggingface-gemma_3n_fully_available_in_the_open_source_ecosystem",
+    "date": "2025-06-26",
+    "title": "Gemma 3n fully available in the open-source ecosystem!",
     "status": "completed",
-    "owner": "deepmind",
-    "notes": "Gemini 2.5 Flash is our first fully hybrid reasoning model, giving developers the ability to turn thinking on or off.",
+    "owner": "huggingface",
+    "notes": "See source link.",
     "category": "Industry",
     "tags": [
       "global",
-      "deepmind",
+      "huggingface",
       "industry"
     ],
     "links": [
       {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/introducing-gemini-2-5-flash/"
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/gemma3n"
       }
     ],
-    "source_file": "global/2025-04/2025-04-17-deepmind-introducing_gemini_2_5_flash.yaml"
+    "source_file": "global/2025-06/2025-06-26-huggingface-gemma_3n_fully_available_in_the_open_source_ecosystem.yaml"
   },
   {
-    "id": "2025-04-24-deepmind-music_ai_sandbox_now_with_new_features_and_broader_access",
-    "date": "2025-04-24",
-    "title": "Music AI Sandbox, now with new features and broader access",
+    "id": "2025-06-27-huggingface-welcome_the_nvidia_llama_nemotron_nano_vlm_to_hugging_face_hub",
+    "date": "2025-06-27",
+    "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
     "status": "completed",
-    "owner": "deepmind",
-    "notes": "Helping music professionals explore the potential of generative AI",
+    "owner": "huggingface",
+    "notes": "See source link.",
     "category": "Industry",
     "tags": [
       "global",
-      "deepmind",
+      "huggingface",
       "industry"
     ],
     "links": [
       {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/music-ai-sandbox-now-with-new-features-and-broader-access/"
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl"
       }
     ],
-    "source_file": "global/2025-04/2025-04-24-deepmind-music_ai_sandbox_now_with_new_features_and_broader_access.yaml"
+    "source_file": "global/2025-06/2025-06-27-huggingface-welcome_the_nvidia_llama_nemotron_nano_vlm_to_hugging_face_hub.yaml"
   },
   {
     "id": "2025-05-06-deepmind-build_rich_interactive_web_apps_with_an_updated_gemini_2_5_pro",
@@ -1193,12 +668,33 @@
     "source_file": "global/2025-05/2025-05-28-huggingface-codeagents_structure_a_better_way_to_execute_actions.yaml"
   },
   {
-    "id": "2025-03-12-deepmind-experiment_with_gemini_2_0_flash_native_image_generation",
-    "date": "2025-03-12",
-    "title": "Experiment with Gemini 2.0 Flash native image generation",
+    "id": "2025-04-02-deepmind-evaluating_potential_cybersecurity_threats_of_advanced_ai",
+    "date": "2025-04-02",
+    "title": "Evaluating potential cybersecurity threats of advanced AI",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.",
+    "notes": "Our framework enables cybersecurity experts to identify which defenses are necessary—and how to prioritize them",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "deepmind",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/"
+      }
+    ],
+    "source_file": "global/2025-04/2025-04-02-deepmind-evaluating_potential_cybersecurity_threats_of_advanced_ai.yaml"
+  },
+  {
+    "id": "2025-04-02-deepmind-taking_a_responsible_path_to_agi",
+    "date": "2025-04-02",
+    "title": "Taking a responsible path to AGI",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "We’re exploring the frontiers of AGI, prioritizing technical safety, proactive risk assessment, and collaboration with the AI community.",
     "category": "Industry",
     "tags": [
       "global",
@@ -1208,60 +704,18 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/experiment-with-gemini-20-flash-native-image-generation/"
+        "url": "https://deepmind.google/blog/taking-a-responsible-path-to-agi/"
       }
     ],
-    "source_file": "global/2025-03/2025-03-12-deepmind-experiment_with_gemini_2_0_flash_native_image_generation.yaml"
+    "source_file": "global/2025-04/2025-04-02-deepmind-taking_a_responsible_path_to_agi.yaml"
   },
   {
-    "id": "2025-03-12-deepmind-gemini_robotics_brings_ai_into_the_physical_world",
-    "date": "2025-03-12",
-    "title": "Gemini Robotics brings AI into the physical world",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/"
-      }
-    ],
-    "source_file": "global/2025-03/2025-03-12-deepmind-gemini_robotics_brings_ai_into_the_physical_world.yaml"
-  },
-  {
-    "id": "2025-03-12-deepmind-introducing_gemma_3",
-    "date": "2025-03-12",
-    "title": "Introducing Gemma 3",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "The most capable model you can run on a single GPU or TPU.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/introducing-gemma-3/"
-      }
-    ],
-    "source_file": "global/2025-03/2025-03-12-deepmind-introducing_gemma_3.yaml"
-  },
-  {
-    "id": "2025-03-18-google_ai-the_check_up_with_google",
-    "date": "2025-03-18",
-    "title": "The Check Up with Google",
+    "id": "2025-04-09-google_ai-google_cloud_next_25",
+    "date": "2025-04-09",
+    "title": "Google Cloud Next 25",
     "status": "completed",
     "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CheckUpCollectionHeader.max-600x600.format-webp.webp\" />At The Check Up 2025, we shared more about the potential of AI in health and our latest health AI research, partnership and product updates.",
+    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Collection_Hero.max-600x600.format-webp.webp\" />Here’s a look at what we announced at Google Cloud Next 25.",
     "category": "Model",
     "tags": [
       "global",
@@ -1271,18 +725,186 @@
     "links": [
       {
         "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/"
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2025/"
       }
     ],
-    "source_file": "global/2025-03/2025-03-18-google_ai-the_check_up_with_google.yaml"
+    "source_file": "global/2025-04/2025-04-09-google_ai-google_cloud_next_25.yaml"
   },
   {
-    "id": "2025-03-25-deepmind-gemini_2_5_our_most_intelligent_ai_model",
-    "date": "2025-03-25",
-    "title": "Gemini 2.5: Our most intelligent AI model",
+    "id": "2025-04-14-deepmind-dolphingemma_how_google_ai_is_helping_decode_dolphin_communication",
+    "date": "2025-04-14",
+    "title": "DolphinGemma: How Google AI is helping decode dolphin communication",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Gemini 2.5 is our most intelligent AI model, now with thinking built in.",
+    "notes": "DolphinGemma, a large language model developed by Google, is helping scientists study how dolphins communicate — and hopefully find out what they're saying, too.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/"
+      }
+    ],
+    "source_file": "global/2025-04/2025-04-14-deepmind-dolphingemma_how_google_ai_is_helping_decode_dolphin_communication.yaml"
+  },
+  {
+    "id": "2025-04-15-deepmind-generate_videos_in_gemini_and_whisk_with_veo_2",
+    "date": "2025-04-15",
+    "title": "Generate videos in Gemini and Whisk with Veo 2",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Transform text-based prompts into high-resolution eight-second videos in Gemini Advanced and use Whisk Animate to turn images into eight-second animated clips.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/generate-videos-in-gemini-and-whisk-with-veo-2/"
+      }
+    ],
+    "source_file": "global/2025-04/2025-04-15-deepmind-generate_videos_in_gemini_and_whisk_with_veo_2.yaml"
+  },
+  {
+    "id": "2025-04-17-deepmind-introducing_gemini_2_5_flash",
+    "date": "2025-04-17",
+    "title": "Introducing Gemini 2.5 Flash",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Gemini 2.5 Flash is our first fully hybrid reasoning model, giving developers the ability to turn thinking on or off.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-gemini-2-5-flash/"
+      }
+    ],
+    "source_file": "global/2025-04/2025-04-17-deepmind-introducing_gemini_2_5_flash.yaml"
+  },
+  {
+    "id": "2025-04-24-deepmind-music_ai_sandbox_now_with_new_features_and_broader_access",
+    "date": "2025-04-24",
+    "title": "Music AI Sandbox, now with new features and broader access",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Helping music professionals explore the potential of generative AI",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/music-ai-sandbox-now-with-new-features-and-broader-access/"
+      }
+    ],
+    "source_file": "global/2025-04/2025-04-24-deepmind-music_ai_sandbox_now_with_new_features_and_broader_access.yaml"
+  },
+  {
+    "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
+    "date": "2025-10-24",
+    "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail.yaml"
+  },
+  {
+    "id": "2025-10-25-deepmind-behind_ancestra_combining_veo_with_live_action_filmmaking",
+    "date": "2025-10-25",
+    "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "deepmind",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-25-deepmind-behind_ancestra_combining_veo_with_live_action_filmmaking.yaml"
+  },
+  {
+    "id": "2025-10-25-deepmind-gemini_2_5_flash_lite_is_now_ready_for_scaled_production_use",
+    "date": "2025-10-25",
+    "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-25-deepmind-gemini_2_5_flash_lite_is_now_ready_for_scaled_production_use.yaml"
+  },
+  {
+    "id": "2025-10-25-deepmind-introducing_gemma_3n_the_developer_guide",
+    "date": "2025-10-25",
+    "title": "Introducing Gemma 3n: The developer guide",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Gemma 3n is designed for the developer community that helped shape Gemma.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-25-deepmind-introducing_gemma_3n_the_developer_guide.yaml"
+  },
+  {
+    "id": "2025-10-25-deepmind-medgemma_our_most_capable_open_models_for_health_ai_development",
+    "date": "2025-10-25",
+    "title": "MedGemma: Our most capable open models for health AI development",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "We’re announcing new multimodal models in the MedGemma collection, our most capable open models for health AI development.",
     "category": "Model",
     "tags": [
       "global",
@@ -1292,10 +914,514 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model/"
+        "url": "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/"
       }
     ],
-    "source_file": "global/2025-03/2025-03-25-deepmind-gemini_2_5_our_most_intelligent_ai_model.yaml"
+    "source_file": "global/2025-10/2025-10-25-deepmind-medgemma_our_most_capable_open_models_for_health_ai_development.yaml"
+  },
+  {
+    "id": "2025-10-25-deepmind-t5gemma_a_new_collection_of_encoder_decoder_gemma_models",
+    "date": "2025-10-25",
+    "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Introducing T5Gemma, a new collection of encoder-decoder LLMs.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "deepmind",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-25-deepmind-t5gemma_a_new_collection_of_encoder_decoder_gemma_models.yaml"
+  },
+  {
+    "id": "2025-10-27-huggingface-huggingface_hub_v1_0_five_years_of_building_the_foundation_of_open_machi",
+    "date": "2025-10-27",
+    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/huggingface-hub-v1"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-27-huggingface-huggingface_hub_v1_0_five_years_of_building_the_foundation_of_open_machi.yaml"
+  },
+  {
+    "id": "2025-10-27-huggingface-streaming_datasets_100x_more_efficient",
+    "date": "2025-10-27",
+    "title": "Streaming datasets: 100x More Efficient",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/streaming-datasets"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-27-huggingface-streaming_datasets_100x_more_efficient.yaml"
+  },
+  {
+    "id": "2025-10-28-huggingface-granite_4_0_nano_just_how_small_can_you_go",
+    "date": "2025-10-28",
+    "title": "Granite 4.0 Nano: Just how small can you go?",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-huggingface-granite_4_0_nano_just_how_small_can_you_go.yaml"
+  },
+  {
+    "id": "2025-10-28-huggingface-how_to_build_a_healthcare_robot_from_simulation_to_deployment_with_nvidi",
+    "date": "2025-10-28",
+    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-huggingface-how_to_build_a_healthcare_robot_from_simulation_to_deployment_with_nvidi.yaml"
+  },
+  {
+    "id": "2025-10-28-huggingface-voice_cloning_with_consent",
+    "date": "2025-10-28",
+    "title": "Voice Cloning with Consent",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/voice-consent-gate"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-huggingface-voice_cloning_with_consent.yaml"
+  },
+  {
+    "id": "2025-10-28-microsoft_ai-building_the_future_together_microsoft_and_nvidia_announce_ai_advancemen",
+    "date": "2025-10-28",
+    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-microsoft_ai-building_the_future_together_microsoft_and_nvidia_announce_ai_advancemen.yaml"
+  },
+  {
+    "id": "2025-10-28-microsoft_ai-how_cities_build_resilient_infrastructure_with_trusted_ai",
+    "date": "2025-10-28",
+    "title": "How cities build resilient infrastructure with trusted AI",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Cities worldwide are using trusted AI to strengthen urban infrastructure, improve sustainability, and ensure resilience against future challenges.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/government/2025/10/28/how-cities-build-resilient-infrastructure-with-trusted-ai/\">How cities build resilient infrastructure with trusted AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://www.microsoft.com/en-us/industry/blog/government/2025/10/28/how-cities-build-resilient-infrastructure-with-trusted-ai/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-microsoft_ai-how_cities_build_resilient_infrastructure_with_trusted_ai.yaml"
+  },
+  {
+    "id": "2025-10-28-openai-built_to_benefit_everyone",
+    "date": "2025-10-28",
+    "title": "Built to benefit everyone",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/built-to-benefit-everyone"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-openai-built_to_benefit_everyone.yaml"
+  },
+  {
+    "id": "2025-10-28-openai-doppel_s_ai_defense_system_stops_attacks_before_they_spread",
+    "date": "2025-10-28",
+    "title": "Doppel’s AI defense system stops attacks before they spread",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/doppel"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-openai-doppel_s_ai_defense_system_stops_attacks_before_they_spread.yaml"
+  },
+  {
+    "id": "2025-10-28-openai-knowledge_preservation_powered_by_chatgpt",
+    "date": "2025-10-28",
+    "title": "Knowledge preservation powered by ChatGPT",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/dai-nippon-printing"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-openai-knowledge_preservation_powered_by_chatgpt.yaml"
+  },
+  {
+    "id": "2025-10-28-openai-the_next_chapter_of_the_microsoft_openai_partnership",
+    "date": "2025-10-28",
+    "title": "The next chapter of the Microsoft–OpenAI partnership",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-28-openai-the_next_chapter_of_the_microsoft_openai_partnership.yaml"
+  },
+  {
+    "id": "2025-10-29-deepmind-accelerating_discovery_with_the_ai_for_math_initiative",
+    "date": "2025-10-29",
+    "title": "Accelerating discovery with the AI for Math Initiative",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-29-deepmind-accelerating_discovery_with_the_ai_for_math_initiative.yaml"
+  },
+  {
+    "id": "2025-10-29-huggingface-building_a_healthcare_robot_from_simulation_to_deployment_with_nvidia_is",
+    "date": "2025-10-29",
+    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-29-huggingface-building_a_healthcare_robot_from_simulation_to_deployment_with_nvidia_is.yaml"
+  },
+  {
+    "id": "2025-10-29-huggingface-on_the_shifting_global_compute_landscape",
+    "date": "2025-10-29",
+    "title": "On the Shifting Global Compute Landscape",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-29-huggingface-on_the_shifting_global_compute_landscape.yaml"
+  },
+  {
+    "id": "2025-10-29-openai-gpt_oss_safeguard_technical_report",
+    "date": "2025-10-29",
+    "title": "gpt-oss-safeguard technical report",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-29-openai-gpt_oss_safeguard_technical_report.yaml"
+  },
+  {
+    "id": "2025-10-29-openai-introducing_gpt_oss_safeguard",
+    "date": "2025-10-29",
+    "title": "Introducing gpt-oss-safeguard",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-29-openai-introducing_gpt_oss_safeguard.yaml"
+  },
+  {
+    "id": "2025-10-29-openai-technical_report_performance_and_baseline_evaluations_of_gpt_oss_safegua",
+    "date": "2025-10-29",
+    "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "openai",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-29-openai-technical_report_performance_and_baseline_evaluations_of_gpt_oss_safegua.yaml"
+  },
+  {
+    "id": "2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2",
+    "date": "2025-10-30",
+    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2.yaml"
+  },
+  {
+    "id": "2025-10-30-microsoft_ai-3_ways_to_navigate_changing_tariffs_with_ai_agents",
+    "date": "2025-10-30",
+    "title": "3 ways to navigate changing tariffs with AI agents",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Stay ahead of shifting tariffs with an AI agent that monitors trade updates, automates compliance checks, and helps your supply chain adapt to global changes in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/30/navigate-changing-tariffs-build-an-agent-that-keeps-up-with-your-supply-chain/\">3 ways to navigate changing tariffs with AI agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/30/navigate-changing-tariffs-build-an-agent-that-keeps-up-with-your-supply-chain/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-30-microsoft_ai-3_ways_to_navigate_changing_tariffs_with_ai_agents.yaml"
+  },
+  {
+    "id": "2025-10-30-microsoft_ai-celebrating_makers_and_innovation_at_power_platform_community_conference",
+    "date": "2025-10-30",
+    "title": "Celebrating makers and innovation at Power Platform Community Conference 2025",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Over 7,000 makers explored innovation with Microsoft Power Platform and Copilot Studio—building smarter, faster, and together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/power-platform/blog/2025/10/30/celebrating-makers-and-innovation-at-power-platform-community-conference-2025/\">Celebrating makers and innovation at Power Platform Community Conference 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://www.microsoft.com/en-us/power-platform/blog/2025/10/30/celebrating-makers-and-innovation-at-power-platform-community-conference-2025/"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-30-microsoft_ai-celebrating_makers_and_innovation_at_power_platform_community_conference.yaml"
+  },
+  {
+    "id": "2025-10-30-openai-expanding_stargate_to_michigan",
+    "date": "2025-10-30",
+    "title": "Expanding Stargate to Michigan",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/expanding-stargate-to-michigan"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-30-openai-expanding_stargate_to_michigan.yaml"
+  },
+  {
+    "id": "2025-10-30-openai-how_we_built_owl_the_new_architecture_behind_our_chatgpt_based_browser_a",
+    "date": "2025-10-30",
+    "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/building-chatgpt-atlas"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-30-openai-how_we_built_owl_the_new_architecture_behind_our_chatgpt_based_browser_a.yaml"
+  },
+  {
+    "id": "2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher",
+    "date": "2025-10-30",
+    "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-aardvark"
+      }
+    ],
+    "source_file": "global/2025-10/2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher.yaml"
   },
   {
     "id": "2025-09-10-huggingface-fine_tune_any_llm_from_the_hugging_face_hub_with_together_ai",
@@ -1907,12 +2033,327 @@
     "source_file": "global/2025-09/2025-09-30-openai-the_sora_feed_philosophy.yaml"
   },
   {
-    "id": "2025-06-03-deepmind-advanced_audio_dialog_and_generation_with_gemini_2_5",
-    "date": "2025-06-03",
-    "title": "Advanced audio dialog and generation with Gemini 2.5",
+    "id": "2025-08-01-huggingface-3lm_a_benchmark_for_arabic_llms_in_stem_and_code",
+    "date": "2025-08-01",
+    "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "huggingface",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/tiiuae/3lm-benchmark"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-01-huggingface-3lm_a_benchmark_for_arabic_llms_in_stem_and_code.yaml"
+  },
+  {
+    "id": "2025-08-04-huggingface-measuring_open_source_llama_nemotron_models_on_deepresearch_bench",
+    "date": "2025-08-04",
+    "title": "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-04-huggingface-measuring_open_source_llama_nemotron_models_on_deepresearch_bench.yaml"
+  },
+  {
+    "id": "2025-08-05-huggingface-welcome_gpt_oss_the_new_open_source_model_family_from_openai",
+    "date": "2025-08-05",
+    "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/welcome-openai-gpt-oss"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-05-huggingface-welcome_gpt_oss_the_new_open_source_model_family_from_openai.yaml"
+  },
+  {
+    "id": "2025-08-07-huggingface-vision_language_model_alignment_in_trl",
+    "date": "2025-08-07",
+    "title": "Vision Language Model Alignment in TRL ⚡️",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/trl-vlm-alignment"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-07-huggingface-vision_language_model_alignment_in_trl.yaml"
+  },
+  {
+    "id": "2025-08-08-huggingface-accelerate_nd_parallel_a_guide_to_efficient_multi_gpu_training",
+    "date": "2025-08-08",
+    "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/accelerate-nd-parallel"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-08-huggingface-accelerate_nd_parallel_a_guide_to_efficient_multi_gpu_training.yaml"
+  },
+  {
+    "id": "2025-08-08-huggingface-introducing_ai_sheets_a_tool_to_work_with_datasets_using_open_ai_models",
+    "date": "2025-08-08",
+    "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/aisheets"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-08-huggingface-introducing_ai_sheets_a_tool_to_work_with_datasets_using_open_ai_models.yaml"
+  },
+  {
+    "id": "2025-08-12-huggingface-filbench_can_llms_understand_and_generate_filipino",
+    "date": "2025-08-12",
+    "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/filbench"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-12-huggingface-filbench_can_llms_understand_and_generate_filipino.yaml"
+  },
+  {
+    "id": "2025-08-12-huggingface-neural_super_sampling_is_here",
+    "date": "2025-08-12",
+    "title": "Neural Super Sampling is here!",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/Arm/neural-super-sampling"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-12-huggingface-neural_super_sampling_is_here.yaml"
+  },
+  {
+    "id": "2025-08-12-huggingface-textquests_how_good_are_llms_at_text_based_video_games",
+    "date": "2025-08-12",
+    "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/textquests"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-12-huggingface-textquests_how_good_are_llms_at_text_based_video_games.yaml"
+  },
+  {
+    "id": "2025-08-13-huggingface-arm_executorch_0_7_bringing_generative_ai_to_the_masses",
+    "date": "2025-08-13",
+    "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/Arm/executorch-0-dot-7"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-13-huggingface-arm_executorch_0_7_bringing_generative_ai_to_the_masses.yaml"
+  },
+  {
+    "id": "2025-08-14-huggingface-kimina_prover_rl",
+    "date": "2025-08-14",
+    "title": "Kimina-Prover-RL",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/AI-MO/kimina-prover-rl"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-14-huggingface-kimina_prover_rl.yaml"
+  },
+  {
+    "id": "2025-08-18-huggingface-from_zero_to_gpu_a_guide_to_building_and_scaling_production_ready_cuda_k",
+    "date": "2025-08-18",
+    "title": "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/kernel-builder"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-18-huggingface-from_zero_to_gpu_a_guide_to_building_and_scaling_production_ready_cuda_k.yaml"
+  },
+  {
+    "id": "2025-08-18-huggingface-mcp_for_research_how_to_connect_ai_to_research_tools",
+    "date": "2025-08-18",
+    "title": "MCP for Research: How to Connect AI to Research Tools",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/mcp-for-research"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-18-huggingface-mcp_for_research_how_to_connect_ai_to_research_tools.yaml"
+  },
+  {
+    "id": "2025-08-19-huggingface-generate_images_with_claude_and_hugging_face",
+    "date": "2025-08-19",
+    "title": "Generate Images with Claude and Hugging Face",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/claude-and-mcp"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-19-huggingface-generate_images_with_claude_and_hugging_face.yaml"
+  },
+  {
+    "id": "2025-08-20-huggingface-nvidia_releases_6_million_multi_lingual_reasoning_dataset",
+    "date": "2025-08-20",
+    "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1"
+      }
+    ],
+    "source_file": "global/2025-08/2025-08-20-huggingface-nvidia_releases_6_million_multi_lingual_reasoning_dataset.yaml"
+  },
+  {
+    "id": "2025-03-12-deepmind-experiment_with_gemini_2_0_flash_native_image_generation",
+    "date": "2025-03-12",
+    "title": "Experiment with Gemini 2.0 Flash native image generation",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Gemini 2.5 has new capabilities in AI-powered audio dialog and generation.",
+    "notes": "Native image output is available in Gemini 2.0 Flash for developers to experiment with in Google AI Studio and the Gemini API.",
     "category": "Industry",
     "tags": [
       "global",
@@ -1922,60 +2363,18 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/advanced-audio-dialog-and-generation-with-gemini-25/"
+        "url": "https://deepmind.google/blog/experiment-with-gemini-20-flash-native-image-generation/"
       }
     ],
-    "source_file": "global/2025-06/2025-06-03-deepmind-advanced_audio_dialog_and_generation_with_gemini_2_5.yaml"
+    "source_file": "global/2025-03/2025-03-12-deepmind-experiment_with_gemini_2_0_flash_native_image_generation.yaml"
   },
   {
-    "id": "2025-06-11-huggingface-introducing_training_cluster_as_a_service_a_new_collaboration_with_nvidi",
-    "date": "2025-06-11",
-    "title": "Introducing Training Cluster as a Service - a new collaboration with NVIDIA",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia-training-cluster"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-11-huggingface-introducing_training_cluster_as_a_service_a_new_collaboration_with_nvidi.yaml"
-  },
-  {
-    "id": "2025-06-11-huggingface-post_training_isaac_gr00t_n1_5_for_lerobot_so_101_arm",
-    "date": "2025-06-11",
-    "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-11-huggingface-post_training_isaac_gr00t_n1_5_for_lerobot_so_101_arm.yaml"
-  },
-  {
-    "id": "2025-06-12-deepmind-how_we_re_supporting_better_tropical_cyclone_prediction_with_ai",
-    "date": "2025-06-12",
-    "title": "How we're supporting better tropical cyclone prediction with AI",
+    "id": "2025-03-12-deepmind-gemini_robotics_brings_ai_into_the_physical_world",
+    "date": "2025-03-12",
+    "title": "Gemini Robotics brings AI into the physical world",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "We’re launching Weather Lab, featuring our experimental cyclone predictions, and we’re partnering with the U.S. National Hurricane Center to support their forecasts and warnings this cyclone season.",
+    "notes": "Introducing Gemini Robotics and Gemini Robotics-ER, AI models designed for robots to understand, act and react to the physical world.",
     "category": "Industry",
     "tags": [
       "global",
@@ -1985,102 +2384,60 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/how-were-supporting-better-tropical-cyclone-prediction-with-ai/"
+        "url": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/"
       }
     ],
-    "source_file": "global/2025-06/2025-06-12-deepmind-how_we_re_supporting_better_tropical_cyclone_prediction_with_ai.yaml"
+    "source_file": "global/2025-03/2025-03-12-deepmind-gemini_robotics_brings_ai_into_the_physical_world.yaml"
   },
   {
-    "id": "2025-06-12-huggingface-featherless_ai_on_hugging_face_inference_providers",
-    "date": "2025-06-12",
-    "title": "Featherless AI on Hugging Face Inference Providers 🔥",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/inference-providers-featherless"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-12-huggingface-featherless_ai_on_hugging_face_inference_providers.yaml"
-  },
-  {
-    "id": "2025-06-12-huggingface-how_long_prompts_block_other_requests_optimizing_llm_performance",
-    "date": "2025-06-12",
-    "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-12-huggingface-how_long_prompts_block_other_requests_optimizing_llm_performance.yaml"
-  },
-  {
-    "id": "2025-06-12-huggingface-learn_the_hugging_face_kernel_hub_in_5_minutes",
-    "date": "2025-06-12",
-    "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/hello-hf-kernels"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-12-huggingface-learn_the_hugging_face_kernel_hub_in_5_minutes.yaml"
-  },
-  {
-    "id": "2025-06-16-huggingface-groq_on_hugging_face_inference_providers",
-    "date": "2025-06-16",
-    "title": "Groq on Hugging Face Inference Providers 🔥",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/inference-providers-groq"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-16-huggingface-groq_on_hugging_face_inference_providers.yaml"
-  },
-  {
-    "id": "2025-06-17-deepmind-gemini_2_5_updates_to_our_family_of_thinking_models",
-    "date": "2025-06-17",
-    "title": "Gemini 2.5: Updates to our family of thinking models",
+    "id": "2025-03-12-deepmind-introducing_gemma_3",
+    "date": "2025-03-12",
+    "title": "Introducing Gemma 3",
     "status": "completed",
     "owner": "deepmind",
-    "notes": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
+    "notes": "The most capable model you can run on a single GPU or TPU.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-gemma-3/"
+      }
+    ],
+    "source_file": "global/2025-03/2025-03-12-deepmind-introducing_gemma_3.yaml"
+  },
+  {
+    "id": "2025-03-18-google_ai-the_check_up_with_google",
+    "date": "2025-03-18",
+    "title": "The Check Up with Google",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CheckUpCollectionHeader.max-600x600.format-webp.webp\" />At The Check Up 2025, we shared more about the potential of AI in health and our latest health AI research, partnership and product updates.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/technology/health/google-health-check-up-2025/"
+      }
+    ],
+    "source_file": "global/2025-03/2025-03-18-google_ai-the_check_up_with_google.yaml"
+  },
+  {
+    "id": "2025-03-25-deepmind-gemini_2_5_our_most_intelligent_ai_model",
+    "date": "2025-03-25",
+    "title": "Gemini 2.5: Our most intelligent AI model",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Gemini 2.5 is our most intelligent AI model, now with thinking built in.",
     "category": "Model",
     "tags": [
       "global",
@@ -2090,157 +2447,10 @@
     "links": [
       {
         "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/"
+        "url": "https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model/"
       }
     ],
-    "source_file": "global/2025-06/2025-06-17-deepmind-gemini_2_5_updates_to_our_family_of_thinking_models.yaml"
-  },
-  {
-    "id": "2025-06-17-deepmind-we_re_expanding_our_gemini_2_5_family_of_models",
-    "date": "2025-06-17",
-    "title": "We’re expanding our Gemini 2.5 family of models",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Gemini 2.5 Flash and Pro are now generally available, and we’re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "deepmind",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-17-deepmind-we_re_expanding_our_gemini_2_5_family_of_models.yaml"
-  },
-  {
-    "id": "2025-06-19-huggingface-lora_fine_tuning_flux_1_dev_on_consumer_hardware",
-    "date": "2025-06-19",
-    "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/flux-qlora"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-19-huggingface-lora_fine_tuning_flux_1_dev_on_consumer_hardware.yaml"
-  },
-  {
-    "id": "2025-06-23-huggingface-transformers_backend_integration_in_sglang",
-    "date": "2025-06-23",
-    "title": "Transformers backend integration in SGLang",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/transformers-backend-sglang"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-23-huggingface-transformers_backend_integration_in_sglang.yaml"
-  },
-  {
-    "id": "2025-06-24-deepmind-gemini_robotics_on_device_brings_ai_to_local_robotic_devices",
-    "date": "2025-06-24",
-    "title": "Gemini Robotics On-Device brings AI to local robotic devices",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "We’re introducing an efficient, on-device robotics model with general-purpose dexterity and fast task adaptation.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-24-deepmind-gemini_robotics_on_device_brings_ai_to_local_robotic_devices.yaml"
-  },
-  {
-    "id": "2025-06-25-deepmind-alphagenome_ai_for_better_understanding_the_genome",
-    "date": "2025-06-25",
-    "title": "AlphaGenome: AI for better understanding the genome",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/alphagenome-ai-for-better-understanding-the-genome/"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-25-deepmind-alphagenome_ai_for_better_understanding_the_genome.yaml"
-  },
-  {
-    "id": "2025-06-26-huggingface-gemma_3n_fully_available_in_the_open_source_ecosystem",
-    "date": "2025-06-26",
-    "title": "Gemma 3n fully available in the open-source ecosystem!",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/gemma3n"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-26-huggingface-gemma_3n_fully_available_in_the_open_source_ecosystem.yaml"
-  },
-  {
-    "id": "2025-06-27-huggingface-welcome_the_nvidia_llama_nemotron_nano_vlm_to_hugging_face_hub",
-    "date": "2025-06-27",
-    "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl"
-      }
-    ],
-    "source_file": "global/2025-06/2025-06-27-huggingface-welcome_the_nvidia_llama_nemotron_nano_vlm_to_hugging_face_hub.yaml"
+    "source_file": "global/2025-03/2025-03-25-deepmind-gemini_2_5_our_most_intelligent_ai_model.yaml"
   },
   {
     "id": "2025-12-11-google_ai-gradient_canvas_celebrating_over_a_decade_of_artistic_collaborations_wit",
@@ -3014,7 +3224,7 @@
     "links": [
       {
         "title": "openai source",
-        "url": "https://openai.com/index/gpt-5-2-codex"
+        "url": "https://openai.com/index/introducing-gpt-5-2-codex"
       }
     ],
     "source_file": "global/2025-12/2025-12-18-openai-introducing_gpt_5_2_codex.yaml"
@@ -3251,639 +3461,30 @@
     "source_file": "global/2025-12/2025-12-29-google_ai-the_latest_ai_news_we_announced_in_december.yaml"
   },
   {
-    "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
-    "date": "2025-10-24",
-    "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "New AI model integrates petabytes of Earth observation data to generate a unified data representation that revolutionizes global mapping and monitoring",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-behind_ancestra_combining_veo_with_live_action_filmmaking",
-    "date": "2025-10-25",
-    "title": "Behind “ANCESTRA”: combining Veo with live-action filmmaking",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "We partnered with Darren Aronofsky, Eliza McNitt and a team of more than 200 people to make a film using Veo and live-action filmmaking.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "deepmind",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-behind_ancestra_combining_veo_with_live_action_filmmaking.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-gemini_2_5_flash_lite_is_now_ready_for_scaled_production_use",
-    "date": "2025-10-25",
-    "title": "Gemini 2.5 Flash-Lite is now ready for scaled production use",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Gemini 2.5 Flash-Lite, previously in preview, is now stable and generally available. This cost-efficient model provides high quality in a small size, and includes 2.5 family features like a 1 million-token context window and multimodality.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-gemini_2_5_flash_lite_is_now_ready_for_scaled_production_use.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-introducing_gemma_3n_the_developer_guide",
-    "date": "2025-10-25",
-    "title": "Introducing Gemma 3n: The developer guide",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Gemma 3n is designed for the developer community that helped shape Gemma.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-introducing_gemma_3n_the_developer_guide.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-medgemma_our_most_capable_open_models_for_health_ai_development",
-    "date": "2025-10-25",
-    "title": "MedGemma: Our most capable open models for health AI development",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "We’re announcing new multimodal models in the MedGemma collection, our most capable open models for health AI development.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "deepmind",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-medgemma_our_most_capable_open_models_for_health_ai_development.yaml"
-  },
-  {
-    "id": "2025-10-25-deepmind-t5gemma_a_new_collection_of_encoder_decoder_gemma_models",
-    "date": "2025-10-25",
-    "title": "T5Gemma: A new collection of encoder-decoder Gemma models",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Introducing T5Gemma, a new collection of encoder-decoder LLMs.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "deepmind",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-25-deepmind-t5gemma_a_new_collection_of_encoder_decoder_gemma_models.yaml"
-  },
-  {
-    "id": "2025-10-27-huggingface-huggingface_hub_v1_0_five_years_of_building_the_foundation_of_open_machi",
-    "date": "2025-10-27",
-    "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+    "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
+    "date": "2025-07-10",
+    "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
-    "category": "Industry",
+    "category": "Hardware/Infra",
     "tags": [
       "global",
       "huggingface",
-      "industry"
+      "hardware_infra"
     ],
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/huggingface-hub-v1"
+        "url": "https://huggingface.co/blog/async-robot-inference"
       }
     ],
-    "source_file": "global/2025-10/2025-10-27-huggingface-huggingface_hub_v1_0_five_years_of_building_the_foundation_of_open_machi.yaml"
+    "source_file": "global/2025-07/2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution.yaml"
   },
   {
-    "id": "2025-10-27-huggingface-streaming_datasets_100x_more_efficient",
-    "date": "2025-10-27",
-    "title": "Streaming datasets: 100x More Efficient",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/streaming-datasets"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-27-huggingface-streaming_datasets_100x_more_efficient.yaml"
-  },
-  {
-    "id": "2025-10-28-huggingface-granite_4_0_nano_just_how_small_can_you_go",
-    "date": "2025-10-28",
-    "title": "Granite 4.0 Nano: Just how small can you go?",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-nano"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-huggingface-granite_4_0_nano_just_how_small_can_you_go.yaml"
-  },
-  {
-    "id": "2025-10-28-huggingface-how_to_build_a_healthcare_robot_from_simulation_to_deployment_with_nvidi",
-    "date": "2025-10-28",
-    "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-huggingface-how_to_build_a_healthcare_robot_from_simulation_to_deployment_with_nvidi.yaml"
-  },
-  {
-    "id": "2025-10-28-huggingface-voice_cloning_with_consent",
-    "date": "2025-10-28",
-    "title": "Voice Cloning with Consent",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/voice-consent-gate"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-huggingface-voice_cloning_with_consent.yaml"
-  },
-  {
-    "id": "2025-10-28-microsoft_ai-building_the_future_together_microsoft_and_nvidia_announce_ai_advancemen",
-    "date": "2025-10-28",
-    "title": "Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>New offerings in Azure AI Foundry give businesses an enterprise-grade platform to build, deploy, and scale AI applications and agents.</p>\n<p>The post <a href=\"https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/\">Building the future together: Microsoft and NVIDIA announce AI advancements at GTC DC</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://azure.microsoft.com/en-us/blog/building-the-future-together-microsoft-and-nvidia-announce-ai-advancements-at-gtc-dc/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-microsoft_ai-building_the_future_together_microsoft_and_nvidia_announce_ai_advancemen.yaml"
-  },
-  {
-    "id": "2025-10-28-microsoft_ai-how_cities_build_resilient_infrastructure_with_trusted_ai",
-    "date": "2025-10-28",
-    "title": "How cities build resilient infrastructure with trusted AI",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Cities worldwide are using trusted AI to strengthen urban infrastructure, improve sustainability, and ensure resilience against future challenges.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/industry/blog/government/2025/10/28/how-cities-build-resilient-infrastructure-with-trusted-ai/\">How cities build resilient infrastructure with trusted AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/industry/blog/government/2025/10/28/how-cities-build-resilient-infrastructure-with-trusted-ai/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-microsoft_ai-how_cities_build_resilient_infrastructure_with_trusted_ai.yaml"
-  },
-  {
-    "id": "2025-10-28-openai-built_to_benefit_everyone",
-    "date": "2025-10-28",
-    "title": "Built to benefit everyone",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/built-to-benefit-everyone"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-openai-built_to_benefit_everyone.yaml"
-  },
-  {
-    "id": "2025-10-28-openai-doppel_s_ai_defense_system_stops_attacks_before_they_spread",
-    "date": "2025-10-28",
-    "title": "Doppel’s AI defense system stops attacks before they spread",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Discover how Doppel uses OpenAI’s GPT-5 and reinforcement fine-tuning (RFT) to stop deepfake and impersonation attacks before they spread, cutting analyst workloads by 80% and reducing threat response from hours to minutes.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/doppel"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-openai-doppel_s_ai_defense_system_stops_attacks_before_they_spread.yaml"
-  },
-  {
-    "id": "2025-10-28-openai-knowledge_preservation_powered_by_chatgpt",
-    "date": "2025-10-28",
-    "title": "Knowledge preservation powered by ChatGPT",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/dai-nippon-printing"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-openai-knowledge_preservation_powered_by_chatgpt.yaml"
-  },
-  {
-    "id": "2025-10-28-openai-the_next_chapter_of_the_microsoft_openai_partnership",
-    "date": "2025-10-28",
-    "title": "The next chapter of the Microsoft–OpenAI partnership",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-28-openai-the_next_chapter_of_the_microsoft_openai_partnership.yaml"
-  },
-  {
-    "id": "2025-10-29-deepmind-accelerating_discovery_with_the_ai_for_math_initiative",
-    "date": "2025-10-29",
-    "title": "Accelerating discovery with the AI for Math Initiative",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "The initiative brings together some of the world's most prestigious research institutions to pioneer the use of AI in mathematical research.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-deepmind-accelerating_discovery_with_the_ai_for_math_initiative.yaml"
-  },
-  {
-    "id": "2025-10-29-huggingface-building_a_healthcare_robot_from_simulation_to_deployment_with_nvidia_is",
-    "date": "2025-10-29",
-    "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/lerobotxnvidia-healthcare"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-huggingface-building_a_healthcare_robot_from_simulation_to_deployment_with_nvidia_is.yaml"
-  },
-  {
-    "id": "2025-10-29-huggingface-on_the_shifting_global_compute_landscape",
-    "date": "2025-10-29",
-    "title": "On the Shifting Global Compute Landscape",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/huggingface/shifting-compute-landscape"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-huggingface-on_the_shifting_global_compute_landscape.yaml"
-  },
-  {
-    "id": "2025-10-29-openai-gpt_oss_safeguard_technical_report",
-    "date": "2025-10-29",
-    "title": "gpt-oss-safeguard technical report",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-openai-gpt_oss_safeguard_technical_report.yaml"
-  },
-  {
-    "id": "2025-10-29-openai-introducing_gpt_oss_safeguard",
-    "date": "2025-10-29",
-    "title": "Introducing gpt-oss-safeguard",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/introducing-gpt-oss-safeguard"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-openai-introducing_gpt_oss_safeguard.yaml"
-  },
-  {
-    "id": "2025-10-29-openai-technical_report_performance_and_baseline_evaluations_of_gpt_oss_safegua",
-    "date": "2025-10-29",
-    "title": "Technical Report: Performance and baseline evaluations of gpt-oss-safeguard-120b and gpt-oss-safeguard-20b",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "gpt-oss-safeguard-120b and gpt-oss-safeguard-20b are two open-weight reasoning models post-trained from the gpt-oss models and trained to reason from a provided policy in order to label content under that policy. In this report, we describe gpt-oss-safeguard’s capabilities and provide our baseline safety evaluations on the gpt-oss-safeguard models, using the underlying gpt-oss models as a baseline. For more information about the development and architecture of the underlying gpt-oss models, see the original gpt-oss model model card⁠.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "openai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/gpt-oss-safeguard-technical-report"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-29-openai-technical_report_performance_and_baseline_evaluations_of_gpt_oss_safegua.yaml"
-  },
-  {
-    "id": "2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2",
-    "date": "2025-10-30",
-    "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-huggingface-aligning_to_what_rethinking_agent_generalization_in_minimax_m2.yaml"
-  },
-  {
-    "id": "2025-10-30-microsoft_ai-3_ways_to_navigate_changing_tariffs_with_ai_agents",
-    "date": "2025-10-30",
-    "title": "3 ways to navigate changing tariffs with AI agents",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Stay ahead of shifting tariffs with an AI agent that monitors trade updates, automates compliance checks, and helps your supply chain adapt to global changes in real time.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/30/navigate-changing-tariffs-build-an-agent-that-keeps-up-with-your-supply-chain/\">3 ways to navigate changing tariffs with AI agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2025/10/30/navigate-changing-tariffs-build-an-agent-that-keeps-up-with-your-supply-chain/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-microsoft_ai-3_ways_to_navigate_changing_tariffs_with_ai_agents.yaml"
-  },
-  {
-    "id": "2025-10-30-microsoft_ai-celebrating_makers_and_innovation_at_power_platform_community_conference",
-    "date": "2025-10-30",
-    "title": "Celebrating makers and innovation at Power Platform Community Conference 2025",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Over 7,000 makers explored innovation with Microsoft Power Platform and Copilot Studio—building smarter, faster, and together.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/power-platform/blog/2025/10/30/celebrating-makers-and-innovation-at-power-platform-community-conference-2025/\">Celebrating makers and innovation at Power Platform Community Conference 2025</a> appeared first on <a href=\"https://www.microsoft.com/en-us/ai/blog\">Microsoft AI Blogs</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/power-platform/blog/2025/10/30/celebrating-makers-and-innovation-at-power-platform-community-conference-2025/"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-microsoft_ai-celebrating_makers_and_innovation_at_power_platform_community_conference.yaml"
-  },
-  {
-    "id": "2025-10-30-openai-expanding_stargate_to_michigan",
-    "date": "2025-10-30",
-    "title": "Expanding Stargate to Michigan",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "openai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/expanding-stargate-to-michigan"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-openai-expanding_stargate_to_michigan.yaml"
-  },
-  {
-    "id": "2025-10-30-openai-how_we_built_owl_the_new_architecture_behind_our_chatgpt_based_browser_a",
-    "date": "2025-10-30",
-    "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/building-chatgpt-atlas"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-openai-how_we_built_owl_the_new_architecture_behind_our_chatgpt_based_browser_a.yaml"
-  },
-  {
-    "id": "2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher",
-    "date": "2025-10-30",
-    "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/introducing-aardvark"
-      }
-    ],
-    "source_file": "global/2025-10/2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher.yaml"
-  },
-  {
-    "id": "2025-11-21-huggingface-20x_faster_trl_fine_tuning_with_rapidfire_ai",
-    "date": "2025-11-21",
-    "title": "20x Faster TRL Fine-tuning with RapidFire AI",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/rapidfireai"
-      }
-    ],
-    "source_file": "global/2025-11/2025-11-21-huggingface-20x_faster_trl_fine_tuning_with_rapidfire_ai.yaml"
-  },
-  {
-    "id": "2025-11-21-huggingface-open_asr_leaderboard_trends_and_insights_with_new_multilingual_long_form",
-    "date": "2025-11-21",
-    "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+    "id": "2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod",
+    "date": "2025-07-10",
+    "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
     "status": "completed",
     "owner": "huggingface",
     "notes": "See source link.",
@@ -3896,10 +3497,367 @@
     "links": [
       {
         "title": "huggingface source",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard"
+        "url": "https://huggingface.co/blog/AI-MO/kimina-prover"
       }
     ],
-    "source_file": "global/2025-11/2025-11-21-huggingface-open_asr_leaderboard_trends_and_insights_with_new_multilingual_long_form.yaml"
+    "source_file": "global/2025-07/2025-07-10-huggingface-kimina_prover_applying_test_time_rl_search_on_large_formal_reasoning_mod.yaml"
+  },
+  {
+    "id": "2025-07-15-huggingface-migrating_the_hub_from_git_lfs_to_xet",
+    "date": "2025-07-15",
+    "title": "Migrating the Hub from Git LFS to Xet",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/migrating-the-hub-to-xet"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-15-huggingface-migrating_the_hub_from_git_lfs_to_xet.yaml"
+  },
+  {
+    "id": "2025-07-16-huggingface-ettin_suite_sota_paired_encoders_and_decoders",
+    "date": "2025-07-16",
+    "title": "Ettin Suite: SoTA Paired Encoders and Decoders",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/ettin"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-16-huggingface-ettin_suite_sota_paired_encoders_and_decoders.yaml"
+  },
+  {
+    "id": "2025-07-17-huggingface-back_to_the_future_evaluating_ai_agents_on_predicting_future_events",
+    "date": "2025-07-17",
+    "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "huggingface",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/futurebench"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-17-huggingface-back_to_the_future_evaluating_ai_agents_on_predicting_future_events.yaml"
+  },
+  {
+    "id": "2025-07-17-huggingface-consilium_when_multiple_llms_collaborate",
+    "date": "2025-07-17",
+    "title": "Consilium: When Multiple LLMs Collaborate",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/consilium-multi-llm"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-17-huggingface-consilium_when_multiple_llms_collaborate.yaml"
+  },
+  {
+    "id": "2025-07-17-huggingface-five_big_improvements_to_gradio_mcp_servers",
+    "date": "2025-07-17",
+    "title": "Five Big Improvements to Gradio MCP Servers",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/gradio-mcp-updates"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-17-huggingface-five_big_improvements_to_gradio_mcp_servers.yaml"
+  },
+  {
+    "id": "2025-07-18-huggingface-arc_virtual_cell_challenge_a_primer",
+    "date": "2025-07-18",
+    "title": "Arc Virtual Cell Challenge: A Primer",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/virtual-cell-challenge"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-18-huggingface-arc_virtual_cell_challenge_a_primer.yaml"
+  },
+  {
+    "id": "2025-07-21-huggingface-accelerate_a_world_of_llms_on_hugging_face_with_nvidia_nim",
+    "date": "2025-07-21",
+    "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/multi-llm-nim"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-21-huggingface-accelerate_a_world_of_llms_on_hugging_face_with_nvidia_nim.yaml"
+  },
+  {
+    "id": "2025-07-23-anthropic-policy_jul_23_2025_thoughts_on_america_s_ai_action_plan_anthropic_s_resp",
+    "date": "2025-07-23",
+    "title": "Policy Jul 23, 2025 Thoughts on America’s AI Action Plan Anthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "anthropic",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-23-anthropic-policy_jul_23_2025_thoughts_on_america_s_ai_action_plan_anthropic_s_resp.yaml"
+  },
+  {
+    "id": "2025-07-23-huggingface-fast_lora_inference_for_flux_with_diffusers_and_peft",
+    "date": "2025-07-23",
+    "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/lora-fast"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-23-huggingface-fast_lora_inference_for_flux_with_diffusers_and_peft.yaml"
+  },
+  {
+    "id": "2025-07-23-huggingface-timescope_how_long_can_your_video_large_multimodal_model_go",
+    "date": "2025-07-23",
+    "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "huggingface",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-23-huggingface-timescope_how_long_can_your_video_large_multimodal_model_go.yaml"
+  },
+  {
+    "id": "2025-07-25-huggingface-parquet_content_defined_chunking",
+    "date": "2025-07-25",
+    "title": "Parquet Content-Defined Chunking",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/parquet-cdc"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-25-huggingface-parquet_content_defined_chunking.yaml"
+  },
+  {
+    "id": "2025-07-25-huggingface-say_hello_to_hf_a_faster_friendlier_hugging_face_cli",
+    "date": "2025-07-25",
+    "title": "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/hf-cli"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-25-huggingface-say_hello_to_hf_a_faster_friendlier_hugging_face_cli.yaml"
+  },
+  {
+    "id": "2025-07-29-huggingface-introducing_trackio_a_lightweight_experiment_tracking_library_from_huggi",
+    "date": "2025-07-29",
+    "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/trackio"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-29-huggingface-introducing_trackio_a_lightweight_experiment_tracking_library_from_huggi.yaml"
+  },
+  {
+    "id": "2025-07-31-huggingface-implementing_mcp_servers_in_python_an_ai_shopping_assistant_with_gradio",
+    "date": "2025-07-31",
+    "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/gradio-vton-mcp"
+      }
+    ],
+    "source_file": "global/2025-07/2025-07-31-huggingface-implementing_mcp_servers_in_python_an_ai_shopping_assistant_with_gradio.yaml"
+  },
+  {
+    "id": "2025-02-04-deepmind-updating_the_frontier_safety_framework",
+    "date": "2025-02-04",
+    "title": "Updating the Frontier Safety Framework",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Our next iteration of the FSF sets out stronger security protocols on the path to AGI",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "deepmind",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/updating-the-frontier-safety-framework/"
+      }
+    ],
+    "source_file": "global/2025-02/2025-02-04-deepmind-updating_the_frontier_safety_framework.yaml"
+  },
+  {
+    "id": "2025-02-05-deepmind-gemini_2_0_is_now_available_to_everyone",
+    "date": "2025-02-05",
+    "title": "Gemini 2.0 is now available to everyone",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "We’re announcing new updates to Gemini 2.0 Flash, plus introducing Gemini 2.0 Flash-Lite and Gemini 2.0 Pro Experimental.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-2-0-is-now-available-to-everyone/"
+      }
+    ],
+    "source_file": "global/2025-02/2025-02-05-deepmind-gemini_2_0_is_now_available_to_everyone.yaml"
+  },
+  {
+    "id": "2025-02-25-deepmind-start_building_with_gemini_2_0_flash_and_flash_lite",
+    "date": "2025-02-25",
+    "title": "Start building with Gemini 2.0 Flash and Flash-Lite",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Gemini 2.0 Flash-Lite is now generally available in the Gemini API for production use in Google AI Studio and for enterprise customers on Vertex AI",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/start-building-with-gemini-20-flash-and-flash-lite/"
+      }
+    ],
+    "source_file": "global/2025-02/2025-02-25-deepmind-start_building_with_gemini_2_0_flash_and_flash_lite.yaml"
   },
   {
     "id": "2025-11-24-aws_ai-aws_weekly_roundup_how_to_join_aws_re_invent_2025_plus_kiro_ga_and_lots_",
