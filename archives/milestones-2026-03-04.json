@@ -3860,48 +3860,6 @@
     "source_file": "global/2025-10/2025-10-30-openai-introducing_aardvark_openai_s_agentic_security_researcher.yaml"
   },
   {
-    "id": "2025-11-20-deepmind-build_with_nano_banana_pro_our_gemini_3_pro_image_model",
-    "date": "2025-11-20",
-    "title": "Build with Nano Banana Pro, our Gemini 3 Pro Image model",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "deepmind",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/"
-      }
-    ],
-    "source_file": "global/2025-11/2025-11-20-deepmind-build_with_nano_banana_pro_our_gemini_3_pro_image_model.yaml"
-  },
-  {
-    "id": "2025-11-20-deepmind-how_we_re_bringing_ai_image_verification_to_the_gemini_app",
-    "date": "2025-11-20",
-    "title": "How we’re bringing AI image verification to the Gemini app",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/"
-      }
-    ],
-    "source_file": "global/2025-11/2025-11-20-deepmind-how_we_re_bringing_ai_image_verification_to_the_gemini_app.yaml"
-  },
-  {
     "id": "2025-11-21-huggingface-20x_faster_trl_fine_tuning_with_rapidfire_ai",
     "date": "2025-11-21",
     "title": "20x Faster TRL Fine-tuning with RapidFire AI",
