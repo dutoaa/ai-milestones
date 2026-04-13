@@ -395,48 +395,6 @@
     "source_file": "global/2025-05/2025-05-28-huggingface-codeagents_structure_a_better_way_to_execute_actions.yaml"
   },
   {
-    "id": "2025-12-11-aws_ml-how_harmonic_security_improved_their_data_leakage_detection_system_with_",
-    "date": "2025-12-11",
-    "title": "How Harmonic Security improved their data-leakage detection system with low-latency fine-tuned models using Amazon SageMaker, Amazon Bedrock, and Amazon Nova Pro",
-    "status": "completed",
-    "owner": "aws_ml",
-    "notes": "This post walks through how Harmonic Security used Amazon SageMaker AI, Amazon Bedrock, and Amazon Nova Pro to fine-tune a ModernBERT model, achieving low-latency, accurate, and scalable data leakage detection.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "aws_ml",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "aws_ml source",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-harmonic-security-improved-their-data-leakage-detection-system-with-low-latency-fine-tuned-models-using-amazon-sagemaker-amazon-bedrock-and-amazon-nova-pro/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-11-aws_ml-how_harmonic_security_improved_their_data_leakage_detection_system_with_.yaml"
-  },
-  {
-    "id": "2025-12-11-aws_ml-how_swisscom_builds_enterprise_agentic_ai_for_customer_support_and_sales",
-    "date": "2025-12-11",
-    "title": "How Swisscom builds enterprise agentic AI for customer support and sales using Amazon Bedrock AgentCore",
-    "status": "completed",
-    "owner": "aws_ml",
-    "notes": "In this post, we'll show how Swisscom implemented Amazon Bedrock AgentCore to build and scale their enterprise AI agents for customer support and sales operations. As an early adopter of Amazon Bedrock in the AWS Europe Region (Zurich), Swisscom leads in enterprise AI implementation with their Chatbot Builder system and various AI initiatives. Their successful deployments include Conversational AI powered by Rasa and fine-tuned LLMs on Amazon SageMaker, and the Swisscom Swisscom myAI assistant, built to meet Swiss data protection standards.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "aws_ml",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "aws_ml source",
-        "url": "https://aws.amazon.com/blogs/machine-learning/how-swisscom-builds-enterprise-agentic-ai-for-customer-support-and-sales-using-amazon-bedrock-agentcore/"
-      }
-    ],
-    "source_file": "global/2025-12/2025-12-11-aws_ml-how_swisscom_builds_enterprise_agentic_ai_for_customer_support_and_sales.yaml"
-  },
-  {
     "id": "2025-12-11-google_ai-gradient_canvas_celebrating_over_a_decade_of_artistic_collaborations_wit",
     "date": "2025-12-11",
     "title": "Gradient Canvas: Celebrating over a decade of artistic collaborations with AI",
