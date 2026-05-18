@@ -267,6 +267,7 @@
           const matchStatus = statusValue === 'all' || m.status === statusValue
           return matchQuery && matchCat && matchStatus
         })
+        filtered.sort((a, b) => (b.date || '').localeCompare(a.date || ''))
         render(filtered)
       }
 
