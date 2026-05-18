@@ -1,6 +1,12 @@
 {
   "archives": [
     {
+      "filename": "milestones-2026-05-18.json",
+      "date": "2026-05-18",
+      "milestone_count": 210,
+      "archived_at": "2026-05-18T00:04:19.659728"
+    },
+    {
       "filename": "milestones-2026-05-17.json",
       "date": "2026-05-17",
       "milestone_count": 210,
