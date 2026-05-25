@@ -1424,27 +1424,6 @@
     "source_file": "global/2026-03/2026-03-25-openai-inside_our_approach_to_the_model_spec.yaml"
   },
   {
-    "id": "2026-03-25-openai-introducing_the_openai_safety_bug_bounty_program",
-    "date": "2026-03-25",
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "openai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/safety-bug-bounty"
-      }
-    ],
-    "source_file": "global/2026-03/2026-03-25-openai-introducing_the_openai_safety_bug_bounty_program.yaml"
-  },
-  {
     "id": "2026-03-26-deepmind-gemini_3_1_flash_live_making_audio_ai_more_natural_and_reliable",
     "date": "2026-03-26",
     "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -4950,27 +4929,6 @@
       }
     ],
     "source_file": "global/2026-05/2026-05-21-deepmind-we_re_launching_the_google_deepmind_accelerator_program_in_asia_pacific_.yaml"
-  },
-  {
-    "id": "2026-05-21-microsoft_ai-ai_needs_more_than_intelligence_it_needs_humanity",
-    "date": "2026-05-21",
-    "title": "AI needs more than intelligence—it needs humanity",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Turn AI investment into real organizational momentum by strengthening the human skills that shape culture and guide decisions to help teams work confidently and creatively with AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/\">AI needs more than intelligence—it needs humanity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-21-microsoft_ai-ai_needs_more_than_intelligence_it_needs_humanity.yaml"
   },
   {
     "id": "2026-05-21-openai-adventhealth_advances_whole_person_care_with_openai",

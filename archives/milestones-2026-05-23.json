@@ -1424,27 +1424,6 @@
     "source_file": "global/2026-03/2026-03-25-openai-inside_our_approach_to_the_model_spec.yaml"
   },
   {
-    "id": "2026-03-25-openai-introducing_the_openai_safety_bug_bounty_program",
-    "date": "2026-03-25",
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "openai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/safety-bug-bounty"
-      }
-    ],
-    "source_file": "global/2026-03/2026-03-25-openai-introducing_the_openai_safety_bug_bounty_program.yaml"
-  },
-  {
     "id": "2026-03-26-deepmind-gemini_3_1_flash_live_making_audio_ai_more_natural_and_reliable",
     "date": "2026-03-26",
     "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -3755,27 +3734,6 @@
     "source_file": "global/2026-04/2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon.yaml"
   },
   {
-    "id": "2026-04-27-google_ai-join_the_new_ai_agents_vibe_coding_course_from_google_and_kaggle",
-    "date": "2026-04-27",
-    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "A web next to a laptop",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/"
-      }
-    ],
-    "source_file": "global/2026-04/2026-04-27-google_ai-join_the_new_ai_agents_vibe_coding_course_from_google_and_kaggle.yaml"
-  },
-  {
     "id": "2026-04-27-openai-openai_available_at_fedramp_moderate",
     "date": "2026-04-27",
     "title": "OpenAI available at FedRAMP Moderate",
@@ -4952,27 +4910,6 @@
     "source_file": "global/2026-05/2026-05-21-deepmind-we_re_launching_the_google_deepmind_accelerator_program_in_asia_pacific_.yaml"
   },
   {
-    "id": "2026-05-21-microsoft_ai-ai_needs_more_than_intelligence_it_needs_humanity",
-    "date": "2026-05-21",
-    "title": "AI needs more than intelligence—it needs humanity",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Turn AI investment into real organizational momentum by strengthening the human skills that shape culture and guide decisions to help teams work confidently and creatively with AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/\">AI needs more than intelligence—it needs humanity</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-21-microsoft_ai-ai_needs_more_than_intelligence_it_needs_humanity.yaml"
-  },
-  {
     "id": "2026-05-21-openai-adventhealth_advances_whole_person_care_with_openai",
     "date": "2026-05-21",
     "title": "AdventHealth advances whole-person care with OpenAI",
@@ -4992,111 +4929,6 @@
       }
     ],
     "source_file": "global/2026-05/2026-05-21-openai-adventhealth_advances_whole_person_care_with_openai.yaml"
-  },
-  {
-    "id": "2026-05-22-google_ai-catch_up_on_the_dialogues_stage_at_google_i_o_2026",
-    "date": "2026-05-22",
-    "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "Alphabet CEO Sundar Pichai in conversation on the I/O 2026 Dialogues stage",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-22-google_ai-catch_up_on_the_dialogues_stage_at_google_i_o_2026.yaml"
-  },
-  {
-    "id": "2026-05-22-huggingface-specialization_beats_scale_a_strategic_variable_most_ai_procurement_deci",
-    "date": "2026-05-22",
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-22-huggingface-specialization_beats_scale_a_strategic_variable_most_ai_procurement_deci.yaml"
-  },
-  {
-    "id": "2026-05-22-openai-how_virgin_atlantic_ships_faster_with_codex",
-    "date": "2026-05-22",
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/virgin-atlantic"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-22-openai-how_virgin_atlantic_ships_faster_with_codex.yaml"
-  },
-  {
-    "id": "2026-05-22-openai-openai_named_a_leader_in_enterprise_coding_agents_by_gartner",
-    "date": "2026-05-22",
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "openai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-22-openai-openai_named_a_leader_in_enterprise_coding_agents_by_gartner.yaml"
-  },
-  {
-    "id": "2026-05-23-huggingface-towards_speed_of_light_text_generation_with_nemotron_labs_diffusion_lang",
-    "date": "2026-05-23",
-    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-23-huggingface-towards_speed_of_light_text_generation_with_nemotron_labs_diffusion_lang.yaml"
   },
   {
     "id": "2025-12-11-aws_ml-how_harmonic_security_improved_their_data_leakage_detection_system_with_",
