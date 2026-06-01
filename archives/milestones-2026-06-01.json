@@ -4280,27 +4280,6 @@
     "source_file": "global/2025-05/2025-05-28-huggingface-codeagents_structure_a_better_way_to_execute_actions.yaml"
   },
   {
-    "id": "2026-06-01-huggingface-welcome_nvidia_cosmos_3_the_first_open_omni_model_for_physical_ai_reason",
-    "date": "2026-06-01",
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "huggingface",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-01-huggingface-welcome_nvidia_cosmos_3_the_first_open_omni_model_for_physical_ai_reason.yaml"
-  },
-  {
     "id": "2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon",
     "date": "2026-04-27",
     "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",

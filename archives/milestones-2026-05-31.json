@@ -2201,27 +2201,6 @@
     "source_file": "global/2026-05/2026-05-28-aws_ai-introducing_the_next_generation_of_amazon_opensearch_serverless_for_buil.yaml"
   },
   {
-    "id": "2026-05-28-aws_ai-introducing_the_next_generation_of_aws_resilience_hub_for_generative_ai_",
-    "date": "2026-05-28",
-    "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
-    "status": "completed",
-    "owner": "aws_ai",
-    "notes": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model, dependency discovery assessment, generative AI-powered failure mode analysis, modular resilience policies, and organization-wide reporting.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "aws_ai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "aws_ai source",
-        "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-28-aws_ai-introducing_the_next_generation_of_aws_resilience_hub_for_generative_ai_.yaml"
-  },
-  {
     "id": "2026-05-28-google_ai-catch_up_on_12_major_i_o_2026_moments",
     "date": "2026-05-28",
     "title": "Catch up on 12 major I/O 2026 moments",
@@ -4278,27 +4257,6 @@
       }
     ],
     "source_file": "global/2025-05/2025-05-28-huggingface-codeagents_structure_a_better_way_to_execute_actions.yaml"
-  },
-  {
-    "id": "2026-06-01-huggingface-welcome_nvidia_cosmos_3_the_first_open_omni_model_for_physical_ai_reason",
-    "date": "2026-06-01",
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "huggingface",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-01-huggingface-welcome_nvidia_cosmos_3_the_first_open_omni_model_for_physical_ai_reason.yaml"
   },
   {
     "id": "2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon",

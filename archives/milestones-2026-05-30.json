@@ -2201,27 +2201,6 @@
     "source_file": "global/2026-05/2026-05-28-aws_ai-introducing_the_next_generation_of_amazon_opensearch_serverless_for_buil.yaml"
   },
   {
-    "id": "2026-05-28-aws_ai-introducing_the_next_generation_of_aws_resilience_hub_for_generative_ai_",
-    "date": "2026-05-28",
-    "title": "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey",
-    "status": "completed",
-    "owner": "aws_ai",
-    "notes": "AWS launches the next generation of AWS Resilience Hub with a significantly expanded experience that brings together a new application model, dependency discovery assessment, generative AI-powered failure mode analysis, modular resilience policies, and organization-wide reporting.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "aws_ai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "aws_ai source",
-        "url": "https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-aws-resilience-hub-for-generative-ai-based-sre-resilience-journey/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-28-aws_ai-introducing_the_next_generation_of_aws_resilience_hub_for_generative_ai_.yaml"
-  },
-  {
     "id": "2026-05-28-google_ai-catch_up_on_12_major_i_o_2026_moments",
     "date": "2026-05-28",
     "title": "Catch up on 12 major I/O 2026 moments",
@@ -2304,174 +2283,6 @@
       }
     ],
     "source_file": "global/2026-05/2026-05-28-openai-openai_s_frontier_governance_framework.yaml"
-  },
-  {
-    "id": "2026-05-29-google_ai-9_demos_of_gemini_omni_and_gemini_3_5_in_action",
-    "date": "2026-05-29",
-    "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "Gemini Omni & Gemini 3.5 hero",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "google_ai",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-google_ai-9_demos_of_gemini_omni_and_gemini_3_5_in_action.yaml"
-  },
-  {
-    "id": "2026-05-29-google_ai-check_out_real_life_ai_prototypes_from_the_futures_lab",
-    "date": "2026-05-29",
-    "title": "Check out real-life AI prototypes from the Futures Lab.",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp\" />University of Waterloo students develop AI prototypes like sign language tutors to reshape the future of education and work.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-google_ai-check_out_real_life_ai_prototypes_from_the_futures_lab.yaml"
-  },
-  {
-    "id": "2026-05-29-google_ai-take_our_i_o_2026_quiz_vibe_coded_in_google_ai_studio",
-    "date": "2026-05-29",
-    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp\" />We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-google_ai-take_our_i_o_2026_quiz_vibe_coded_in_google_ai_studio.yaml"
-  },
-  {
-    "id": "2026-05-29-huggingface-profiling_in_pytorch_part_1_a_beginner_s_guide_to_torch_profiler",
-    "date": "2026-05-29",
-    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/torch-profiler"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-huggingface-profiling_in_pytorch_part_1_a_beginner_s_guide_to_torch_profiler.yaml"
-  },
-  {
-    "id": "2026-05-29-openai-a_shared_playbook_for_trustworthy_third_party_evaluations",
-    "date": "2026-05-29",
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "openai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-openai-a_shared_playbook_for_trustworthy_third_party_evaluations.yaml"
-  },
-  {
-    "id": "2026-05-29-openai-boston_children_s_uses_ai_to_unlock_new_diagnoses",
-    "date": "2026-05-29",
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/boston-childrens-hospital"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-openai-boston_children_s_uses_ai_to_unlock_new_diagnoses.yaml"
-  },
-  {
-    "id": "2026-05-29-openai-how_braintrust_turns_customer_requests_into_code_with_codex",
-    "date": "2026-05-29",
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/braintrust"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-openai-how_braintrust_turns_customer_requests_into_code_with_codex.yaml"
-  },
-  {
-    "id": "2026-05-29-openai-strengthening_societal_resilience_with_rosalind_biodefense",
-    "date": "2026-05-29",
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-29-openai-strengthening_societal_resilience_with_rosalind_biodefense.yaml"
   },
   {
     "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
@@ -4280,27 +4091,6 @@
     "source_file": "global/2025-05/2025-05-28-huggingface-codeagents_structure_a_better_way_to_execute_actions.yaml"
   },
   {
-    "id": "2026-06-01-huggingface-welcome_nvidia_cosmos_3_the_first_open_omni_model_for_physical_ai_reason",
-    "date": "2026-06-01",
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "huggingface",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-01-huggingface-welcome_nvidia_cosmos_3_the_first_open_omni_model_for_physical_ai_reason.yaml"
-  },
-  {
     "id": "2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon",
     "date": "2026-04-27",
     "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
@@ -4320,27 +4110,6 @@
       }
     ],
     "source_file": "global/2026-04/2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon.yaml"
-  },
-  {
-    "id": "2026-04-27-deepmind-announcing_our_partnership_with_the_republic_of_korea",
-    "date": "2026-04-27",
-    "title": "Announcing our partnership with the Republic of Korea",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
-      }
-    ],
-    "source_file": "global/2026-04/2026-04-27-deepmind-announcing_our_partnership_with_the_republic_of_korea.yaml"
   },
   {
     "id": "2026-04-27-google_ai-join_the_new_ai_agents_vibe_coding_course_from_google_and_kaggle",
@@ -4383,27 +4152,6 @@
       }
     ],
     "source_file": "global/2026-04/2026-04-27-openai-openai_available_at_fedramp_moderate.yaml"
-  },
-  {
-    "id": "2026-04-27-openai-the_next_phase_of_the_microsoft_openai_partnership",
-    "date": "2026-04-27",
-    "title": "The next phase of the Microsoft OpenAI partnership",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/next-phase-of-microsoft-partnership"
-      }
-    ],
-    "source_file": "global/2026-04/2026-04-27-openai-the_next_phase_of_the_microsoft_openai_partnership.yaml"
   },
   {
     "id": "2026-04-28-anthropic-apr_28_2026_announcements_claude_for_creative_work",
