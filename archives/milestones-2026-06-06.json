@@ -3230,27 +3230,6 @@
     "source_file": "global/2025-04/2025-04-24-deepmind-music_ai_sandbox_now_with_new_features_and_broader_access.yaml"
   },
   {
-    "id": "2026-03-10-huggingface-keep_the_tokens_flowing_lessons_from_16_open_source_rl_libraries",
-    "date": "2026-03-10",
-    "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Hardware/Infra",
-    "tags": [
-      "global",
-      "huggingface",
-      "hardware_infra"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/async-rl-training-landscape"
-      }
-    ],
-    "source_file": "global/2026-03/2026-03-10-huggingface-keep_the_tokens_flowing_lessons_from_16_open_source_rl_libraries.yaml"
-  },
-  {
     "id": "2026-03-17-deepmind-measuring_progress_toward_agi_a_cognitive_framework",
     "date": "2026-03-17",
     "title": "Measuring progress toward AGI: A cognitive framework",
@@ -4950,111 +4929,6 @@
       }
     ],
     "source_file": "global/2026-06/2026-06-04-openai-how_endava_is_redesigning_software_delivery_around_ai_agents.yaml"
-  },
-  {
-    "id": "2026-06-05-aws_ai-try_the_new_console_experience_in_amazon_bedrock_optimized_for_anthropic",
-    "date": "2026-06-05",
-    "title": "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs",
-    "status": "completed",
-    "owner": "aws_ai",
-    "notes": "You can use the new console experience on Amazon Bedrock to browse and compare the latest AI models side by side, organize work into projects with streamlined evaluation workflows, and access project-aware live documentation with auto-prefilled code snippets ready to copy and run.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "aws_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "aws_ai source",
-        "url": "https://aws.amazon.com/blogs/aws/try-the-new-console-experience-in-amazon-bedrock-optimized-for-anthropic-and-openai-compatible-apis/"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-05-aws_ai-try_the_new_console_experience_in_amazon_bedrock_optimized_for_anthropic.yaml"
-  },
-  {
-    "id": "2026-06-05-google_ai-the_latest_ai_news_we_announced_in_may_2026",
-    "date": "2026-06-05",
-    "title": "The latest AI news we announced in May 2026",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "May AI recap",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "google_ai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-05-google_ai-the_latest_ai_news_we_announced_in_may_2026.yaml"
-  },
-  {
-    "id": "2026-06-05-huggingface-thousand_token_wood_shipping_a_multi_agent_economy_on_a_3b_model",
-    "date": "2026-06-05",
-    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-05-huggingface-thousand_token_wood_shipping_a_multi_agent_economy_on_a_3b_model.yaml"
-  },
-  {
-    "id": "2026-06-06-huggingface-five_labs_five_minds_building_a_multi_model_finance_drama_on_small_model",
-    "date": "2026-06-06",
-    "title": "Five labs, five minds: building a multi-model finance drama on small models",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-06-huggingface-five_labs_five_minds_building_a_multi_model_finance_drama_on_small_model.yaml"
-  },
-  {
-    "id": "2026-06-07-huggingface-amazing_digital_dentures_a_failed_project",
-    "date": "2026-06-07",
-    "title": "Amazing Digital Dentures (a failed project)",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-07-huggingface-amazing_digital_dentures_a_failed_project.yaml"
   },
   {
     "id": "2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon",

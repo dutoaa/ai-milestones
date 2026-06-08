@@ -5015,48 +5015,6 @@
     "source_file": "global/2026-06/2026-06-05-huggingface-thousand_token_wood_shipping_a_multi_agent_economy_on_a_3b_model.yaml"
   },
   {
-    "id": "2026-06-06-huggingface-five_labs_five_minds_building_a_multi_model_finance_drama_on_small_model",
-    "date": "2026-06-06",
-    "title": "Five labs, five minds: building a multi-model finance drama on small models",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-06-huggingface-five_labs_five_minds_building_a_multi_model_finance_drama_on_small_model.yaml"
-  },
-  {
-    "id": "2026-06-07-huggingface-amazing_digital_dentures_a_failed_project",
-    "date": "2026-06-07",
-    "title": "Amazing Digital Dentures (a failed project)",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-07-huggingface-amazing_digital_dentures_a_failed_project.yaml"
-  },
-  {
     "id": "2026-04-27-aws_ai-aws_weekly_roundup_anthropic_meta_partnership_aws_lambda_s3_files_amazon",
     "date": "2026-04-27",
     "title": "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)",
