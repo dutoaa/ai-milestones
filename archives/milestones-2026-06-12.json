@@ -3566,27 +3566,6 @@
     "source_file": "global/2026-05/2026-05-28-anthropic-may_28_2026_announcements_anthropic_raises_65b_in_series_h_funding_at_96.yaml"
   },
   {
-    "id": "2026-05-28-anthropic-may_28_2026_product_introducing_claude_opus_4_8",
-    "date": "2026-05-28",
-    "title": "May 28, 2026 Product Introducing Claude Opus 4.8",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/claude-opus-4-8"
-      }
-    ],
-    "source_file": "global/2026-05/2026-05-28-anthropic-may_28_2026_product_introducing_claude_opus_4_8.yaml"
-  },
-  {
     "id": "2026-05-28-anthropic-product_may_28_2026_introducing_claude_opus_4_8_an_upgrade_to_our_opus_c",
     "date": "2026-05-28",
     "title": "Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
@@ -8795,27 +8774,6 @@
     "source_file": "global/2026-06/2026-06-10-deepmind-diffusiongemma_4x_faster_text_generation.yaml"
   },
   {
-    "id": "2026-06-10-deepmind-investing_in_multi_agent_ai_safety_research",
-    "date": "2026-06-10",
-    "title": "Investing in multi-agent AI safety research",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "deepmind",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-10-deepmind-investing_in_multi_agent_ai_safety_research.yaml"
-  },
-  {
     "id": "2026-06-10-microsoft_ai-ai_amplifies_creativity_by_removing_friction",
     "date": "2026-06-10",
     "title": "AI amplifies creativity by removing friction",
@@ -8900,69 +8858,6 @@
     "source_file": "global/2026-06/2026-06-10-openai-prc_linked_influence_operations_are_targeting_ai_debates_in_the_us.yaml"
   },
   {
-    "id": "2026-06-11-anthropic-announcements_jun_11_2026_introducing_claude_corps_we_re_launching_claud",
-    "date": "2026-06-11",
-    "title": "Announcements Jun 11, 2026 Introducing Claude Corps We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "anthropic",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/claude-corps"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-11-anthropic-announcements_jun_11_2026_introducing_claude_corps_we_re_launching_claud.yaml"
-  },
-  {
-    "id": "2026-06-11-anthropic-jun_11_2026_announcements_dxc_will_integrate_claude_into_the_systems_ban",
-    "date": "2026-06-11",
-    "title": "Jun 11, 2026 Announcements DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-11-anthropic-jun_11_2026_announcements_dxc_will_integrate_claude_into_the_systems_ban.yaml"
-  },
-  {
-    "id": "2026-06-11-google_ai-our_new_community_investments_in_virginia_support_local_jobs_and_expand_",
-    "date": "2026-06-11",
-    "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/VirginiaSocial.max-600x600.format-webp.webp\" />We’re helping build the state’s next-generation workforce and investing in energy programs.",
-    "category": "Funding/M&A",
-    "tags": [
-      "global",
-      "google_ai",
-      "funding_m_a"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-11-google_ai-our_new_community_investments_in_virginia_support_local_jobs_and_expand_.yaml"
-  },
-  {
     "id": "2026-06-11-huggingface-profiling_in_pytorch_part_2_from_nn_linear_to_a_fused_mlp",
     "date": "2026-06-11",
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
@@ -8982,48 +8877,6 @@
       }
     ],
     "source_file": "global/2026-06/2026-06-11-huggingface-profiling_in_pytorch_part_2_from_nn_linear_to_a_fused_mlp.yaml"
-  },
-  {
-    "id": "2026-06-11-microsoft_ai-the_cmo_on_the_frontier_from_ai_experimentation_to_ai_at_work",
-    "date": "2026-06-11",
-    "title": "The CMO on the frontier: From AI experimentation to AI at work",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>Marketing is at an inflection point. Across industries, CMOs are no longer asking whether AI will transform marketing but how fast they can move from experimentation to impact, and how to re‑architect work so AI shows up where decisions are actually made.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/11/the-cmo-on-the-frontier-from-ai-experimentation-to-ai-at-work/\">The CMO on the frontier: From AI experimentation to AI at work</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/11/the-cmo-on-the-frontier-from-ai-experimentation-to-ai-at-work/"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-11-microsoft_ai-the_cmo_on_the_frontier_from_ai_experimentation_to_ai_at_work.yaml"
-  },
-  {
-    "id": "2026-06-11-openai-bbva_puts_ai_at_the_core_of_banking_with_openai",
-    "date": "2026-06-11",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/bbva"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-11-openai-bbva_puts_ai_at_the_core_of_banking_with_openai.yaml"
   },
   {
     "id": "2026-06-11-openai-how_an_astrophysicist_uses_codex_to_help_simulate_black_holes",
@@ -9047,27 +8900,6 @@
     "source_file": "global/2026-06/2026-06-11-openai-how_an_astrophysicist_uses_codex_to_help_simulate_black_holes.yaml"
   },
   {
-    "id": "2026-06-11-openai-openai_to_acquire_ona",
-    "date": "2026-06-11",
-    "title": "OpenAI to acquire Ona",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "category": "Funding/M&A",
-    "tags": [
-      "global",
-      "openai",
-      "funding_m_a"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/openai-to-acquire-ona"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-11-openai-openai_to_acquire_ona.yaml"
-  },
-  {
     "id": "2026-06-11-openai-supporting_europe_s_work_in_ensuring_a_trustworthy_ai_ecosystem",
     "date": "2026-06-11",
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
@@ -9087,152 +8919,5 @@
       }
     ],
     "source_file": "global/2026-06/2026-06-11-openai-supporting_europe_s_work_in_ensuring_a_trustworthy_ai_ecosystem.yaml"
-  },
-  {
-    "id": "2026-06-12-anthropic-jun_12_2026_announcements_results_from_the_first_anthropic_public_record",
-    "date": "2026-06-12",
-    "title": "Jun 12, 2026 Announcements Results from the first Anthropic Public Record",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/anthropic-public-record"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-12-anthropic-jun_12_2026_announcements_results_from_the_first_anthropic_public_record.yaml"
-  },
-  {
-    "id": "2026-06-12-anthropic-jun_12_2026_announcements_tcs_and_anthropic_partner_to_bring_claude_to_r",
-    "date": "2026-06-12",
-    "title": "Jun 12, 2026 Announcements TCS and Anthropic partner to bring Claude to regulated industries",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/tcs-anthropic-partnership"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-12-anthropic-jun_12_2026_announcements_tcs_and_anthropic_partner_to_bring_claude_to_r.yaml"
-  },
-  {
-    "id": "2026-06-12-anthropic-statement_on_the_us_government_directive_to_suspend_access_to_fable_5_an",
-    "date": "2026-06-12",
-    "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 Announcements Jun 12, 2026 The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/fable-mythos-access"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-12-anthropic-statement_on_the_us_government_directive_to_suspend_access_to_fable_5_an.yaml"
-  },
-  {
-    "id": "2026-06-12-huggingface-olmo_eval_an_evaluation_workbench_for_the_model_development_loop",
-    "date": "2026-06-12",
-    "title": "olmo-eval: An evaluation workbench for the model development loop",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/allenai/olmo-eval"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-12-huggingface-olmo_eval_an_evaluation_workbench_for_the_model_development_loop.yaml"
-  },
-  {
-    "id": "2026-06-12-openai-how_preply_combines_ai_and_human_tutors_to_personalize_learning",
-    "date": "2026-06-12",
-    "title": "How Preply combines AI and human tutors to personalize learning",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/preply"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-12-openai-how_preply_combines_ai_and_human_tutors_to_personalize_learning.yaml"
-  },
-  {
-    "id": "2026-06-12-openai-new_openai_academy_courses_for_the_next_era_of_work",
-    "date": "2026-06-12",
-    "title": "New OpenAI Academy courses for the next era of work",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-12-openai-new_openai_academy_courses_for_the_next_era_of_work.yaml"
-  },
-  {
-    "id": "2026-06-14-openai-introducing_the_openai_partner_network",
-    "date": "2026-06-14",
-    "title": "Introducing the OpenAI Partner Network",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/introducing-openai-partner-network"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-14-openai-introducing_the_openai_partner_network.yaml"
   }
 ]

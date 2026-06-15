@@ -9213,26 +9213,5 @@
       }
     ],
     "source_file": "global/2026-06/2026-06-12-openai-new_openai_academy_courses_for_the_next_era_of_work.yaml"
-  },
-  {
-    "id": "2026-06-14-openai-introducing_the_openai_partner_network",
-    "date": "2026-06-14",
-    "title": "Introducing the OpenAI Partner Network",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/introducing-openai-partner-network"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-14-openai-introducing_the_openai_partner_network.yaml"
   }
 ]
