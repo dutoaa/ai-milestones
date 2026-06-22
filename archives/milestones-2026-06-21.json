@@ -9759,26 +9759,5 @@
       }
     ],
     "source_file": "global/2026-06/2026-06-18-openai-using_ai_to_help_physicians_diagnose_rare_genetic_diseases_affecting_chi.yaml"
-  },
-  {
-    "id": "2026-06-21-openai-samsung_electronics_brings_chatgpt_and_codex_to_employees",
-    "date": "2026-06-21",
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
-      }
-    ],
-    "source_file": "global/2026-06/2026-06-21-openai-samsung_electronics_brings_chatgpt_and_codex_to_employees.yaml"
   }
 ]
