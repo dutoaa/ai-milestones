@@ -2264,69 +2264,6 @@
     "source_file": "global/2026-07/2026-07-02-anthropic-jul_2_2026_announcements_more_details_on_fable_5_s_cyber_safeguards_and_.yaml"
   },
   {
-    "id": "2026-07-03-deepmind-google_deepmind_and_a24_announce_first_of_its_kind_research_partnership",
-    "date": "2026-07-03",
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "deepmind",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-03-deepmind-google_deepmind_and_a24_announce_first_of_its_kind_research_partnership.yaml"
-  },
-  {
-    "id": "2026-07-06-huggingface-kernels_major_updates",
-    "date": "2026-07-06",
-    "title": "🤗 Kernels: Major Updates",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/revamped-kernels"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-06-huggingface-kernels_major_updates.yaml"
-  },
-  {
-    "id": "2026-07-07-huggingface-lerobot_v0_6_0_imagine_evaluate_improve",
-    "date": "2026-07-07",
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/lerobot-release-v060"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-07-huggingface-lerobot_v0_6_0_imagine_evaluate_improve.yaml"
-  },
-  {
     "id": "2025-03-12-deepmind-experiment_with_gemini_2_0_flash_native_image_generation",
     "date": "2025-03-12",
     "title": "Experiment with Gemini 2.0 Flash native image generation",
