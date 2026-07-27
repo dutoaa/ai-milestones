@@ -6947,27 +6947,6 @@
     "source_file": "global/2026-07/2026-07-24-anthropic-introducing_claude_opus_5_product_jul_24_2026_opus_5_is_a_step_change_im.yaml"
   },
   {
-    "id": "2026-07-27-huggingface-nvidia_cosmos_h_dreams_bringing_real_time_generative_simulation_to_surgi",
-    "date": "2026-07-27",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-27-huggingface-nvidia_cosmos_h_dreams_bringing_real_time_generative_simulation_to_surgi.yaml"
-  },
-  {
     "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
     "date": "2025-10-24",
     "title": "AlphaEarth Foundations helps map our planet in unprecedented detail",
