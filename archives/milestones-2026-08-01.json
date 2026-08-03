@@ -7367,27 +7367,6 @@
     "source_file": "global/2026-07/2026-07-30-huggingface-gpu_management_why_idle_gpus_are_the_new_grounded_aircraft.yaml"
   },
   {
-    "id": "2026-07-30-microsoft_ai-what_s_the_tea_lessons_from_leaders_navigating_ai_transformation",
-    "date": "2026-07-30",
-    "title": "What’s the Tea? Lessons from leaders navigating AI transformation",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>I drink a lot of tea. English breakfast, usually, in a real cup, every day. So when my team came to me with an idea for a new series, they wanted it to be relatable, and honestly, I was hesitant at first. But at the end of the day, the name captured something I find genuinely energizing right now: the pace at which leaders are transforming their organizations with AI, and how generously they're sharing what they're learning with one another.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/\">What&#8217;s the Tea? Lessons from leaders navigating AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-30-microsoft_ai-what_s_the_tea_lessons_from_leaders_navigating_ai_transformation.yaml"
-  },
-  {
     "id": "2026-07-30-openai-advancing_the_price_performance_frontier_with_gpt_5_6",
     "date": "2026-07-30",
     "title": "Advancing the price-performance frontier with GPT-5.6",
@@ -7449,48 +7428,6 @@
       }
     ],
     "source_file": "global/2026-07/2026-07-31-openai-advancing_responsible_ai_across_europe.yaml"
-  },
-  {
-    "id": "2026-07-31-openai-building_abundant_intelligence",
-    "date": "2026-07-31",
-    "title": "Building abundant intelligence",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/building-abundant-intelligence"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-31-openai-building_abundant_intelligence.yaml"
-  },
-  {
-    "id": "2026-07-31-openai-disrupting_a_criminal_scam_operation",
-    "date": "2026-07-31",
-    "title": "Disrupting a Criminal Scam Operation",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-31-openai-disrupting_a_criminal_scam_operation.yaml"
   },
   {
     "id": "2026-07-31-openai-univ_builds_an_ai_ready_workforce",
@@ -10578,27 +10515,6 @@
       }
     ],
     "source_file": "global/2026-05/2026-05-29-openai-strengthening_societal_resilience_with_rosalind_biodefense.yaml"
-  },
-  {
-    "id": "2026-08-01-openai-ten_advances_in_mathematics_and_theoretical_computer_science",
-    "date": "2026-08-01",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/ten-advances-in-mathematics"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-01-openai-ten_advances_in_mathematics_and_theoretical_computer_science.yaml"
   },
   {
     "id": "2026-01-05-huggingface-introducing_falcon_h1_arabic_pushing_the_boundaries_of_arabic_language_a",

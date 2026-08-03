@@ -7367,27 +7367,6 @@
     "source_file": "global/2026-07/2026-07-30-huggingface-gpu_management_why_idle_gpus_are_the_new_grounded_aircraft.yaml"
   },
   {
-    "id": "2026-07-30-microsoft_ai-what_s_the_tea_lessons_from_leaders_navigating_ai_transformation",
-    "date": "2026-07-30",
-    "title": "What’s the Tea? Lessons from leaders navigating AI transformation",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>I drink a lot of tea. English breakfast, usually, in a real cup, every day. So when my team came to me with an idea for a new series, they wanted it to be relatable, and honestly, I was hesitant at first. But at the end of the day, the name captured something I find genuinely energizing right now: the pace at which leaders are transforming their organizations with AI, and how generously they're sharing what they're learning with one another.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/\">What&#8217;s the Tea? Lessons from leaders navigating AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/"
-      }
-    ],
-    "source_file": "global/2026-07/2026-07-30-microsoft_ai-what_s_the_tea_lessons_from_leaders_navigating_ai_transformation.yaml"
-  },
-  {
     "id": "2026-07-30-openai-advancing_the_price_performance_frontier_with_gpt_5_6",
     "date": "2026-07-30",
     "title": "Advancing the price-performance frontier with GPT-5.6",
