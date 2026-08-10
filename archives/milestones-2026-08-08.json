@@ -10874,27 +10874,6 @@
     "source_file": "global/2026-08/2026-08-05-aws_ai-amazon_dynamodb_now_supports_real_time_vector_search_at_any_scale.yaml"
   },
   {
-    "id": "2026-08-06-aws_ai-runtime_instances_persistent_compute_for_production_ai_agents_on_amazon_",
-    "date": "2026-08-06",
-    "title": "Runtime instances: persistent compute for production AI agents on Amazon Bedrock AgentCore",
-    "status": "completed",
-    "owner": "aws_ai",
-    "notes": "Announcing runtime instances in Amazon Bedrock AgentCore—persistent, managed EC2 infrastructure for production AI agents with multi-agent collaboration, GPU support, and sessions lasting up to 14 days.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "aws_ai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "aws_ai source",
-        "url": "https://aws.amazon.com/blogs/aws/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-06-aws_ai-runtime_instances_persistent_compute_for_production_ai_agents_on_amazon_.yaml"
-  },
-  {
     "id": "2026-08-06-deepmind-weathernext_ai_model_achieves_breakthrough_in_forecasting_cyclones",
     "date": "2026-08-06",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
@@ -11019,69 +10998,6 @@
       }
     ],
     "source_file": "global/2026-08/2026-08-07-anthropic-aug_7_2026_product_improving_fable_5_s_biology_safeguards.yaml"
-  },
-  {
-    "id": "2026-08-07-huggingface-tutormoments_do_ai_tutors_know_when_to_help_and_when_to_hold_back",
-    "date": "2026-08-07",
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/allenai/tutormoments"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-07-huggingface-tutormoments_do_ai_tutors_know_when_to_help_and_when_to_hold_back.yaml"
-  },
-  {
-    "id": "2026-08-07-openai-how_hsp_gruppe_builds_ai_capabilities_for_tax_advisory",
-    "date": "2026-08-07",
-    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/hsp-gruppe"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-07-openai-how_hsp_gruppe_builds_ai_capabilities_for_tax_advisory.yaml"
-  },
-  {
-    "id": "2026-08-07-openai-responding_to_the_next_frontier_of_critical_cyber_capabilities",
-    "date": "2026-08-07",
-    "title": "Responding to the next frontier of critical cyber capabilities",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-07-openai-responding_to_the_next_frontier_of_critical_cyber_capabilities.yaml"
   },
   {
     "id": "2026-01-05-huggingface-introducing_falcon_h1_arabic_pushing_the_boundaries_of_arabic_language_a",
