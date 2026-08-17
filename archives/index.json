@@ -1,6 +1,48 @@
 {
   "archives": [
     {
+      "filename": "milestones-2026-08-17.json",
+      "date": "2026-08-17",
+      "milestone_count": 685,
+      "archived_at": "2026-08-17T07:13:42.271455"
+    },
+    {
+      "filename": "milestones-2026-08-16.json",
+      "date": "2026-08-16",
+      "milestone_count": 685,
+      "archived_at": "2026-08-16T06:56:52.309089"
+    },
+    {
+      "filename": "milestones-2026-08-15.json",
+      "date": "2026-08-15",
+      "milestone_count": 683,
+      "archived_at": "2026-08-15T06:55:18.897444"
+    },
+    {
+      "filename": "milestones-2026-08-14.json",
+      "date": "2026-08-14",
+      "milestone_count": 676,
+      "archived_at": "2026-08-14T07:47:22.411486"
+    },
+    {
+      "filename": "milestones-2026-08-13.json",
+      "date": "2026-08-13",
+      "milestone_count": 669,
+      "archived_at": "2026-08-13T07:49:34.468208"
+    },
+    {
+      "filename": "milestones-2026-08-12.json",
+      "date": "2026-08-12",
+      "milestone_count": 661,
+      "archived_at": "2026-08-12T07:48:13.748210"
+    },
+    {
+      "filename": "milestones-2026-08-11.json",
+      "date": "2026-08-11",
+      "milestone_count": 648,
+      "archived_at": "2026-08-11T07:24:30.363340"
+    },
+    {
       "filename": "milestones-2026-08-10.json",
       "date": "2026-08-10",
       "milestone_count": 648,

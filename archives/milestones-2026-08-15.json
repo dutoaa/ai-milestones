@@ -9866,48 +9866,6 @@
     "source_file": "global/2026-08/2026-08-13-openai-the_builder_s_guide_to_gpt_5_6.yaml"
   },
   {
-    "id": "2026-08-14-anthropic-aug_14_2026_announcements_how_claude_s_text_watermark_works",
-    "date": "2026-08-14",
-    "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/claude-text-watermark"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-14-anthropic-aug_14_2026_announcements_how_claude_s_text_watermark_works.yaml"
-  },
-  {
-    "id": "2026-08-14-huggingface-state_of_open_models_summer_2026_observations",
-    "date": "2026-08-14",
-    "title": "State of Open Models: Summer 2026 Observations",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "huggingface",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-14-huggingface-state_of_open_models_summer_2026_observations.yaml"
-  },
-  {
     "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
     "date": "2025-07-10",
     "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
