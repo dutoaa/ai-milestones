@@ -10370,48 +10370,6 @@
     "source_file": "global/2026-08/2026-08-20-openai-stampli_cuts_launch_hours_by_68_using_chatgpt_work.yaml"
   },
   {
-    "id": "2026-08-21-deepmind-from_atari_to_eve_online_building_on_15_years_of_ai_research_in_games",
-    "date": "2026-08-21",
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "status": "completed",
-    "owner": "deepmind",
-    "notes": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "deepmind",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "deepmind source",
-        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-21-deepmind-from_atari_to_eve_online_building_on_15_years_of_ai_research_in_games.yaml"
-  },
-  {
-    "id": "2026-08-21-huggingface-measuring_benchmark_optimization_in_speech_recognition",
-    "date": "2026-08-21",
-    "title": "Measuring benchmark optimization in speech recognition",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/asr-benchmark-optimization"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-21-huggingface-measuring_benchmark_optimization_in_speech_recognition.yaml"
-  },
-  {
     "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
     "date": "2025-07-10",
     "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
