@@ -10811,48 +10811,6 @@
     "source_file": "global/2026-08/2026-08-26-openai-the_hugging_face_incident_and_the_road_ahead.yaml"
   },
   {
-    "id": "2026-08-27-anthropic-aug_27_2026_announcements_expanding_our_support_for_scientists",
-    "date": "2026-08-27",
-    "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-27-anthropic-aug_27_2026_announcements_expanding_our_support_for_scientists.yaml"
-  },
-  {
-    "id": "2026-08-27-anthropic-previewing_the_model_hardware_standard_announcements_aug_27_2026_we_re_o",
-    "date": "2026-08-27",
-    "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "anthropic",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-27-anthropic-previewing_the_model_hardware_standard_announcements_aug_27_2026_we_re_o.yaml"
-  },
-  {
     "id": "2026-08-27-deepmind-gemini_omni_1_1_flash_lets_you_build_with_more_control",
     "date": "2026-08-27",
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
@@ -10956,69 +10914,6 @@
       }
     ],
     "source_file": "global/2026-08/2026-08-27-openai-expanding_openai_s_presence_in_brazil.yaml"
-  },
-  {
-    "id": "2026-08-28-huggingface-the_open_asr_leaderboard_adds_its_first_global_south_language",
-    "date": "2026-08-28",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-28-huggingface-the_open_asr_leaderboard_adds_its_first_global_south_language.yaml"
-  },
-  {
-    "id": "2026-08-28-openai-our_decision_on_cursor_following_its_acquisition_by_spacex",
-    "date": "2026-08-28",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "category": "Funding/M&A",
-    "tags": [
-      "global",
-      "openai",
-      "funding_m_a"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-28-openai-our_decision_on_cursor_following_its_acquisition_by_spacex.yaml"
-  },
-  {
-    "id": "2026-08-28-openai-supporting_thailand_s_next_generation_of_ai_startups",
-    "date": "2026-08-28",
-    "title": "Supporting Thailand’s next generation of AI startups",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-28-openai-supporting_thailand_s_next_generation_of_ai_startups.yaml"
   },
   {
     "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",

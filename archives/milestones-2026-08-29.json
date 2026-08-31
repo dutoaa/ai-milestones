@@ -10958,48 +10958,6 @@
     "source_file": "global/2026-08/2026-08-27-openai-expanding_openai_s_presence_in_brazil.yaml"
   },
   {
-    "id": "2026-08-28-huggingface-the_open_asr_leaderboard_adds_its_first_global_south_language",
-    "date": "2026-08-28",
-    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "huggingface",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-28-huggingface-the_open_asr_leaderboard_adds_its_first_global_south_language.yaml"
-  },
-  {
-    "id": "2026-08-28-openai-our_decision_on_cursor_following_its_acquisition_by_spacex",
-    "date": "2026-08-28",
-    "title": "Our decision on Cursor following its acquisition by SpaceX",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "category": "Funding/M&A",
-    "tags": [
-      "global",
-      "openai",
-      "funding_m_a"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-28-openai-our_decision_on_cursor_following_its_acquisition_by_spacex.yaml"
-  },
-  {
     "id": "2026-08-28-openai-supporting_thailand_s_next_generation_of_ai_startups",
     "date": "2026-08-28",
     "title": "Supporting Thailand’s next generation of AI startups",
