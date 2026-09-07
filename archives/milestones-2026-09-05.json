@@ -2327,27 +2327,6 @@
     "source_file": "global/2026-08/2026-08-28-openai-supporting_thailand_s_next_generation_of_ai_startups.yaml"
   },
   {
-    "id": "2026-08-31-anthropic-aug_31_2026_announcements_improving_our_alignment_and_security_efforts",
-    "date": "2026-08-31",
-    "title": "Aug 31, 2026 Announcements Improving our alignment and security efforts",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-31-anthropic-aug_31_2026_announcements_improving_our_alignment_and_security_efforts.yaml"
-  },
-  {
     "id": "2026-08-31-anthropic-aug_31_2026_improving_our_alignment_and_security_efforts",
     "date": "2026-08-31",
     "title": "Aug 31, 2026 Improving our alignment and security efforts",
@@ -11084,27 +11063,6 @@
     "source_file": "global/2026-09/2026-09-03-openai-daybreak_for_frontline_defenders_1b_to_protect_essential_services.yaml"
   },
   {
-    "id": "2026-09-03-openai-gpt_6_astra_a_new_generation_of_intelligence",
-    "date": "2026-09-03",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/gpt-6-astra"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-03-openai-gpt_6_astra_a_new_generation_of_intelligence.yaml"
-  },
-  {
     "id": "2026-09-03-openai-legora_reviewed_41_documents_in_minutes_with_gpt_6_astra",
     "date": "2026-09-03",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
@@ -11166,69 +11124,6 @@
       }
     ],
     "source_file": "global/2026-09/2026-09-03-openai-safety_overview_gpt_6_astra.yaml"
-  },
-  {
-    "id": "2026-09-06-openai-an_alien_mind",
-    "date": "2026-09-06",
-    "title": "An Alien Mind",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/an-alien-mind"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-06-openai-an_alien_mind.yaml"
-  },
-  {
-    "id": "2026-09-06-openai-research_acceleration_the_view_inside_openai",
-    "date": "2026-09-06",
-    "title": "Research acceleration: The view inside OpenAI",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-06-openai-research_acceleration_the_view_inside_openai.yaml"
-  },
-  {
-    "id": "2026-09-07-openai-supporting_independent_journalism_in_ukraine",
-    "date": "2026-09-07",
-    "title": "Supporting independent journalism in Ukraine",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-07-openai-supporting_independent_journalism_in_ukraine.yaml"
   },
   {
     "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
