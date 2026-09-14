@@ -11609,27 +11609,6 @@
     "source_file": "global/2026-09/2026-09-10-google_ai-3_ways_to_prep_for_your_next_big_race_with_search.yaml"
   },
   {
-    "id": "2026-09-10-huggingface-async_grpo_with_lora_across_hf_jobs_a_bucket_a_proxy_and_no_nccl",
-    "date": "2026-09-10",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-10-huggingface-async_grpo_with_lora_across_hf_jobs_a_bucket_a_proxy_and_no_nccl.yaml"
-  },
-  {
     "id": "2026-09-10-huggingface-rebuilding_automatic1111_with_gradio_workflow",
     "date": "2026-09-10",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",

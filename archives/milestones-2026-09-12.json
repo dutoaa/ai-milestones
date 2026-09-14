@@ -11609,27 +11609,6 @@
     "source_file": "global/2026-09/2026-09-10-google_ai-3_ways_to_prep_for_your_next_big_race_with_search.yaml"
   },
   {
-    "id": "2026-09-10-huggingface-async_grpo_with_lora_across_hf_jobs_a_bucket_a_proxy_and_no_nccl",
-    "date": "2026-09-10",
-    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-10-huggingface-async_grpo_with_lora_across_hf_jobs_a_bucket_a_proxy_and_no_nccl.yaml"
-  },
-  {
     "id": "2026-09-10-huggingface-rebuilding_automatic1111_with_gradio_workflow",
     "date": "2026-09-10",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -11775,69 +11754,6 @@
       }
     ],
     "source_file": "global/2026-09/2026-09-10-openai-now_everyone_can_put_data_to_work.yaml"
-  },
-  {
-    "id": "2026-09-11-openai-cognition_helps_devin_test_its_own_work_with_gpt_6_astra",
-    "date": "2026-09-11",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "openai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/cognition-devin-testing-with-astra"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-11-openai-cognition_helps_devin_test_its_own_work_with_gpt_6_astra.yaml"
-  },
-  {
-    "id": "2026-09-11-openai-rapidly_scaling_online_storage_to_serve_over_1_billion_chatgpt_users",
-    "date": "2026-09-11",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "openai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-11-openai-rapidly_scaling_online_storage_to_serve_over_1_billion_chatgpt_users.yaml"
-  },
-  {
-    "id": "2026-09-14-openai-perplexity_trusts_gpt_6_astra_with_end_to_end_systems",
-    "date": "2026-09-14",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-14-openai-perplexity_trusts_gpt_6_astra_with_end_to_end_systems.yaml"
   },
   {
     "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
