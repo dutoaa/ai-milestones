@@ -2138,27 +2138,6 @@
     "source_file": "global/2026-08/2026-08-27-anthropic-aug_27_2026_announcements_expanding_our_support_for_scientists.yaml"
   },
   {
-    "id": "2026-08-27-anthropic-aug_27_2026_announcements_previewing_the_model_hardware_standard",
-    "date": "2026-08-27",
-    "title": "Aug 27, 2026 Announcements Previewing the Model Hardware Standard",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Model",
-    "tags": [
-      "global",
-      "anthropic",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
-      }
-    ],
-    "source_file": "global/2026-08/2026-08-27-anthropic-aug_27_2026_announcements_previewing_the_model_hardware_standard.yaml"
-  },
-  {
     "id": "2026-08-27-anthropic-previewing_the_model_hardware_standard_announcements_aug_27_2026_we_re_o",
     "date": "2026-08-27",
     "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
@@ -12050,27 +12029,6 @@
     "source_file": "global/2026-09/2026-09-15-huggingface-your_agent_aced_the_task_will_it_do_it_again.yaml"
   },
   {
-    "id": "2026-09-16-microsoft_ai-microsoft_s_commitment_for_ai_in_education",
-    "date": "2026-09-16",
-    "title": "Microsoft’s commitment for AI in education",
-    "status": "completed",
-    "owner": "microsoft_ai",
-    "notes": "<p>AI can personalize learning, reduce administrative burden, accelerate research and expand access to high-quality instruction. It also brings real risk.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/\">Microsoft’s commitment for AI in education</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
-    "category": "Model",
-    "tags": [
-      "global",
-      "microsoft_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "microsoft_ai source",
-        "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-16-microsoft_ai-microsoft_s_commitment_for_ai_in_education.yaml"
-  },
-  {
     "id": "2026-09-16-openai-helping_older_adults_use_ai_in_everyday_life",
     "date": "2026-09-16",
     "title": "Helping older adults use AI in everyday life",
@@ -12090,27 +12048,6 @@
       }
     ],
     "source_file": "global/2026-09/2026-09-16-openai-helping_older_adults_use_ai_in_everyday_life.yaml"
-  },
-  {
-    "id": "2026-09-16-openai-hex_turns_complex_analysis_into_visual_reports_with_gpt_6_astra",
-    "date": "2026-09-16",
-    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/hex-gpt-6-astra"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-16-openai-hex_turns_complex_analysis_into_visual_reports_with_gpt_6_astra.yaml"
   },
   {
     "id": "2026-09-16-openai-how_to_connect_ai_usage_to_business_value",
@@ -12195,174 +12132,6 @@
       }
     ],
     "source_file": "global/2026-09/2026-09-16-openai-reimagining_advertising_with_ai.yaml"
-  },
-  {
-    "id": "2026-09-17-anthropic-sep_17_2026_announcements_introducing_the_life_sciences_verification_pro",
-    "date": "2026-09-17",
-    "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "anthropic",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/life-sciences-verification-program"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-17-anthropic-sep_17_2026_announcements_introducing_the_life_sciences_verification_pro.yaml"
-  },
-  {
-    "id": "2026-09-17-google_ai-making_global_data_easier_to_explore",
-    "date": "2026-09-17",
-    "title": "Making global data easier to explore",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "UN System Data Commons Data webpage",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-17-google_ai-making_global_data_easier_to_explore.yaml"
-  },
-  {
-    "id": "2026-09-17-openai-how_cooley_is_accelerating_ipo_work_with_chatgpt",
-    "date": "2026-09-17",
-    "title": "How Cooley is accelerating IPO work with ChatGPT",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "openai",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/cooley-gopublic"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-17-openai-how_cooley_is_accelerating_ipo_work_with_chatgpt.yaml"
-  },
-  {
-    "id": "2026-09-17-openai-introducing_astra_for_law",
-    "date": "2026-09-17",
-    "title": "Introducing Astra for Law",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-    "category": "Policy",
-    "tags": [
-      "global",
-      "openai",
-      "policy"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/astra-for-law"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-17-openai-introducing_astra_for_law.yaml"
-  },
-  {
-    "id": "2026-09-18-anthropic-sep_18_2026_announcements_partnering_with_accenture_on_embedded_evaluati",
-    "date": "2026-09-18",
-    "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
-    "status": "completed",
-    "owner": "anthropic",
-    "notes": "See source link.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "anthropic",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "anthropic source",
-        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-18-anthropic-sep_18_2026_announcements_partnering_with_accenture_on_embedded_evaluati.yaml"
-  },
-  {
-    "id": "2026-09-18-google_ai-co_creating_the_future_of_fashion_with_google",
-    "date": "2026-09-18",
-    "title": "Co-creating the future of fashion with Google",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "Jane Wade and Sergio Hudson",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-18-google_ai-co_creating_the_future_of_fashion_with_google.yaml"
-  },
-  {
-    "id": "2026-09-18-google_ai-new_experts_join_google_s_ai_economy_team",
-    "date": "2026-09-18",
-    "title": "New experts join Google’s AI & Economy team",
-    "status": "completed",
-    "owner": "google_ai",
-    "notes": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
-    "category": "Model",
-    "tags": [
-      "global",
-      "google_ai",
-      "model"
-    ],
-    "links": [
-      {
-        "title": "google_ai source",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-18-google_ai-new_experts_join_google_s_ai_economy_team.yaml"
-  },
-  {
-    "id": "2026-09-18-openai-introducing_the_australian_youth_safety_blueprint",
-    "date": "2026-09-18",
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "status": "completed",
-    "owner": "openai",
-    "notes": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-    "category": "Evaluation",
-    "tags": [
-      "global",
-      "openai",
-      "evaluation"
-    ],
-    "links": [
-      {
-        "title": "openai source",
-        "url": "https://openai.com/index/australian-youth-safety-blueprint"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-18-openai-introducing_the_australian_youth_safety_blueprint.yaml"
   },
   {
     "id": "2025-10-24-deepmind-alphaearth_foundations_helps_map_our_planet_in_unprecedented_detail",
