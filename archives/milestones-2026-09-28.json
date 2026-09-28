@@ -11714,27 +11714,6 @@
     "source_file": "global/2026-09/2026-09-25-openai-proaction_boosts_sales_60_and_saves_75_hours_with_codex.yaml"
   },
   {
-    "id": "2026-09-28-huggingface-holo4_powering_generalist_computer_use_agents",
-    "date": "2026-09-28",
-    "title": "Holo4: powering generalist computer-use agents",
-    "status": "completed",
-    "owner": "huggingface",
-    "notes": "See source link.",
-    "category": "Industry",
-    "tags": [
-      "global",
-      "huggingface",
-      "industry"
-    ],
-    "links": [
-      {
-        "title": "huggingface source",
-        "url": "https://huggingface.co/blog/Hcompany/holo4"
-      }
-    ],
-    "source_file": "global/2026-09/2026-09-28-huggingface-holo4_powering_generalist_computer_use_agents.yaml"
-  },
-  {
     "id": "2026-02-05-huggingface-introducing_sygra_studio",
     "date": "2026-02-05",
     "title": "Introducing SyGra Studio",
