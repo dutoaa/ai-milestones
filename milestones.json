@@ -59,6 +59,321 @@
     "source_file": "2025-12-15-initial_repo_import.yaml"
   },
   {
+    "id": "2026-10-01-anthropic-oct_1_2026_announcements_barclays_scales_claude_to_upgrade_operations_an",
+    "date": "2026-10-01",
+    "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "anthropic",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/barclays-scales-claude"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-01-anthropic-oct_1_2026_announcements_barclays_scales_claude_to_upgrade_operations_an.yaml"
+  },
+  {
+    "id": "2026-10-01-aws_ai-announcing_aws_well_architected_agent_an_ai_powered_intelligence_to_opti",
+    "date": "2026-10-01",
+    "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
+    "status": "completed",
+    "owner": "aws_ai",
+    "notes": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications' cost, security, performance, and resilience—with ready-to-implement fixes aligned to your business goals.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "aws_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "aws_ai source",
+        "url": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-01-aws_ai-announcing_aws_well_architected_agent_an_ai_powered_intelligence_to_opti.yaml"
+  },
+  {
+    "id": "2026-10-01-huggingface-introducing_olmo_core_3_open_scalable_training_infrastructure_for_large_",
+    "date": "2026-10-01",
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/allenai/olmocore3"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-01-huggingface-introducing_olmo_core_3_open_scalable_training_infrastructure_for_large_.yaml"
+  },
+  {
+    "id": "2026-10-01-openai-how_albertsons_companies_is_reimagining_retail_from_the_inside_out",
+    "date": "2026-10-01",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/albertsons-reimagining-retail"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-01-openai-how_albertsons_companies_is_reimagining_retail_from_the_inside_out.yaml"
+  },
+  {
+    "id": "2026-10-01-openai-the_den_frees_up_10_15_hours_a_week_to_grow_with_chatgpt_work",
+    "date": "2026-10-01",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/the-den-family-social"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-01-openai-the_den_frees_up_10_15_hours_a_week_to_grow_with_chatgpt_work.yaml"
+  },
+  {
+    "id": "2026-10-01-openai-the_eternal_complement",
+    "date": "2026-10-01",
+    "title": "The eternal complement",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/the-eternal-complement"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-01-openai-the_eternal_complement.yaml"
+  },
+  {
+    "id": "2026-10-02-anthropic-oct_2_2026_announcements_anthropic_invests_100_million_to_train_10_000_e",
+    "date": "2026-10-02",
+    "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "anthropic",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/claude-frontier-academy"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-02-anthropic-oct_2_2026_announcements_anthropic_invests_100_million_to_train_10_000_e.yaml"
+  },
+  {
+    "id": "2026-10-02-google_ai-the_latest_ai_news_we_announced_in_september_2026",
+    "date": "2026-10-02",
+    "title": "The latest AI news we announced in September 2026",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "A video showing the September AI updates",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "google_ai",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-02-google_ai-the_latest_ai_news_we_announced_in_september_2026.yaml"
+  },
+  {
+    "id": "2026-10-02-huggingface-autosynthdata_generating_training_data_for_enterprise_agents",
+    "date": "2026-10-02",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-02-huggingface-autosynthdata_generating_training_data_for_enterprise_agents.yaml"
+  },
+  {
+    "id": "2026-10-02-huggingface-open_sourcing_astabrief_the_fast_report_generation_model_in_asta",
+    "date": "2026-10-02",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/allenai/astabrief"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-02-huggingface-open_sourcing_astabrief_the_fast_report_generation_model_in_asta.yaml"
+  },
+  {
+    "id": "2026-10-02-openai-a_model_guide_for_the_gpt_6_family",
+    "date": "2026-10-02",
+    "title": "A model guide for the GPT-6 family",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "openai",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-02-openai-a_model_guide_for_the_gpt_6_family.yaml"
+  },
+  {
+    "id": "2026-10-02-openai-chatham_scales_its_capital_markets_expertise_with_openai",
+    "date": "2026-10-02",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/chatham-financial"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-02-openai-chatham_scales_its_capital_markets_expertise_with_openai.yaml"
+  },
+  {
+    "id": "2026-10-03-huggingface-the_agent_said_it_was_done_the_database_disagreed",
+    "date": "2026-10-03",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-03-huggingface-the_agent_said_it_was_done_the_database_disagreed.yaml"
+  },
+  {
+    "id": "2026-10-05-microsoft_ai-sovereign_ai_accelerate_innovation_with_control_and_choice",
+    "date": "2026-10-05",
+    "title": "Sovereign AI: Accelerate innovation with control and choice",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Explore how Microsoft and NVIDIA are helping organizations advance sovereign AI with greater control, choice, flexibility, and resilience across cloud, edge, and customer-controlled environments.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/\">Sovereign AI: Accelerate innovation with control and choice</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-05-microsoft_ai-sovereign_ai_accelerate_innovation_with_control_and_choice.yaml"
+  },
+  {
+    "id": "2026-10-05-openai-building_advertising_for_the_way_people_use_ai",
+    "date": "2026-10-05",
+    "title": "Building advertising for the way people use AI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-05-openai-building_advertising_for_the_way_people_use_ai.yaml"
+  },
+  {
     "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
     "date": "2025-07-10",
     "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
@@ -6926,6 +7241,27 @@
     "source_file": "global/2026-07/2026-07-20-anthropic-jul_20_2026_announcements_apply_for_anthropic_s_ai_for_science_rare_dise.yaml"
   },
   {
+    "id": "2026-07-20-aws_ai-aws_weekly_roundup_one_click_lambda_setup_prompt_openai_gpt_5_6_models_o",
+    "date": "2026-07-20",
+    "title": "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)",
+    "status": "completed",
+    "owner": "aws_ai",
+    "notes": "Last week, my team visited Seoul to meet AWS Korea User Group (AWSKRUG) leaders. AWSKRUG is the largest cloud developer community in Korea, with 20 meetup groups organized by topic and area that collectively host over 100 events each year, primarily in Seoul. My team regularly visits countries across the Asia-Pacific region, listens to feedback […]",
+    "category": "Model",
+    "tags": [
+      "global",
+      "aws_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "aws_ai source",
+        "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-one-click-lambda-setup-prompt-openai-gpt-5-6-models-on-bedrock-and-more-july-20-2026/"
+      }
+    ],
+    "source_file": "global/2026-07/2026-07-20-aws_ai-aws_weekly_roundup_one_click_lambda_setup_prompt_openai_gpt_5_6_models_o.yaml"
+  },
+  {
     "id": "2026-07-20-huggingface-introducing_cosmos_3_edge",
     "date": "2026-07-20",
     "title": "Introducing Cosmos 3 Edge",
@@ -7050,6 +7386,27 @@
       }
     ],
     "source_file": "global/2026-07/2026-07-21-huggingface-the_state_of_simulation_for_physical_ai_an_overview.yaml"
+  },
+  {
+    "id": "2026-07-21-microsoft_ai-the_ai_strategy_roadmap_five_drivers_of_successful_ai_transformation",
+    "date": "2026-07-21",
+    "title": "The AI Strategy Roadmap: Five drivers of successful AI transformation",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Explore Microsoft’s AI Strategy Roadmap and learn how organizations can move beyond AI pilots to build trusted, measurable AI capabilities across the enterprise.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation/\">The AI Strategy Roadmap: Five drivers of successful AI transformation</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/21/the-ai-strategy-roadmap-five-drivers-of-successful-ai-transformation/"
+      }
+    ],
+    "source_file": "global/2026-07/2026-07-21-microsoft_ai-the_ai_strategy_roadmap_five_drivers_of_successful_ai_transformation.yaml"
   },
   {
     "id": "2026-07-21-openai-david_v_lez_and_robin_vince_join_the_boards_of_the_openai_foundation_and",
@@ -11714,6 +12071,48 @@
     "source_file": "global/2026-09/2026-09-25-openai-proaction_boosts_sales_60_and_saves_75_hours_with_codex.yaml"
   },
   {
+    "id": "2026-09-28-aws_ai-aws_weekly_roundup_gpt_6_sol_and_luna_claude_opus_5_5_on_amazon_bedrock_",
+    "date": "2026-09-28",
+    "title": "AWS Weekly Roundup: GPT-6 Sol and Luna, Claude Opus 5.5 on Amazon Bedrock, Strands harness, and more (September 28, 2026)",
+    "status": "completed",
+    "owner": "aws_ai",
+    "notes": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6 […]",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "aws_ai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "aws_ai source",
+        "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-aws_ai-aws_weekly_roundup_gpt_6_sol_and_luna_claude_opus_5_5_on_amazon_bedrock_.yaml"
+  },
+  {
+    "id": "2026-09-28-google_ai-watch_the_winning_trailer_from_the_future_vision_xprize_the_gifted",
+    "date": "2026-09-28",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-google_ai-watch_the_winning_trailer_from_the_future_vision_xprize_the_gifted.yaml"
+  },
+  {
     "id": "2026-09-28-huggingface-holo4_powering_generalist_computer_use_agents",
     "date": "2026-09-28",
     "title": "Holo4: powering generalist computer-use agents",
@@ -11733,6 +12132,321 @@
       }
     ],
     "source_file": "global/2026-09/2026-09-28-huggingface-holo4_powering_generalist_computer_use_agents.yaml"
+  },
+  {
+    "id": "2026-09-28-openai-are_you_a_codex_original",
+    "date": "2026-09-28",
+    "title": "Are you a Codex Original?",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/form/codex-originals"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-openai-are_you_a_codex_original.yaml"
+  },
+  {
+    "id": "2026-09-28-openai-basis_completes_a_tax_workbook_2x_faster_with_gpt_6_astra",
+    "date": "2026-09-28",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-openai-basis_completes_a_tax_workbook_2x_faster_with_gpt_6_astra.yaml"
+  },
+  {
+    "id": "2026-09-28-openai-how_we_will_do_better_for_australia",
+    "date": "2026-09-28",
+    "title": "How we will do better for Australia",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-openai-how_we_will_do_better_for_australia.yaml"
+  },
+  {
+    "id": "2026-09-28-openai-the_lenfest_institute_grows_landmark_program_with_expanded_openai_suppor",
+    "date": "2026-09-28",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-openai-the_lenfest_institute_grows_landmark_program_with_expanded_openai_suppor.yaml"
+  },
+  {
+    "id": "2026-09-28-openai-towards_safety_cases_for_frontier_ai_training",
+    "date": "2026-09-28",
+    "title": "Towards safety cases for frontier AI training",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "openai",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-openai-towards_safety_cases_for_frontier_ai_training.yaml"
+  },
+  {
+    "id": "2026-09-29-huggingface-getting_the_source_right_not_just_the_fact_source_aware_verification_for",
+    "date": "2026-09-29",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "huggingface",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-29-huggingface-getting_the_source_right_not_just_the_fact_source_aware_verification_for.yaml"
+  },
+  {
+    "id": "2026-09-29-huggingface-nvidia_kumo_tabular_sets_a_new_accuracy_efficiency_frontier_for_tabular_",
+    "date": "2026-09-29",
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-29-huggingface-nvidia_kumo_tabular_sets_a_new_accuracy_efficiency_frontier_for_tabular_.yaml"
+  },
+  {
+    "id": "2026-09-29-openai-devday_2026_recap",
+    "date": "2026-09-29",
+    "title": "DevDay 2026 Recap",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/devday-2026-recap"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-29-openai-devday_2026_recap.yaml"
+  },
+  {
+    "id": "2026-09-29-openai-introducing_dots",
+    "date": "2026-09-29",
+    "title": "Introducing dots",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-dots"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-29-openai-introducing_dots.yaml"
+  },
+  {
+    "id": "2026-09-29-openai-introducing_gpt_6_1_sol",
+    "date": "2026-09-29",
+    "title": "Introducing GPT-6.1 Sol",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-29-openai-introducing_gpt_6_1_sol.yaml"
+  },
+  {
+    "id": "2026-09-30-deepmind-gemini_4_argon_our_next_era_of_frontier_intelligence",
+    "date": "2026-09-30",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-30-deepmind-gemini_4_argon_our_next_era_of_frontier_intelligence.yaml"
+  },
+  {
+    "id": "2026-09-30-deepmind-introducing_synthid_bio",
+    "date": "2026-09-30",
+    "title": "Introducing SynthID Bio",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-30-deepmind-introducing_synthid_bio.yaml"
+  },
+  {
+    "id": "2026-09-30-huggingface-open_tts_leaderboard_scalable_evaluation_for_multilingual_text_to_speech",
+    "date": "2026-09-30",
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "huggingface",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/open-tts-leaderboard"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-30-huggingface-open_tts_leaderboard_scalable_evaluation_for_multilingual_text_to_speech.yaml"
+  },
+  {
+    "id": "2026-09-30-openai-disrupting_a_coordinated_model_distillation_campaign",
+    "date": "2026-09-30",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-30-openai-disrupting_a_coordinated_model_distillation_campaign.yaml"
+  },
+  {
+    "id": "2026-09-30-openai-helping_small_businesses_put_ai_to_work",
+    "date": "2026-09-30",
+    "title": "Helping small businesses put AI to work",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-30-openai-helping_small_businesses_put_ai_to_work.yaml"
   },
   {
     "id": "2026-02-05-huggingface-introducing_sygra_studio",
