@@ -374,6 +374,552 @@
     "source_file": "global/2026-10/2026-10-05-openai-building_advertising_for_the_way_people_use_ai.yaml"
   },
   {
+    "id": "2026-10-05-openai-our_approach_to_eu_text_provenance_rules",
+    "date": "2026-10-05",
+    "title": "Our approach to EU text provenance rules",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/eu-text-provenance"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-05-openai-our_approach_to_eu_text_provenance_rules.yaml"
+  },
+  {
+    "id": "2026-10-06-anthropic-announcements_oct_6_2026_expanding_the_cyber_verification_program_we_re_",
+    "date": "2026-10-06",
+    "title": "Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "anthropic",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/cyber-verification-program"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-anthropic-announcements_oct_6_2026_expanding_the_cyber_verification_program_we_re_.yaml"
+  },
+  {
+    "id": "2026-10-06-deepmind-embeddinggemma_2_an_open_lightweight_multimodal_embedding_model",
+    "date": "2026-10-06",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "deepmind",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-deepmind-embeddinggemma_2_an_open_lightweight_multimodal_embedding_model.yaml"
+  },
+  {
+    "id": "2026-10-06-huggingface-falcon_emirati_when_an_llm_learns_the_dialect_the_culture_and_the_nuance",
+    "date": "2026-10-06",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-huggingface-falcon_emirati_when_an_llm_learns_the_dialect_the_culture_and_the_nuance.yaml"
+  },
+  {
+    "id": "2026-10-06-openai-advancing_computer_use_with_ironclad",
+    "date": "2026-10-06",
+    "title": "Advancing computer use with Ironclad",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-openai-advancing_computer_use_with_ironclad.yaml"
+  },
+  {
+    "id": "2026-10-06-openai-atlassian_and_openai_expand_partnership_to_turn_enterprise_knowledge_int",
+    "date": "2026-10-06",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "openai",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/atlassian-partnership"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-openai-atlassian_and_openai_expand_partnership_to_turn_enterprise_knowledge_int.yaml"
+  },
+  {
+    "id": "2026-10-06-openai-how_jump_trading_is_scaling_quant_research_with_chatgpt",
+    "date": "2026-10-06",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/jump-trading"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-openai-how_jump_trading_is_scaling_quant_research_with_chatgpt.yaml"
+  },
+  {
+    "id": "2026-10-06-openai-sharing_ai_progress_in_mathematics",
+    "date": "2026-10-06",
+    "title": "Sharing AI progress in mathematics",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-06-openai-sharing_ai_progress_in_mathematics.yaml"
+  },
+  {
+    "id": "2026-10-07-google_ai-introducing_playground_create_and_play_custom_games",
+    "date": "2026-10-07",
+    "title": "Introducing Playground: Create and play custom games",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "Overview of Playground",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-google_ai-introducing_playground_create_and_play_custom_games.yaml"
+  },
+  {
+    "id": "2026-10-07-huggingface-introducing_falcon_asr",
+    "date": "2026-10-07",
+    "title": "Introducing Falcon ASR",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-huggingface-introducing_falcon_asr.yaml"
+  },
+  {
+    "id": "2026-10-07-huggingface-multimodal_open_d1_decision_models_for_the_edge",
+    "date": "2026-10-07",
+    "title": "Multimodal open d1 decision models for the edge",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-huggingface-multimodal_open_d1_decision_models_for_the_edge.yaml"
+  },
+  {
+    "id": "2026-10-07-huggingface-one_model_family_two_gold_level_results_fine_tuning_nemotron_for_ioi_and",
+    "date": "2026-10-07",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-huggingface-one_model_family_two_gold_level_results_fine_tuning_nemotron_for_ioi_and.yaml"
+  },
+  {
+    "id": "2026-10-07-openai-gpt_6_and_intelligent_ui_for_everyone",
+    "date": "2026-10-07",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/gpt-6-for-everyone"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-openai-gpt_6_and_intelligent_ui_for_everyone.yaml"
+  },
+  {
+    "id": "2026-10-07-openai-helping_teens_learn_plan_and_shape_the_future_of_ai",
+    "date": "2026-10-07",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/teens-learn-and-plan"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-openai-helping_teens_learn_plan_and_shape_the_future_of_ai.yaml"
+  },
+  {
+    "id": "2026-10-07-openai-radisson_hotel_group_brings_hotel_discovery_into_chatgpt",
+    "date": "2026-10-07",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/radisson"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-07-openai-radisson_hotel_group_brings_hotel_discovery_into_chatgpt.yaml"
+  },
+  {
+    "id": "2026-10-08-anthropic-oct_8_2026_announcements_2026_usage_policy_update",
+    "date": "2026-10-08",
+    "title": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "anthropic",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-anthropic-oct_8_2026_announcements_2026_usage_policy_update.yaml"
+  },
+  {
+    "id": "2026-10-08-anthropic-oct_8_2026_announcements_building_on_our_commitment_to_american_scientif",
+    "date": "2026-10-08",
+    "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "anthropic",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-anthropic-oct_8_2026_announcements_building_on_our_commitment_to_american_scientif.yaml"
+  },
+  {
+    "id": "2026-10-08-anthropic-oct_8_2026_announcements_introducing_the_anthropic_cyber_mission",
+    "date": "2026-10-08",
+    "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "anthropic",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-anthropic-oct_8_2026_announcements_introducing_the_anthropic_cyber_mission.yaml"
+  },
+  {
+    "id": "2026-10-08-huggingface-the_model_that_didn_t_exist_so_you_made_it_yourself",
+    "date": "2026-10-08",
+    "title": "The model that didn't exist, so you made it yourself",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/building-with-ml-intern"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-huggingface-the_model_that_didn_t_exist_so_you_made_it_yourself.yaml"
+  },
+  {
+    "id": "2026-10-08-openai-disrupting_ai_enabled_false_front_operations",
+    "date": "2026-10-08",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-openai-disrupting_ai_enabled_false_front_operations.yaml"
+  },
+  {
+    "id": "2026-10-08-openai-how_oracle_turns_days_of_work_into_minutes_with_chatgpt_and_codex",
+    "date": "2026-10-08",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/oracle"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-openai-how_oracle_turns_days_of_work_into_minutes_with_chatgpt_and_codex.yaml"
+  },
+  {
+    "id": "2026-10-08-openai-legalon_halves_codex_costs_while_maintaining_development_speed",
+    "date": "2026-10-08",
+    "title": "LegalOn halves Codex costs while maintaining development speed",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/legalon-halves-codex-costs"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-openai-legalon_halves_codex_costs_while_maintaining_development_speed.yaml"
+  },
+  {
+    "id": "2026-10-08-openai-pollo_ai_turns_creative_ideas_into_campaigns_with_openai",
+    "date": "2026-10-08",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/pollo-ai"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-08-openai-pollo_ai_turns_creative_ideas_into_campaigns_with_openai.yaml"
+  },
+  {
+    "id": "2026-10-09-huggingface-impactful_scheduling_for_gpu_clusters",
+    "date": "2026-10-09",
+    "title": "Impactful scheduling for GPU clusters",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/allenai/impactful-scheduling"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-09-huggingface-impactful_scheduling_for_gpu_clusters.yaml"
+  },
+  {
+    "id": "2026-10-09-openai-asana_cuts_model_costs_76x_in_browser_tests_with_gpt_6_1_sol",
+    "date": "2026-10-09",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "openai",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/asana-browser-agent"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-09-openai-asana_cuts_model_costs_76x_in_browser_tests_with_gpt_6_1_sol.yaml"
+  },
+  {
+    "id": "2026-10-09-openai-sophos_cuts_threat_investigation_time_by_96_with_openai_daybreak",
+    "date": "2026-10-09",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/sophos"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-09-openai-sophos_cuts_threat_investigation_time_by_96_with_openai_daybreak.yaml"
+  },
+  {
     "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
     "date": "2025-07-10",
     "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
