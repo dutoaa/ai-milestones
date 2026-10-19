@@ -920,6 +920,657 @@
     "source_file": "global/2026-10/2026-10-09-openai-sophos_cuts_threat_investigation_time_by_96_with_openai_daybreak.yaml"
   },
   {
+    "id": "2026-10-13-aws_ai-aws_weekly_roundup_prime_day_2026_by_the_numbers_claude_haiku_5_5_amazon",
+    "date": "2026-10-13",
+    "title": "AWS Weekly Roundup: Prime Day 2026 by the numbers, Claude Haiku 5.5, Amazon Nova 2.5 Sonic, and more (October 13, 2026)",
+    "status": "completed",
+    "owner": "aws_ai",
+    "notes": "Some numbers are hard to picture until you sit with them for a moment. Last week we published the Prime Day 2026 metrics, and the one that stuck with me is 2.3 quadrillion: the daily requests Amazon ElastiCache peaked at during the event. Prime Day ran back in June, so this post always lands as […]",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "aws_ai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "aws_ai source",
+        "url": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-aws_ai-aws_weekly_roundup_prime_day_2026_by_the_numbers_claude_haiku_5_5_amazon.yaml"
+  },
+  {
+    "id": "2026-10-13-deepmind-developing_gemini_4_argon_responsibly_and_safely",
+    "date": "2026-10-13",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-deepmind-developing_gemini_4_argon_responsibly_and_safely.yaml"
+  },
+  {
+    "id": "2026-10-13-deepmind-gemini_4_argon_built_to_solve_your_hardest_problems",
+    "date": "2026-10-13",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-deepmind-gemini_4_argon_built_to_solve_your_hardest_problems.yaml"
+  },
+  {
+    "id": "2026-10-13-deepmind-gemini_4_argon_for_robotics",
+    "date": "2026-10-13",
+    "title": "Gemini 4 Argon for Robotics",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-deepmind-gemini_4_argon_for_robotics.yaml"
+  },
+  {
+    "id": "2026-10-13-google_ai-gemini_4_argon_built_to_solve_your_hardest_problems",
+    "date": "2026-10-13",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "TBD",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-google_ai-gemini_4_argon_built_to_solve_your_hardest_problems.yaml"
+  },
+  {
+    "id": "2026-10-13-huggingface-run_fast_private_agents_on_device_with_lfm2_5_24b_a2b",
+    "date": "2026-10-13",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-huggingface-run_fast_private_agents_on_device_with_lfm2_5_24b_a2b.yaml"
+  },
+  {
+    "id": "2026-10-13-openai-higgsfield_takes_ai_video_from_1_minute_to_over_10",
+    "date": "2026-10-13",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-13-openai-higgsfield_takes_ai_video_from_1_minute_to_over_10.yaml"
+  },
+  {
+    "id": "2026-10-14-anthropic-oct_14_2026_announcements_anthropic_opens_singapore_office_and_signs_mou",
+    "date": "2026-10-14",
+    "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "anthropic",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/singapore-office-opening"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-anthropic-oct_14_2026_announcements_anthropic_opens_singapore_office_and_signs_mou.yaml"
+  },
+  {
+    "id": "2026-10-14-anthropic-oct_14_2026_policy_preparing_for_the_2026_us_midterms",
+    "date": "2026-10-14",
+    "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "anthropic",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/2026-us-midterms"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-anthropic-oct_14_2026_policy_preparing_for_the_2026_us_midterms.yaml"
+  },
+  {
+    "id": "2026-10-14-deepmind-google_deepmind_and_singapore_government_collaborate_to_build_fine_tuned",
+    "date": "2026-10-14",
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "deepmind",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-deepmind-google_deepmind_and_singapore_government_collaborate_to_build_fine_tuned.yaml"
+  },
+  {
+    "id": "2026-10-14-huggingface-hiro_acev2_simulating_extreme_weather_at_3_km_resolution_for_a_fraction_",
+    "date": "2026-10-14",
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "huggingface",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-huggingface-hiro_acev2_simulating_extreme_weather_at_3_km_resolution_for_a_fraction_.yaml"
+  },
+  {
+    "id": "2026-10-14-openai-amp_puts_ai_agents_to_work_beyond_code_with_openai_models",
+    "date": "2026-10-14",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/amp-beyond-coding"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-openai-amp_puts_ai_agents_to_work_beyond_code_with_openai_models.yaml"
+  },
+  {
+    "id": "2026-10-14-openai-how_block_is_building_ai_powered_security_with_openai_technology",
+    "date": "2026-10-14",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/block-ai-powered-security"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-openai-how_block_is_building_ai_powered_security_with_openai_technology.yaml"
+  },
+  {
+    "id": "2026-10-14-openai-how_third_moment_research_runs_10_000_agents_for_36_hours",
+    "date": "2026-10-14",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/third-moment-research"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-openai-how_third_moment_research_runs_10_000_agents_for_36_hours.yaml"
+  },
+  {
+    "id": "2026-10-14-openai-sentinelone_cuts_malware_analysis_from_weeks_to_hours",
+    "date": "2026-10-14",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/sentinelone"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-openai-sentinelone_cuts_malware_analysis_from_weeks_to_hours.yaml"
+  },
+  {
+    "id": "2026-10-14-openai-the_eu_s_next_chapter_in_ai_is_agentic",
+    "date": "2026-10-14",
+    "title": "The EU’s next chapter in AI is agentic",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-14-openai-the_eu_s_next_chapter_in_ai_is_agentic.yaml"
+  },
+  {
+    "id": "2026-10-15-anthropic-oct_15_2026_announcements_an_update_on_independent_evaluators",
+    "date": "2026-10-15",
+    "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "anthropic",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-anthropic-oct_15_2026_announcements_an_update_on_independent_evaluators.yaml"
+  },
+  {
+    "id": "2026-10-15-deepmind-accelerating_the_search_for_antimicrobial_peptides_with_google_antigravi",
+    "date": "2026-10-15",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-deepmind-accelerating_the_search_for_antimicrobial_peptides_with_google_antigravi.yaml"
+  },
+  {
+    "id": "2026-10-15-huggingface-apertus_1_5_release_notes",
+    "date": "2026-10-15",
+    "title": "Apertus 1.5 Release Notes",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-huggingface-apertus_1_5_release_notes.yaml"
+  },
+  {
+    "id": "2026-10-15-huggingface-granite_switch_4_1_chat_decisions_and_speech_from_one_endpoint",
+    "date": "2026-10-15",
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-huggingface-granite_switch_4_1_chat_decisions_and_speech_from_one_endpoint.yaml"
+  },
+  {
+    "id": "2026-10-15-huggingface-welcome_flux_3_image_klein_in_diffusers",
+    "date": "2026-10-15",
+    "title": "Welcome FLUX.3 Image Klein in Diffusers",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/flux-3"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-huggingface-welcome_flux_3_image_klein_in_diffusers.yaml"
+  },
+  {
+    "id": "2026-10-15-huggingface-welcome_muse_spark_open_open_weight_frontier_multimodal_mixture_of_exper",
+    "date": "2026-10-15",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/meta-muse-spark-open"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-huggingface-welcome_muse_spark_open_open_weight_frontier_multimodal_mixture_of_exper.yaml"
+  },
+  {
+    "id": "2026-10-15-openai-bringing_gpt_rosalind_to_academic_research_labs",
+    "date": "2026-10-15",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-openai-bringing_gpt_rosalind_to_academic_research_labs.yaml"
+  },
+  {
+    "id": "2026-10-15-openai-sullivan_cromwell_brings_legal_expertise_into_agreement_review",
+    "date": "2026-10-15",
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/sullivan-cromwell"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-openai-sullivan_cromwell_brings_legal_expertise_into_agreement_review.yaml"
+  },
+  {
+    "id": "2026-10-15-openai-teaching_students_to_think_and_learn_through_questions",
+    "date": "2026-10-15",
+    "title": "Teaching students to think and learn through questions",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-15-openai-teaching_students_to_think_and_learn_through_questions.yaml"
+  },
+  {
+    "id": "2026-10-16-huggingface-scaling_indic_pretraining_2_8_trillion_tokens_and_an_open_data_generatio",
+    "date": "2026-10-16",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-16-huggingface-scaling_indic_pretraining_2_8_trillion_tokens_and_an_open_data_generatio.yaml"
+  },
+  {
+    "id": "2026-10-16-huggingface-welcome_beam_a_501b_open_model_you_can_own_customize_and_scale",
+    "date": "2026-10-16",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/reflection-beam"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-16-huggingface-welcome_beam_a_501b_open_model_you_can_own_customize_and_scale.yaml"
+  },
+  {
+    "id": "2026-10-16-openai-benefit_street_partners_answers_questions_faster_with_codex",
+    "date": "2026-10-16",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/benefit-street-partners"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-16-openai-benefit_street_partners_answers_questions_faster_with_codex.yaml"
+  },
+  {
+    "id": "2026-10-16-openai-how_ita_is_building_generative_ai_for_its_entire_customer_base",
+    "date": "2026-10-16",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/itau-generative-ai"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-16-openai-how_ita_is_building_generative_ai_for_its_entire_customer_base.yaml"
+  },
+  {
+    "id": "2026-10-16-openai-stack_overflow_for_agents_triples_signups_with_chatgpt_plugin",
+    "date": "2026-10-16",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-16-openai-stack_overflow_for_agents_triples_signups_with_chatgpt_plugin.yaml"
+  },
+  {
+    "id": "2026-10-18-anthropic-oct_18_2026_announcements_investing_in_the_public_benefit",
+    "date": "2026-10-18",
+    "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "anthropic",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/public-benefit-fund"
+      }
+    ],
+    "source_file": "global/2026-10/2026-10-18-anthropic-oct_18_2026_announcements_investing_in_the_public_benefit.yaml"
+  },
+  {
     "id": "2025-07-10-huggingface-asynchronous_robot_inference_decoupling_action_prediction_and_execution",
     "date": "2025-07-10",
     "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
