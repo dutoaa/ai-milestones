@@ -248,6 +248,27 @@
     "source_file": "global/2026-05/2026-05-14-openai-work_with_codex_from_anywhere.yaml"
   },
   {
+    "id": "2026-05-15-deepmind-gemini_3_5_frontier_intelligence_with_action",
+    "date": "2026-05-15",
+    "title": "Gemini 3.5: frontier intelligence with action",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Gemini 3.5 is built to help you execute complex, agentic workflows.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "deepmind",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/"
+      }
+    ],
+    "source_file": "global/2026-05/2026-05-15-deepmind-gemini_3_5_frontier_intelligence_with_action.yaml"
+  },
+  {
     "id": "2026-05-15-openai-a_new_personal_finance_experience_in_chatgpt",
     "date": "2026-05-15",
     "title": "A new personal finance experience in ChatGPT",
@@ -353,6 +374,27 @@
     "source_file": "global/2026-05/2026-05-15-openai-how_sales_teams_use_codex.yaml"
   },
   {
+    "id": "2026-05-16-deepmind-accelerating_discovery_of_liver_disease_mechanisms",
+    "date": "2026-05-16",
+    "title": "Accelerating discovery of liver disease mechanisms",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/"
+      }
+    ],
+    "source_file": "global/2026-05/2026-05-16-deepmind-accelerating_discovery_of_liver_disease_mechanisms.yaml"
+  },
+  {
     "id": "2026-05-16-deepmind-finding_the_molecular_switches_behind_new_infectious_diseases",
     "date": "2026-05-16",
     "title": "Finding the molecular switches behind new infectious diseases",
@@ -372,6 +414,27 @@
       }
     ],
     "source_file": "global/2026-05/2026-05-16-deepmind-finding_the_molecular_switches_behind_new_infectious_diseases.yaml"
+  },
+  {
+    "id": "2026-05-16-deepmind-how_weathernext_helped_the_national_hurricane_center_better_predict_hurr",
+    "date": "2026-05-16",
+    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of  the historic Hurricane Melissa.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/"
+      }
+    ],
+    "source_file": "global/2026-05/2026-05-16-deepmind-how_weathernext_helped_the_national_hurricane_center_better_predict_hurr.yaml"
   },
   {
     "id": "2026-05-16-deepmind-opening_new_paths_in_aging_research",
@@ -414,6 +477,48 @@
       }
     ],
     "source_file": "global/2026-05/2026-05-16-deepmind-strengthening_singapore_s_ai_future_a_new_national_partnership.yaml"
+  },
+  {
+    "id": "2026-05-16-deepmind-uncovering_repurposed_medicines_to_fight_liver_fibrosis",
+    "date": "2026-05-16",
+    "title": "Uncovering repurposed medicines to fight liver fibrosis",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/"
+      }
+    ],
+    "source_file": "global/2026-05/2026-05-16-deepmind-uncovering_repurposed_medicines_to_fight_liver_fibrosis.yaml"
+  },
+  {
+    "id": "2026-05-16-deepmind-uniting_biological_toolkits_for_a_new_approach_to_als",
+    "date": "2026-05-16",
+    "title": "Uniting biological toolkits for a new approach to ALS",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/"
+      }
+    ],
+    "source_file": "global/2026-05/2026-05-16-deepmind-uniting_biological_toolkits_for_a_new_approach_to_als.yaml"
   },
   {
     "id": "2026-05-16-openai-openai_and_malta_partner_to_bring_chatgpt_plus_to_all_citizens",
@@ -4992,6 +5097,27 @@
       }
     ],
     "source_file": "global/2026-09/2026-09-28-huggingface-holo4_powering_generalist_computer_use_agents.yaml"
+  },
+  {
+    "id": "2026-09-28-huggingface-welcome_rl_environments_to_the_hub",
+    "date": "2026-09-28",
+    "title": "Welcome RL Environments to the hub",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/rl-environments"
+      }
+    ],
+    "source_file": "global/2026-09/2026-09-28-huggingface-welcome_rl_environments_to_the_hub.yaml"
   },
   {
     "id": "2026-09-28-openai-are_you_a_codex_original",
@@ -11063,6 +11189,27 @@
     "source_file": "global/2026-11/2026-11-06-openai-partnering_with_hacktron_to_find_vulnerabilities_in_openai_s_systems.yaml"
   },
   {
+    "id": "2026-11-09-anthropic-announcements",
+    "date": "2026-11-09",
+    "title": "Announcements",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "anthropic",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/announcements"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-09-anthropic-announcements.yaml"
+  },
+  {
     "id": "2026-11-09-huggingface-nemotron_personas_finance_japan_a_synthetic_dataset_capturing_japan_s_de",
     "date": "2026-11-09",
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
@@ -11103,6 +11250,993 @@
       }
     ],
     "source_file": "global/2026-11/2026-11-09-huggingface-your_experts_have_partners_there_s_hope_for_keeping_them_together.yaml"
+  },
+  {
+    "id": "2026-11-09-microsoft_ai-introducing_frontier_accelerate_one_microsoft_path_to_expertise_investme",
+    "date": "2026-11-09",
+    "title": "Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Frontier Accelerate brings Microsoft expertise, investments, and skilling together in one package to help you scale AI with confidence.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills/\">Introducing Frontier Accelerate: One Microsoft path to expertise, investments, and skills </a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+    "category": "Funding/M&A",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "funding_m_a"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/11/09/introducing-frontier-accelerate-one-microsoft-path-to-expertise-investments-and-skills/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-09-microsoft_ai-introducing_frontier_accelerate_one_microsoft_path_to_expertise_investme.yaml"
+  },
+  {
+    "id": "2026-11-09-openai-chatgpt_enterprise_now_available_in_aws_marketplace",
+    "date": "2026-11-09",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-09-openai-chatgpt_enterprise_now_available_in_aws_marketplace.yaml"
+  },
+  {
+    "id": "2026-11-09-openai-coderabbit_scales_agentic_software_development_and_ships_20x_more",
+    "date": "2026-11-09",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/coderabbit-codex-daybreak"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-09-openai-coderabbit_scales_agentic_software_development_and_ships_20x_more.yaml"
+  },
+  {
+    "id": "2026-11-09-openai-control_room_a_central_system_to_track_and_stop_model_workloads_across_o",
+    "date": "2026-11-09",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/control-room"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-09-openai-control_room_a_central_system_to_track_and_stop_model_workloads_across_o.yaml"
+  },
+  {
+    "id": "2026-11-09-openai-kuken_industries_searches_70_years_of_drawings_in_minutes",
+    "date": "2026-11-09",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/kuken"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-09-openai-kuken_industries_searches_70_years_of_drawings_in_minutes.yaml"
+  },
+  {
+    "id": "2026-11-10-anthropic-anthropic_launches_roadshow_for_proposed_initial_public_offering",
+    "date": "2026-11-10",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "status": "completed",
+    "owner": "anthropic",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "anthropic",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "anthropic source",
+        "url": "https://www.anthropic.com/news/roadshow-launch"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-anthropic-anthropic_launches_roadshow_for_proposed_initial_public_offering.yaml"
+  },
+  {
+    "id": "2026-11-10-deepmind-gemini_4_carbon_is_now_available",
+    "date": "2026-11-10",
+    "title": "Gemini 4 Carbon is now available",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-deepmind-gemini_4_carbon_is_now_available.yaml"
+  },
+  {
+    "id": "2026-11-10-deepmind-introducing_alphaproof_code_a_breakthrough_in_verifying_complex_software",
+    "date": "2026-11-10",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-deepmind-introducing_alphaproof_code_a_breakthrough_in_verifying_complex_software.yaml"
+  },
+  {
+    "id": "2026-11-10-google_ai-gemini_intelligence_new_features_on_more_devices",
+    "date": "2026-11-10",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-google_ai-gemini_intelligence_new_features_on_more_devices.yaml"
+  },
+  {
+    "id": "2026-11-10-google_ai-google_cloud_launches_gemini_for_healthcare",
+    "date": "2026-11-10",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp\" />Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-google_ai-google_cloud_launches_gemini_for_healthcare.yaml"
+  },
+  {
+    "id": "2026-11-10-google_ai-we_re_bringing_adobe_s_creative_and_productivity_tools_closer_to_your_ev",
+    "date": "2026-11-10",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp\" />Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-google_ai-we_re_bringing_adobe_s_creative_and_productivity_tools_closer_to_your_ev.yaml"
+  },
+  {
+    "id": "2026-11-10-openai-closing_the_ai_guidance_gap_in_education",
+    "date": "2026-11-10",
+    "title": "Closing the AI guidance gap in education",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-openai-closing_the_ai_guidance_gap_in_education.yaml"
+  },
+  {
+    "id": "2026-11-10-openai-helping_caregivers_use_ai_in_everyday_life",
+    "date": "2026-11-10",
+    "title": "Helping caregivers use AI in everyday life",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-openai-helping_caregivers_use_ai_in_everyday_life.yaml"
+  },
+  {
+    "id": "2026-11-10-openai-introducing_businesses_in_chatgpt",
+    "date": "2026-11-10",
+    "title": "Introducing Businesses in ChatGPT",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-openai-introducing_businesses_in_chatgpt.yaml"
+  },
+  {
+    "id": "2026-11-10-openai-singapore_airlines_elevates_travel_work_with_openai_technology",
+    "date": "2026-11-10",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/singapore-airlines-travel-work"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-openai-singapore_airlines_elevates_travel_work_with_openai_technology.yaml"
+  },
+  {
+    "id": "2026-11-10-openai-work_at_the_frontier_ai_s_effect_on_freelance_work",
+    "date": "2026-11-10",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-10-openai-work_at_the_frontier_ai_s_effect_on_freelance_work.yaml"
+  },
+  {
+    "id": "2026-11-11-deepmind-alphagenome_2_deciphering_how_cells_read_dna_to_better_understand_diseas",
+    "date": "2026-11-11",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-deepmind-alphagenome_2_deciphering_how_cells_read_dna_to_better_understand_diseas.yaml"
+  },
+  {
+    "id": "2026-11-11-google_ai-experience_the_art_and_legacy_of_dr_esther_mahlangu",
+    "date": "2026-11-11",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-google_ai-experience_the_art_and_legacy_of_dr_esther_mahlangu.yaml"
+  },
+  {
+    "id": "2026-11-11-google_ai-gemini_decisions_api_fast_calibrated_multimodal_decisions",
+    "date": "2026-11-11",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-google_ai-gemini_decisions_api_fast_calibrated_multimodal_decisions.yaml"
+  },
+  {
+    "id": "2026-11-11-google_ai-try_tabletop_customizable_collaborative_spaces_for_groups_to_plan_play_a",
+    "date": "2026-11-11",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp\" />Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-google_ai-try_tabletop_customizable_collaborative_spaces_for_groups_to_plan_play_a.yaml"
+  },
+  {
+    "id": "2026-11-11-huggingface-botpsy_on_device_personal_assistant_with_a_sub_billion_parameter_agentic",
+    "date": "2026-11-11",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/qvac/botpsy"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-huggingface-botpsy_on_device_personal_assistant_with_a_sub_billion_parameter_agentic.yaml"
+  },
+  {
+    "id": "2026-11-11-huggingface-token_pooling_aware_training_for_multi_vector_embedding_models",
+    "date": "2026-11-11",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Hardware/Infra",
+    "tags": [
+      "global",
+      "huggingface",
+      "hardware_infra"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/token-pooling"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-huggingface-token_pooling_aware_training_for_multi_vector_embedding_models.yaml"
+  },
+  {
+    "id": "2026-11-11-openai-chatgpt_plus_for_veterans_and_servicemembers",
+    "date": "2026-11-11",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-openai-chatgpt_plus_for_veterans_and_servicemembers.yaml"
+  },
+  {
+    "id": "2026-11-11-openai-jiostar_s_chief_architect_on_ai_discovery_at_500m_user_scale",
+    "date": "2026-11-11",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-11-openai-jiostar_s_chief_architect_on_ai_discovery_at_500m_user_scale.yaml"
+  },
+  {
+    "id": "2026-11-12-deepmind-introducing_gemini_4_hydrogen",
+    "date": "2026-11-12",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "status": "completed",
+    "owner": "deepmind",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "deepmind",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "deepmind source",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-deepmind-introducing_gemini_4_hydrogen.yaml"
+  },
+  {
+    "id": "2026-11-12-google_ai-google_search_gets_a_major_upgrade_with_gemini_4_hydrogen",
+    "date": "2026-11-12",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-google_ai-google_search_gets_a_major_upgrade_with_gemini_4_hydrogen.yaml"
+  },
+  {
+    "id": "2026-11-12-huggingface-llmon_an_llm_native_markup_language_now_in_granite_4_1_3b_and_8b",
+    "date": "2026-11-12",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-huggingface-llmon_an_llm_native_markup_language_now_in_granite_4_1_3b_and_8b.yaml"
+  },
+  {
+    "id": "2026-11-12-huggingface-the_definitive_fine_tuning_guide_for_3d_generation_models",
+    "date": "2026-11-12",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "huggingface",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/3d-lora-finetuning"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-huggingface-the_definitive_fine_tuning_guide_for_3d_generation_models.yaml"
+  },
+  {
+    "id": "2026-11-12-microsoft_ai-from_ai_ambition_to_business_impact",
+    "date": "2026-11-12",
+    "title": "From AI ambition to business impact",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/\">From AI ambition to business impact</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-microsoft_ai-from_ai_ambition_to_business_impact.yaml"
+  },
+  {
+    "id": "2026-11-12-microsoft_ai-scaling_ai_value_without_losing_control_lessons_from_frontier_firms",
+    "date": "2026-11-12",
+    "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+    "status": "completed",
+    "owner": "microsoft_ai",
+    "notes": "<p>Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales.</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/\">Scaling AI value without losing control: Lessons from Frontier Firms</a> appeared first on <a href=\"https://www.microsoft.com/en-us/microsoft-cloud/blog\">The Microsoft Cloud Blog</a>.</p>",
+    "category": "Model",
+    "tags": [
+      "global",
+      "microsoft_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "microsoft_ai source",
+        "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-microsoft_ai-scaling_ai_value_without_losing_control_lessons_from_frontier_firms.yaml"
+  },
+  {
+    "id": "2026-11-12-openai-gilbert_tobin_rethinks_the_business_of_law_with_ai",
+    "date": "2026-11-12",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "category": "Policy",
+    "tags": [
+      "global",
+      "openai",
+      "policy"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-openai-gilbert_tobin_rethinks_the_business_of_law_with_ai.yaml"
+  },
+  {
+    "id": "2026-11-12-openai-gondola_doubles_revenue_as_its_team_builds_more_with_codex",
+    "date": "2026-11-12",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/business/customer-stories/gondola"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-openai-gondola_doubles_revenue_as_its_team_builds_more_with_codex.yaml"
+  },
+  {
+    "id": "2026-11-12-openai-holiday_extras_is_rethinking_what_it_can_build_with_codex",
+    "date": "2026-11-12",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-openai-holiday_extras_is_rethinking_what_it_can_build_with_codex.yaml"
+  },
+  {
+    "id": "2026-11-12-openai-how_amplitude_ships_product_improvements_in_1_2_days_with_openai",
+    "date": "2026-11-12",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/business/customer-stories/amplitude"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-openai-how_amplitude_ships_product_improvements_in_1_2_days_with_openai.yaml"
+  },
+  {
+    "id": "2026-11-12-openai-supporting_research_on_ai_and_children_s_safety",
+    "date": "2026-11-12",
+    "title": "Supporting research on AI and children’s safety",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "category": "Evaluation",
+    "tags": [
+      "global",
+      "openai",
+      "evaluation"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/children-first-declaration"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-12-openai-supporting_research_on_ai_and_children_s_safety.yaml"
+  },
+  {
+    "id": "2026-11-13-huggingface-build_a_robot_pick_and_place_simulation_with_simready_assets",
+    "date": "2026-11-13",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-13-huggingface-build_a_robot_pick_and_place_simulation_with_simready_assets.yaml"
+  },
+  {
+    "id": "2026-11-13-huggingface-llama_cpp_v1_0_0_a_stronger_foundation_for_the_local_ai_ecosystem",
+    "date": "2026-11-13",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-13-huggingface-llama_cpp_v1_0_0_a_stronger_foundation_for_the_local_ai_ecosystem.yaml"
+  },
+  {
+    "id": "2026-11-13-huggingface-xybench_helping_with_the_problem_behind_the_question",
+    "date": "2026-11-13",
+    "title": "XYBench: Helping with the problem behind the question",
+    "status": "completed",
+    "owner": "huggingface",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "huggingface",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "huggingface source",
+        "url": "https://huggingface.co/blog/allenai/xybench"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-13-huggingface-xybench_helping_with_the_problem_behind_the_question.yaml"
+  },
+  {
+    "id": "2026-11-13-openai-introducing_chatgpt_wallet",
+    "date": "2026-11-13",
+    "title": "Introducing ChatGPT Wallet",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-13-openai-introducing_chatgpt_wallet.yaml"
+  },
+  {
+    "id": "2026-11-13-openai-shield_helps_technicians_hand_off_legacy_portal_work_with_openai",
+    "date": "2026-11-13",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/business/customer-stories/shield"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-13-openai-shield_helps_technicians_hand_off_legacy_portal_work_with_openai.yaml"
+  },
+  {
+    "id": "2026-11-15-openai-a_step_toward_defining_the_standard_model_on_a_lattice",
+    "date": "2026-11-15",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-15-openai-a_step_toward_defining_the_standard_model_on_a_lattice.yaml"
+  },
+  {
+    "id": "2026-11-15-openai-our_new_blog_for_science",
+    "date": "2026-11-15",
+    "title": "Our new blog for science",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/our-new-blog-for-science"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-15-openai-our_new_blog_for_science.yaml"
+  },
+  {
+    "id": "2026-11-16-google_ai-new_ask_maps_features_to_help_with_holiday_travel_and_prep",
+    "date": "2026-11-16",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "status": "completed",
+    "owner": "google_ai",
+    "notes": "tbd",
+    "category": "Model",
+    "tags": [
+      "global",
+      "google_ai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "google_ai source",
+        "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-16-google_ai-new_ask_maps_features_to_help_with_holiday_travel_and_prep.yaml"
+  },
+  {
+    "id": "2026-11-16-openai-advancing_computer_use_agents_for_healthcare_teams",
+    "date": "2026-11-16",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "See source link.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-16-openai-advancing_computer_use_agents_for_healthcare_teams.yaml"
+  },
+  {
+    "id": "2026-11-16-openai-lvmh_s_media_division_announces_strategic_partnership_with_openai",
+    "date": "2026-11-16",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/lvmh-media-division-partnership"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-16-openai-lvmh_s_media_division_announces_strategic_partnership_with_openai.yaml"
+  },
+  {
+    "id": "2026-11-16-openai-more_ways_to_move_care_forward_with_chatgpt_for_healthcare",
+    "date": "2026-11-16",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "category": "Industry",
+    "tags": [
+      "global",
+      "openai",
+      "industry"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-16-openai-more_ways_to_move_care_forward_with_chatgpt_for_healthcare.yaml"
+  },
+  {
+    "id": "2026-11-16-openai-the_king_s_trust_and_openai_launch_1m_partnership",
+    "date": "2026-11-16",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "status": "completed",
+    "owner": "openai",
+    "notes": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "category": "Model",
+    "tags": [
+      "global",
+      "openai",
+      "model"
+    ],
+    "links": [
+      {
+        "title": "openai source",
+        "url": "https://openai.com/index/the-kings-trust-and-openai"
+      }
+    ],
+    "source_file": "global/2026-11/2026-11-16-openai-the_king_s_trust_and_openai_launch_1m_partnership.yaml"
   },
   {
     "id": "2026-06-01-anthropic-jun_1_2026_announcements_anthropic_confidentially_submits_draft_s_1_to_t",
